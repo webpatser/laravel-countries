@@ -64,7 +64,7 @@ class Countries {
 	        'sub-region-code');
 	    
 	    if (!is_null($sort) && in_array($sort, $validSorts)){
-	        usort($countries, function($a, $b) use ($sort) {
+	        uasort($countries, function($a, $b) use ($sort) {
 	            if (!isset($a[$sort]) && !isset($b[$sort])){
 	                return 0;
 	            } elseif (!isset($a[$sort])){
