@@ -18,7 +18,6 @@
 	},
 	"autoload" : {
 	    "classmap": [
-            "src/migrations",
             "src/commands"
         ],
 		"psr-0" : {
