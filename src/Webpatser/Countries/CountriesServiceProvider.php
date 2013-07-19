@@ -19,16 +19,42 @@ class CountriesServiceProvider extends ServiceProvider {
 	protected $defer = false;
 
 	/**
-	 * Register the service provider.
+	 * Register everything.
 	 *
 	 * @return void
 	 */
 	public function register()
 	{
-		$this->app['countries'] = $this->app->share(function($app)
-		{
-			return new Countries;
-		});
+	    $this->registerCountries();
+	    $this->registerCommands();
+	}
+
+	/**
+	 * Register the service provider.
+	 *
+	 * @return void
+	 */
+	public function registerCountries()
+	{
+	    $this->app->bind('countries', function($app)
+	    {
+	        return new Countries();
+	    });
+	}
+	
+	/**
+	 * Register the artisan commands.
+	 *
+	 * @return void
+	 */
+	protected function registerCommands()
+	{		    
+	    $this->app['command.countries.migration'] = $this->app->share(function($app)
+	    {
+	        return new MigrationCommand($app);
+	    });
+	    
+	    $this->commands('command.countries.migration');
 	}
 
 	/**
@@ -40,5 +66,4 @@ class CountriesServiceProvider extends ServiceProvider {
 	{
 		return array('countries');
 	}
-
 }

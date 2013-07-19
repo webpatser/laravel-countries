@@ -6,7 +6,7 @@ namespace Webpatser\Countries;
  * CountryList
  *
  */
-class Countries {
+class Countries extends \Eloquent {
 
 	/**
 	 * @var string
