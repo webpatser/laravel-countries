@@ -17,7 +17,7 @@ class Countries {
     /**
      * Constructor.
      *
-     * @param string|null $dataDir Path to the directory containing countries data
+     * @return void
      */
     public function __construct()
     {
@@ -27,11 +27,9 @@ class Countries {
 	/**
 	 * Returns one country
 	 * 
-	 * @param string $country The country
-	 * @param string $locale The locale (default: en)
-	 * @param string $format The format (default: php)
-	 * @param string $source Data source: "icu" or "cldr"
-	 * @return string
+	 * @param string $id The country id
+     *
+	 * @return array
 	 */
 	public function getOne($id)
 	{
@@ -41,13 +39,45 @@ class Countries {
 	/**
 	 * Returns a list of countries
 	 * 
-	 * @param string $locale The locale (default: en)
-	 * @param string $locale The format (default: php)
-	 * @param string $source Data source: "icu" or "cldr"
+	 * @param string sort
+	 * 
 	 * @return array
 	 */
-	public function getList()
+	public function getList($sort = null)
 	{
-		return $this->countries;
+	    //Get the countries list
+	    $countries = $this->countries;
+	    
+	    //Sorting
+	    $validSorts = array(
+	        'capital', 
+	        'citizenship',
+            'country-code',
+	        'currency',
+	        'currency_code',
+	        'currency_sub_unit',
+	        'full_name',
+	        'iso_3166_2',
+	        'iso_3166_3',
+	        'name',
+	        'region-code',
+	        'sub-region-code');
+	    
+	    if (!is_null($sort) && in_array($sort, $validSorts)){
+	        usort($countries, function($a, $b) use ($sort) {
+	            if (!isset($a[$sort]) && !isset($b[$sort])){
+	                return 0;
+	            } elseif (!isset($a[$sort])){
+	                return -1;
+	            } elseif (!isset($b[$sort])){
+	                return 1;
+	            } else {
+	                return strcasecmp($a[$sort], $b[$sort]);
+	            } 
+	        });
+	    }
+	    
+	    //Return the countries
+		return $countries;
 	}
 }
