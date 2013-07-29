@@ -14,6 +14,12 @@ class Countries extends \Eloquent {
 	 */
 	protected $countries;
 
+	/**
+	 * @var string
+	 * The table for the countries in the database, is "countries" by default.
+	 */
+	protected $table = 'countries';
+
     /**
      * Constructor.
      *
