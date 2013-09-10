@@ -30,7 +30,8 @@ class CountriesSeeder extends Seeder {
                 'iso_3166_3' => $country['iso_3166_3'],
                 'name' => $country['name'],
                 'region_code' => $country['region-code'],
-                'sub_region_code' => $country['sub-region-code']
+                'sub_region_code' => $country['sub-region-code'],
+                'eea' => (bool)$country['eea']
             ));
         }
     }

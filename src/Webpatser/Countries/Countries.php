@@ -67,7 +67,8 @@ class Countries extends \Eloquent {
 	        'iso_3166_3',
 	        'name',
 	        'region-code',
-	        'sub-region-code');
+	        'sub-region-code',
+	        'eea');
 	    
 	    if (!is_null($sort) && in_array($sort, $validSorts)){
 	        uasort($countries, function($a, $b) use ($sort) {
