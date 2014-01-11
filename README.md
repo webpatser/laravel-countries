@@ -33,7 +33,7 @@ Next generate the migration file:
 
     $ php artisan countries:migration
     
-It will generate the `<timestamp>_setup_countries_table.php` migration and the CountriesSeeder.php files. To make sure the data is seeded insert the following code in the seeds/DatabaseSeeder.php
+It will generate the `<timestamp>_setup_countries_table.php` migration and the `CountriesSeeder.php` seeder. To make sure the data is seeded insert the following code in the `seeds/DatabaseSeeder.php`
 
     //Seed the countries
     $this->call('CountriesSeeder');
