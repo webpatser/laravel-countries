@@ -18,7 +18,7 @@ class Countries extends \Eloquent {
 	 * @var string
 	 * The table for the countries in the database, is "countries" by default.
 	 */
-	protected $table = 'countries';
+	protected $table;
 
     /**
      * Constructor.
@@ -28,6 +28,7 @@ class Countries extends \Eloquent {
     public function __construct()
     {
        $this->countries = json_decode(file_get_contents(__DIR__ . '/Models/countries.json'), true);
+       $this->table = \Config::get('laravel-countries::table_name');
     }
 
 	/**

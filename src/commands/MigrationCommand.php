@@ -52,6 +52,12 @@ class MigrationCommand extends Command {
             $this->info( "Creating migration and seeder..." );
             if( $this->createMigration( 'countries' ) )
             {
+                $this->line('');
+                
+                $this->call('dump-autoload', array());
+                
+                $this->line('');
+                
                 $this->info( "Migration successfully created!" );
             }
             else{
@@ -62,7 +68,6 @@ class MigrationCommand extends Command {
             }
 
             $this->line('');
-
         }
     }
 

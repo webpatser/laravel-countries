@@ -21,15 +21,19 @@ Now add the alias.
     'aliases' => array(
         'Countries' => 'Webpatser\Countries\CountriesFacade',
     )
-
     
+
 ## Model
 
-Generate the migration file:
+You can start by publishing the configuration. This is an optional step, it contains the table name and does not need to be altered. If the default name `countries` suits you, leave it. Otherwise run the following command
+
+    $ php artisan config:publish webpatser/laravel-countries
+
+Next generate the migration file:
 
     $ php artisan countries:migration
     
-It will generate the <timestamp>_setup_countries_table.php migration and the CountriesSeeder.php files. To make sure the data is seeded insert the following code in the seeds/DatabaseSeeder.php
+It will generate the `<timestamp>_setup_countries_table.php` migration and the CountriesSeeder.php files. To make sure the data is seeded insert the following code in the seeds/DatabaseSeeder.php
 
     //Seed the countries
     $this->call('CountriesSeeder');

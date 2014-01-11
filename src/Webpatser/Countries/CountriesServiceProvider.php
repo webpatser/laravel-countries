@@ -18,6 +18,16 @@ class CountriesServiceProvider extends ServiceProvider {
 	 */
 	protected $defer = false;
 
+        /**
+        * Bootstrap the application.
+        *
+        * @return void
+        */
+        public function boot()
+        {
+            $this->package('webpatser/laravel-countries');
+        }        
+        
 	/**
 	 * Register everything.
 	 *
