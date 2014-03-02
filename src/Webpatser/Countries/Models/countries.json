@@ -2307,6 +2307,9 @@
    "535":{
       "citizenship":"of Bonaire, Sint Eustatius and Saba",
       "country-code":"535",
+      "currency":"US dollar",
+      "currency_code":"USD",
+      "currency_sub_unit":"cent",
       "iso_3166_2":"BQ",
       "iso_3166_3":"BES",
       "name":"Bonaire, Sint Eustatius and Saba",
