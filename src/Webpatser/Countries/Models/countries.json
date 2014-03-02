@@ -3125,8 +3125,13 @@
       "eea":true
    },
    "728":{
+      "capital":"Juba",
       "citizenship":"South Sudanese",
       "country-code":"728",
+      "currency":"South Sudanese pound",
+      "currency_code":"SSP",
+      "currency_sub_unit":"piaster",
+      "full_name":"Republic of South Sudan",
       "iso_3166_2":"SS",
       "iso_3166_3":"SSD",
       "name":"South Sudan",
