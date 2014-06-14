@@ -27,8 +27,23 @@ class Countries extends \Eloquent {
      */
     public function __construct()
     {
-       $this->countries = json_decode(file_get_contents(__DIR__ . '/Models/countries.json'), true);
        $this->table = \Config::get('laravel-countries::table_name');
+    }
+
+    /**
+     * Get the countries from the JSON file, if it hasn't already been loaded.
+     *
+     * @return array
+     */
+    protected function getCountries()
+    {
+        //Get the countries from the JSON file
+        if (sizeof($this->countries) == 0){
+            $this->countries = json_decode(file_get_contents(__DIR__ . '/Models/countries.json'), true);
+        }
+
+        //Return the countries
+        return $this->countries;
     }
 
 	/**
@@ -40,7 +55,8 @@ class Countries extends \Eloquent {
 	 */
 	public function getOne($id)
 	{
-		return $this->countries[$id];
+        $countries = $this->getCountries();
+		return $countries[$id];
 	}
 
 	/**
@@ -53,7 +69,7 @@ class Countries extends \Eloquent {
 	public function getList($sort = null)
 	{
 	    //Get the countries list
-	    $countries = $this->countries;
+	    $countries = $this->getCountries();
 	    
 	    //Sorting
 	    $validSorts = array(
