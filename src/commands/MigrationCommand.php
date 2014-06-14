@@ -92,7 +92,7 @@ class MigrationCommand extends Command {
         //Create the migration
         $app = app();
         $migration_file = $this->laravel->path."/database/migrations/".date('Y_m_d_His')."_setup_countries_table.php";
-        $output = $app['view']->make('countries::generators.migration')->with('table', 'countries')->render();
+        $output = "<?php\n\n" .$app['view']->make('countries::generators.migration')->with('table', 'countries')->render();
 
         if( ! file_exists( $migration_file ) )
         {
@@ -115,7 +115,7 @@ class MigrationCommand extends Command {
         
         //Create the seeder
         $seeder_file = $this->laravel->path."/database/seeds/CountriesSeeder.php";
-        $output = $app['view']->make('countries::generators.seeder')->render();
+        $output = "<?php\n\n" .$app['view']->make('countries::generators.seeder')->render();
         
         if( ! file_exists( $seeder_file ) )
         {
