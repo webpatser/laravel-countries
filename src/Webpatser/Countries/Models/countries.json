@@ -811,7 +811,7 @@
    },
    "191":{
       "capital":"Zagreb",
-      "citizenship":"Croat",
+      "citizenship":"Croatian",
       "country-code":"191",
       "currency":"kuna (inv.)",
       "currency_code":"HRK",
@@ -886,7 +886,7 @@
    },
    "208":{
       "capital":"Copenhagen",
-      "citizenship":"Dane",
+      "citizenship":"Danish",
       "country-code":"208",
       "currency":"Danish krone",
       "currency_code":"DKK",
@@ -946,7 +946,7 @@
    },
    "222":{
       "capital":"San Salvador",
-      "citizenship":"Salvadorian; Salvadoran",
+      "citizenship":"Salvadoran",
       "country-code":"222",
       "currency":"Salvadorian col\u00f3n (pl. colones)",
       "currency_code":"SVC",
@@ -1081,7 +1081,7 @@
    },
    "246":{
       "capital":"Helsinki",
-      "citizenship":"Finn",
+      "citizenship":"Finnish",
       "country-code":"246",
       "currency":"euro",
       "currency_code":"EUR",
@@ -1111,7 +1111,7 @@
    },
    "250":{
       "capital":"Paris",
-      "citizenship":"Frenchman; Frenchwoman",
+      "citizenship":"French",
       "country-code":"250",
       "currency":"euro",
       "currency_code":"EUR",
@@ -1586,7 +1586,7 @@
    },
    "372":{
       "capital":"Dublin",
-      "citizenship":"Irishman; Irishwoman",
+      "citizenship":"Irish",
       "country-code":"372",
       "currency":"euro",
       "currency_code":"EUR",
@@ -2634,7 +2634,7 @@
    },
    "616":{
       "capital":"Warsaw",
-      "citizenship":"Pole",
+      "citizenship":"Polish",
       "country-code":"616",
       "currency":"zloty",
       "currency_code":"PLN",
@@ -3174,7 +3174,7 @@
    },
    "740":{
       "capital":"Paramaribo",
-      "citizenship":"Surinamer",
+      "citizenship":"Surinamese",
       "country-code":"740",
       "currency":"Surinamese dollar",
       "currency_code":"SRD",
@@ -3219,7 +3219,7 @@
    },
    "752":{
       "capital":"Stockholm",
-      "citizenship":"Swede",
+      "citizenship":"Swedish",
       "country-code":"752",
       "currency":"krona (pl. kronor)",
       "currency_code":"SEK",
@@ -3504,7 +3504,7 @@
    },
    "826":{
       "capital":"London",
-      "citizenship":"Briton",
+      "citizenship":"British",
       "country-code":"826",
       "currency":"pound sterling",
       "currency_code":"GBP",
