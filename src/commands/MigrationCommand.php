@@ -91,10 +91,10 @@ class MigrationCommand extends Command {
     {
         //Create the migration
         $app = app();
-        $migrationFiles = [
+        $migrationFiles = array(
             $this->laravel->path."/database/migrations/*_setup_countries_table.php" => 'countries::generators.migration',
             $this->laravel->path."/database/migrations/*_charify_countries_table.php" => 'countries::generators.char_migration'
-        ];
+        );
 
         foreach ($migrationFiles as $migrationFile => $outputFile) {            
             if (sizeof(glob($migrationFile)) == 0) {
