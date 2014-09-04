@@ -91,25 +91,25 @@ class MigrationCommand extends Command {
     {
         //Create the migration
         $app = app();
-        $migration_file = $this->laravel->path."/database/migrations/".date('Y_m_d_His')."_setup_countries_table.php";
-        $output = "<?php\n\n" .$app['view']->make('countries::generators.migration')->with('table', 'countries')->render();
+        $migrationFiles = [
+            $this->laravel->path."/database/migrations/*_setup_countries_table.php" => 'countries::generators.migration',
+            $this->laravel->path."/database/migrations/*_charify_countries_table.php" => 'countries::generators.char_migration'
+        ];
 
-        if( ! file_exists( $migration_file ) )
-        {
-            $fs = fopen($migration_file, 'x');
-            if ( $fs )
-            {
-                fwrite($fs, $output);
-                fclose($fs);
+        foreach ($migrationFiles as $migrationFile => $outputFile) {            
+            if (sizeof(glob($migrationFile)) == 0) {
+                $migrationFile = str_replace('*', date('Y_m_d_His'), $migrationFile);
+                
+                $fs = fopen($migrationFile, 'x');
+                if ($fs) {
+                    $output = "<?php\n\n" .$app['view']->make($outputFile)->with('table', 'countries')->render();
+                    
+                    fwrite($fs, $output);
+                    fclose($fs);
+                } else {
+                    return false;
+                }
             }
-            else
-            {
-                return false;
-            }
-        }
-        else
-        {
-            return false;
         }
         
         
@@ -117,24 +117,17 @@ class MigrationCommand extends Command {
         $seeder_file = $this->laravel->path."/database/seeds/CountriesSeeder.php";
         $output = "<?php\n\n" .$app['view']->make('countries::generators.seeder')->render();
         
-        if( ! file_exists( $seeder_file ) )
-        {
+        if (!file_exists( $seeder_file )) {
             $fs = fopen($seeder_file, 'x');
-            if ( $fs )
-            {
+            if ($fs) {
                 fwrite($fs, $output);
                 fclose($fs);
-                return true;
-            }
-            else
-            {
+            } else {
                 return false;
             }
         }
-        else
-        {
-            return false;
-        }        
+        
+        return true;
     }
 
 }
