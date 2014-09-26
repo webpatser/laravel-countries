@@ -96,9 +96,11 @@ class MigrationCommand extends Command {
             $this->laravel->path."/database/migrations/*_charify_countries_table.php" => 'countries::generators.char_migration'
         );
 
+        $seconds = 0;
+
         foreach ($migrationFiles as $migrationFile => $outputFile) {            
             if (sizeof(glob($migrationFile)) == 0) {
-                $migrationFile = str_replace('*', date('Y_m_d_His'), $migrationFile);
+                $migrationFile = str_replace('*', date('Y_m_d_His', strtotime('+' . $seconds . ' seconds')), $migrationFile);
                 
                 $fs = fopen($migrationFile, 'x');
                 if ($fs) {
