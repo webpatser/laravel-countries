@@ -111,6 +111,8 @@ class MigrationCommand extends Command {
                 } else {
                     return false;
                 }
+
+                $seconds++;
             }
         }
         
