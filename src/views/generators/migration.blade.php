@@ -26,7 +26,7 @@ class SetupCountriesTable extends Migration {
 		    $table->string('region_code', 3)->default('');
 		    $table->string('sub_region_code', 3)->default('');
 		    $table->boolean('eea')->default(0);
-            $table->string('calling_code', 3)->nullable();
+		    $table->string('calling_code', 3)->nullable();
 		    
 		    $table->primary('id');
 		});
