@@ -75,7 +75,7 @@ class Countries extends \Eloquent {
 	    $validSorts = array(
 	        'capital', 
 	        'citizenship',
-            'country-code',
+	        'country-code',
 	        'currency',
 	        'currency_code',
 	        'currency_sub_unit',
@@ -86,7 +86,7 @@ class Countries extends \Eloquent {
 	        'region-code',
 	        'sub-region-code',
 	        'eea',
-            'calling_code'
+	        'calling_code'
         );
 	    
 	    if (!is_null($sort) && in_array($sort, $validSorts)){
