@@ -2,11 +2,13 @@
 
 namespace Webpatser\Countries;
 
+use Illuminate\Database\Eloquent\Model;
+
 /**
  * CountryList
  *
  */
-class Countries extends \Eloquent {
+class Countries extends Model {
 
 	/**
 	 * @var string
@@ -27,7 +29,7 @@ class Countries extends \Eloquent {
      */
     public function __construct()
     {
-       $this->table = \Config::get('laravel-countries::table_name');
+       $this->table = \Config::get('countries.table_name');
     }
 
     /**
