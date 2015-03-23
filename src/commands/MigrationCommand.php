@@ -54,7 +54,7 @@ class MigrationCommand extends Command {
             {
                 $this->line('');
                 
-                $this->call('dump-autoload', array());
+                $this->call('optimize', array());
                 
                 $this->line('');
                 
@@ -92,8 +92,8 @@ class MigrationCommand extends Command {
         //Create the migration
         $app = app();
         $migrationFiles = array(
-            $this->laravel->path."/database/migrations/*_setup_countries_table.php" => 'countries::generators.migration',
-            $this->laravel->path."/database/migrations/*_charify_countries_table.php" => 'countries::generators.char_migration'
+            $this->laravel->path."/../database/migrations/*_setup_countries_table.php" => 'countries::generators.migration',
+            $this->laravel->path."/../database/migrations/*_charify_countries_table.php" => 'countries::generators.char_migration'
         );
 
         $seconds = 0;
@@ -118,7 +118,7 @@ class MigrationCommand extends Command {
         
         
         //Create the seeder
-        $seeder_file = $this->laravel->path."/database/seeds/CountriesSeeder.php";
+        $seeder_file = $this->laravel->path."/../database/seeds/CountriesSeeder.php";
         $output = "<?php\n\n" .$app['view']->make('countries::generators.seeder')->render();
         
         if (!file_exists( $seeder_file )) {
