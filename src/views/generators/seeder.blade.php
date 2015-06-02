@@ -31,8 +31,8 @@ class CountriesSeeder extends Seeder {
                 'sub_region_code' => $country['sub-region-code'],
                 'eea' => (bool)$country['eea'],
                 'calling_code' => $country['calling_code'],
-                'currency_symbol' => $country['currency_symbol'],
-                'flag' => $country['flag'],
+                'currency_symbol' => ((isset($country['currency_symbol'])) ? $country['currency_symbol'] : null),
+                'flag' =>((isset($country['flag'])) ? $country['flag'] : null),
             ));
         }
     }
