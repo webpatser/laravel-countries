@@ -88,7 +88,9 @@ class Countries extends Model {
 	        'region-code',
 	        'sub-region-code',
 	        'eea',
-	        'calling_code'
+	        'calling_code',
+	        'currency_symbol',
+	        'flag'
         );
 	    
 	    if (!is_null($sort) && in_array($sort, $validSorts)){
