@@ -21,13 +21,23 @@ Edit `app/config/app.php` and add the `provider` and `filter`
     'providers' => [
         'Webpatser\Countries\CountriesServiceProvider',
     ]
+    
+or for Laravel 5
+
+    'providers' => [
+        Webpatser\Countries\CountriesServiceProvider::class
+    ]
 
 Now add the alias.
 
     'aliases' => [
         'Countries' => 'Webpatser\Countries\CountriesFacade',
     ]
-    
+or for Laravel 5
+
+    'aliases' => [
+        'Countries' => Webpatser\Countries\CountriesServiceProvider::class
+    ]
 
 ## Model
 
