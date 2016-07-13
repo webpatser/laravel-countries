@@ -50,7 +50,7 @@ class Countries extends Model {
 
 	/**
 	 * Returns one country
-	 * 
+	 *
 	 * @param string $id The country id
      *
 	 * @return array
@@ -63,19 +63,19 @@ class Countries extends Model {
 
 	/**
 	 * Returns a list of countries
-	 * 
+	 *
 	 * @param string sort
-	 * 
+	 *
 	 * @return array
 	 */
 	public function getList($sort = null)
 	{
 	    //Get the countries list
 	    $countries = $this->getCountries();
-	    
+
 	    //Sorting
 	    $validSorts = array(
-	        'capital', 
+	        'capital',
 	        'citizenship',
 	        'country-code',
 	        'currency',
@@ -90,9 +90,10 @@ class Countries extends Model {
 	        'eea',
 	        'calling_code',
 	        'currency_symbol',
-	        'flag'
+	        'flag',
+			'continent'
         );
-	    
+
 	    if (!is_null($sort) && in_array($sort, $validSorts)){
 	        uasort($countries, function($a, $b) use ($sort) {
 	            if (!isset($a[$sort]) && !isset($b[$sort])){
@@ -103,10 +104,10 @@ class Countries extends Model {
 	                return 1;
 	            } else {
 	                return strcasecmp($a[$sort], $b[$sort]);
-	            } 
+	            }
 	        });
 	    }
-	    
+
 	    //Return the countries
 		return $countries;
 	}
