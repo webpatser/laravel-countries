@@ -1,4 +1,5 @@
 use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
 
 class AddContinentCountriesTable extends Migration {
 
@@ -10,7 +11,7 @@ class AddContinentCountriesTable extends Migration {
     public function up()
     {
         // Creates the users table
-        Schema::table(\Config::get('countries.table_name'), function($table)
+        Schema::table(\Config::get('countries.table_name'), function(Blueprint $table)
         {
             $table->string('continent', 16)->default('')->after('name');
         });
@@ -23,7 +24,7 @@ class AddContinentCountriesTable extends Migration {
      */
     public function down()
     {
-        Schema::table(\Config::get('countries.table_name'), function($table)
+        Schema::table(\Config::get('countries.table_name'), function(Blueprint $table)
         {
             $table->dropColumn('continent');
         });
