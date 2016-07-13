@@ -29,7 +29,6 @@ class SetupCountriesTable extends Migration {
 		    $table->boolean('eea')->default(0);
 		    $table->string('calling_code', 3)->nullable();
 		    $table->string('flag', 6)->nullable();
-		    $table->string('continent', 16)->default('');
 		    
 		    $table->primary('id');
 		});
