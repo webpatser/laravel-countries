@@ -15,6 +15,7 @@
       "eea":false,
       "calling_code":"93",
       "currency_symbol":"\u060b",
+      "currency_decimals":"2",
       "flag":"AF.png"
    },
    "8":{
@@ -33,6 +34,7 @@
       "eea":false,
       "calling_code":"355",
       "currency_symbol":"Lek",
+      "currency_decimals":"2",
       "flag":"AL.png"
    },
    "10":{
@@ -51,6 +53,7 @@
       "eea":false,
       "calling_code":"672",
       "currency_symbol":"",
+      "currency_decimals":"2",
       "flag":"AQ.png"
    },
    "12":{
@@ -69,6 +72,7 @@
       "eea":false,
       "calling_code":"213",
       "currency_symbol":"DZD",
+      "currency_decimals":"2",
       "flag":"DZ.png"
    },
    "16":{
@@ -87,6 +91,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"AS.png"
    },
    "20":{
@@ -105,6 +110,7 @@
       "eea":false,
       "calling_code":"376",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"AD.png"
    },
    "24":{
@@ -123,6 +129,7 @@
       "eea":false,
       "calling_code":"244",
       "currency_symbol":"Kz",
+      "currency_decimals":"2",
       "flag":"AO.png"
    },
    "28":{
@@ -141,6 +148,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"AG.png"
    },
    "31":{
@@ -159,6 +167,7 @@
       "eea":false,
       "calling_code":"994",
       "currency_symbol":"\u043c\u0430\u043d",
+      "currency_decimals":"2",
       "flag":"AZ.png"
    },
    "32":{
@@ -177,6 +186,7 @@
       "eea":false,
       "calling_code":"54",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"AR.png"
    },
    "36":{
@@ -195,6 +205,7 @@
       "eea":false,
       "calling_code":"61",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"AU.png"
    },
    "40":{
@@ -213,6 +224,7 @@
       "eea":true,
       "calling_code":"43",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"AT.png"
    },
    "44":{
@@ -231,6 +243,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"BS.png"
    },
    "48":{
@@ -249,6 +262,7 @@
       "eea":false,
       "calling_code":"973",
       "currency_symbol":"BHD",
+      "currency_decimals":"3",
       "flag":"BH.png"
    },
    "50":{
@@ -267,6 +281,7 @@
       "eea":false,
       "calling_code":"880",
       "currency_symbol":"BDT",
+      "currency_decimals":"2",
       "flag":"BD.png"
    },
    "51":{
@@ -285,6 +300,7 @@
       "eea":false,
       "calling_code":"374",
       "currency_symbol":"AMD",
+      "currency_decimals":"2",
       "flag":"AM.png"
    },
    "52":{
@@ -303,6 +319,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"BB.png"
    },
    "56":{
@@ -321,6 +338,7 @@
       "eea":true,
       "calling_code":"32",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"BE.png"
    },
    "60":{
@@ -339,6 +357,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"BM.png"
    },
    "64":{
@@ -357,6 +376,7 @@
       "eea":false,
       "calling_code":"975",
       "currency_symbol":"BTN",
+      "currency_decimals":"2",
       "flag":"BT.png"
    },
    "68":{
@@ -375,6 +395,7 @@
       "eea":false,
       "calling_code":"591",
       "currency_symbol":"$b",
+      "currency_decimals":"2",
       "flag":"BO.png"
    },
    "70":{
@@ -393,6 +414,7 @@
       "eea":false,
       "calling_code":"387",
       "currency_symbol":"KM",
+      "currency_decimals":"2",
       "flag":"BA.png"
    },
    "72":{
@@ -411,6 +433,7 @@
       "eea":false,
       "calling_code":"267",
       "currency_symbol":"P",
+      "currency_decimals":"2",
       "flag":"BW.png"
    },
    "74":{
@@ -429,6 +452,7 @@
       "eea":false,
       "calling_code":"47",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"BV.png"
    },
    "76":{
@@ -447,6 +471,7 @@
       "eea":false,
       "calling_code":"55",
       "currency_symbol":"R$",
+      "currency_decimals":"2",
       "flag":"BR.png"
    },
    "84":{
@@ -465,6 +490,7 @@
       "eea":false,
       "calling_code":"501",
       "currency_symbol":"BZ$",
+      "currency_decimals":"2",
       "flag":"BZ.png"
    },
    "86":{
@@ -483,6 +509,7 @@
       "eea":false,
       "calling_code":"246",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"IO.png"
    },
    "90":{
@@ -501,6 +528,7 @@
       "eea":false,
       "calling_code":"677",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"SB.png"
    },
    "92":{
@@ -519,6 +547,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"VG.png"
    },
    "96":{
@@ -537,6 +566,7 @@
       "eea":false,
       "calling_code":"673",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"BN.png"
    },
    "100":{
@@ -555,6 +585,7 @@
       "eea":true,
       "calling_code":"359",
       "currency_symbol":"\u043b\u0432",
+      "currency_decimals":"2",
       "flag":"BG.png"
    },
    "104":{
@@ -573,6 +604,7 @@
       "eea":false,
       "calling_code":"95",
       "currency_symbol":"K",
+      "currency_decimals":"2",
       "flag":"MM.png"
    },
    "108":{
@@ -591,6 +623,7 @@
       "eea":false,
       "calling_code":"257",
       "currency_symbol":"BIF",
+      "currency_decimals":"0",
       "flag":"BI.png"
    },
    "112":{
@@ -609,6 +642,7 @@
       "eea":false,
       "calling_code":"375",
       "currency_symbol":"p.",
+      "currency_decimals":"2",
       "flag":"BY.png"
    },
    "116":{
@@ -627,6 +661,7 @@
       "eea":false,
       "calling_code":"855",
       "currency_symbol":"\u17db",
+      "currency_decimals":"2",
       "flag":"KH.png"
    },
    "120":{
@@ -645,6 +680,7 @@
       "eea":false,
       "calling_code":"237",
       "currency_symbol":"FCF",
+      "currency_decimals":"0",
       "flag":"CM.png"
    },
    "124":{
@@ -663,6 +699,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"CA.png"
    },
    "132":{
@@ -681,6 +718,7 @@
       "eea":false,
       "calling_code":"238",
       "currency_symbol":"CVE",
+      "currency_decimals":"2",
       "flag":"CV.png"
    },
    "136":{
@@ -699,6 +737,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"KY.png"
    },
    "140":{
@@ -716,7 +755,8 @@
       "sub-region-code":"017",
       "eea":false,
       "calling_code":"236",
-      "currency_symbol":"FCF",
+      "currency_symbol":"CFA",
+      "currency_decimals":"0",
       "flag":"CF.png"
    },
    "144":{
@@ -735,6 +775,7 @@
       "eea":false,
       "calling_code":"94",
       "currency_symbol":"\u20a8",
+      "currency_decimals":"2",
       "flag":"LK.png"
    },
    "148":{
@@ -753,6 +794,7 @@
       "eea":false,
       "calling_code":"235",
       "currency_symbol":"XAF",
+      "currency_decimals":"0",
       "flag":"TD.png"
    },
    "152":{
@@ -771,6 +813,7 @@
       "eea":false,
       "calling_code":"56",
       "currency_symbol":"CLP",
+      "currency_decimals":"0",
       "flag":"CL.png"
    },
    "156":{
@@ -789,6 +832,7 @@
       "eea":false,
       "calling_code":"86",
       "currency_symbol":"\u00a5",
+      "currency_decimals":"2",
       "flag":"CN.png"
    },
    "158":{
@@ -807,6 +851,7 @@
       "eea":false,
       "calling_code":"886",
       "currency_symbol":"NT$",
+      "currency_decimals":"2",
       "flag":"TW.png"
    },
    "162":{
@@ -825,6 +870,7 @@
       "eea":false,
       "calling_code":"61",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"CX.png"
    },
    "166":{
@@ -843,6 +889,7 @@
       "eea":false,
       "calling_code":"61",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"CC.png"
    },
    "170":{
@@ -861,6 +908,7 @@
       "eea":false,
       "calling_code":"57",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"CO.png"
    },
    "174":{
@@ -879,6 +927,7 @@
       "eea":false,
       "calling_code":"269",
       "currency_symbol":"KMF",
+      "currency_decimals":"0",
       "flag":"KM.png"
    },
    "175":{
@@ -897,6 +946,7 @@
       "eea":false,
       "calling_code":"262",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"YT.png"
    },
    "178":{
@@ -915,6 +965,7 @@
       "eea":false,
       "calling_code":"242",
       "currency_symbol":"FCF",
+      "currency_decimals":"0",
       "flag":"CG.png"
    },
    "180":{
@@ -933,6 +984,7 @@
       "eea":false,
       "calling_code":"243",
       "currency_symbol":"CDF",
+      "currency_decimals":"2",
       "flag":"CD.png"
    },
    "184":{
@@ -951,6 +1003,7 @@
       "eea":false,
       "calling_code":"682",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"CK.png"
    },
    "188":{
@@ -969,6 +1022,7 @@
       "eea":false,
       "calling_code":"506",
       "currency_symbol":"\u20a1",
+      "currency_decimals":"2",
       "flag":"CR.png"
    },
    "191":{
@@ -987,6 +1041,7 @@
       "eea":true,
       "calling_code":"385",
       "currency_symbol":"kn",
+      "currency_decimals":"2",
       "flag":"HR.png"
    },
    "192":{
@@ -1005,6 +1060,7 @@
       "eea":false,
       "calling_code":"53",
       "currency_symbol":"\u20b1",
+      "currency_decimals":"2",
       "flag":"CU.png"
    },
    "196":{
@@ -1023,6 +1079,7 @@
       "eea":true,
       "calling_code":"357",
       "currency_symbol":"CYP",
+      "currency_decimals":"2",
       "flag":"CY.png"
    },
    "203":{
@@ -1041,6 +1098,7 @@
       "eea":true,
       "calling_code":"420",
       "currency_symbol":"K\u010d",
+      "currency_decimals":"2",
       "flag":"CZ.png"
    },
    "204":{
@@ -1059,6 +1117,7 @@
       "eea":false,
       "calling_code":"229",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"BJ.png"
    },
    "208":{
@@ -1077,6 +1136,7 @@
       "eea":true,
       "calling_code":"45",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"DK.png"
    },
    "212":{
@@ -1095,6 +1155,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"DM.png"
    },
    "214":{
@@ -1113,6 +1174,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"RD$",
+      "currency_decimals":"2",
       "flag":"DO.png"
    },
    "218":{
@@ -1131,6 +1193,7 @@
       "eea":false,
       "calling_code":"593",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"EC.png"
    },
    "222":{
@@ -1149,6 +1212,7 @@
       "eea":false,
       "calling_code":"503",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"SV.png"
    },
    "226":{
@@ -1167,6 +1231,7 @@
       "eea":false,
       "calling_code":"240",
       "currency_symbol":"FCF",
+      "currency_decimals":"2",
       "flag":"GQ.png"
    },
    "231":{
@@ -1185,6 +1250,7 @@
       "eea":false,
       "calling_code":"251",
       "currency_symbol":"ETB",
+      "currency_decimals":"2",
       "flag":"ET.png"
    },
    "232":{
@@ -1203,6 +1269,7 @@
       "eea":false,
       "calling_code":"291",
       "currency_symbol":"Nfk",
+      "currency_decimals":"2",
       "flag":"ER.png"
    },
    "233":{
@@ -1221,6 +1288,7 @@
       "eea":true,
       "calling_code":"372",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"EE.png"
    },
    "234":{
@@ -1239,6 +1307,7 @@
       "eea":false,
       "calling_code":"298",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"FO.png"
    },
    "238":{
@@ -1257,6 +1326,7 @@
       "eea":false,
       "calling_code":"500",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"FK.png"
    },
    "239":{
@@ -1275,6 +1345,7 @@
       "eea":false,
       "calling_code":"44",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"GS.png"
    },
    "242":{
@@ -1293,6 +1364,7 @@
       "eea":false,
       "calling_code":"679",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"FJ.png"
    },
    "246":{
@@ -1311,6 +1383,7 @@
       "eea":true,
       "calling_code":"358",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"FI.png"
    },
    "248":{
@@ -1345,6 +1418,7 @@
       "eea":true,
       "calling_code":"33",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"FR.png"
    },
    "254":{
@@ -1363,6 +1437,7 @@
       "eea":false,
       "calling_code":"594",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"GF.png"
    },
    "258":{
@@ -1381,6 +1456,7 @@
       "eea":false,
       "calling_code":"689",
       "currency_symbol":"XPF",
+      "currency_decimals":"0",
       "flag":"PF.png"
    },
    "260":{
@@ -1399,6 +1475,7 @@
       "eea":false,
       "calling_code":"33",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"TF.png"
    },
    "262":{
@@ -1417,6 +1494,7 @@
       "eea":false,
       "calling_code":"253",
       "currency_symbol":"DJF",
+      "currency_decimals":"0",
       "flag":"DJ.png"
    },
    "266":{
@@ -1435,6 +1513,7 @@
       "eea":false,
       "calling_code":"241",
       "currency_symbol":"FCF",
+      "currency_decimals":"0",
       "flag":"GA.png"
    },
    "268":{
@@ -1453,6 +1532,7 @@
       "eea":false,
       "calling_code":"995",
       "currency_symbol":"GEL",
+      "currency_decimals":"2",
       "flag":"GE.png"
    },
    "270":{
@@ -1471,6 +1551,7 @@
       "eea":false,
       "calling_code":"220",
       "currency_symbol":"D",
+      "currency_decimals":"2",
       "flag":"GM.png"
    },
    "275":{
@@ -1484,6 +1565,7 @@
       "eea":false,
       "calling_code":"970",
       "currency_symbol":"\u20aa",
+      "currency_decimals":"2",
       "flag":"PS.png"
    },
    "276":{
@@ -1502,6 +1584,7 @@
       "eea":true,
       "calling_code":"49",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"DE.png"
    },
    "288":{
@@ -1520,6 +1603,7 @@
       "eea":false,
       "calling_code":"233",
       "currency_symbol":"\u00a2",
+      "currency_decimals":"2",
       "flag":"GH.png"
    },
    "292":{
@@ -1538,6 +1622,7 @@
       "eea":false,
       "calling_code":"350",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"GI.png"
    },
    "296":{
@@ -1556,6 +1641,7 @@
       "eea":false,
       "calling_code":"686",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"KI.png"
    },
    "300":{
@@ -1574,6 +1660,7 @@
       "eea":true,
       "calling_code":"30",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"GR.png"
    },
    "304":{
@@ -1592,6 +1679,7 @@
       "eea":false,
       "calling_code":"299",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"GL.png"
    },
    "308":{
@@ -1610,6 +1698,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"GD.png"
    },
    "312":{
@@ -1628,6 +1717,7 @@
       "eea":false,
       "calling_code":"590",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"GP.png"
    },
    "316":{
@@ -1646,6 +1736,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"GU.png"
    },
    "320":{
@@ -1664,6 +1755,7 @@
       "eea":false,
       "calling_code":"502",
       "currency_symbol":"Q",
+      "currency_decimals":"2",
       "flag":"GT.png"
    },
    "324":{
@@ -1682,6 +1774,7 @@
       "eea":false,
       "calling_code":"224",
       "currency_symbol":"GNF",
+      "currency_decimals":"0",
       "flag":"GN.png"
    },
    "328":{
@@ -1700,6 +1793,7 @@
       "eea":false,
       "calling_code":"592",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"GY.png"
    },
    "332":{
@@ -1718,6 +1812,7 @@
       "eea":false,
       "calling_code":"509",
       "currency_symbol":"G",
+      "currency_decimals":"2",
       "flag":"HT.png"
    },
    "334":{
@@ -1736,6 +1831,7 @@
       "eea":false,
       "calling_code":"61",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"HM.png"
    },
    "336":{
@@ -1754,6 +1850,7 @@
       "eea":false,
       "calling_code":"39",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"VA.png"
    },
    "340":{
@@ -1772,6 +1869,7 @@
       "eea":false,
       "calling_code":"504",
       "currency_symbol":"L",
+      "currency_decimals":"2",
       "flag":"HN.png"
    },
    "344":{
@@ -1790,6 +1888,7 @@
       "eea":false,
       "calling_code":"852",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"HK.png"
    },
    "348":{
@@ -1808,6 +1907,7 @@
       "eea":true,
       "calling_code":"36",
       "currency_symbol":"Ft",
+      "currency_decimals":"2",
       "flag":"HU.png"
    },
    "352":{
@@ -1826,6 +1926,7 @@
       "eea":true,
       "calling_code":"354",
       "currency_symbol":"kr",
+      "currency_decimals":"0",
       "flag":"IS.png"
    },
    "356":{
@@ -1844,6 +1945,7 @@
       "eea":false,
       "calling_code":"91",
       "currency_symbol":"\u20b9",
+      "currency_decimals":"2",
       "flag":"IN.png"
    },
    "360":{
@@ -1862,6 +1964,7 @@
       "eea":false,
       "calling_code":"62",
       "currency_symbol":"Rp",
+      "currency_decimals":"2",
       "flag":"ID.png"
    },
    "364":{
@@ -1880,6 +1983,7 @@
       "eea":false,
       "calling_code":"98",
       "currency_symbol":"\ufdfc",
+      "currency_decimals":"2",
       "flag":"IR.png"
    },
    "368":{
@@ -1898,6 +2002,7 @@
       "eea":false,
       "calling_code":"964",
       "currency_symbol":"IQD",
+      "currency_decimals":"3",
       "flag":"IQ.png"
    },
    "372":{
@@ -1916,6 +2021,7 @@
       "eea":true,
       "calling_code":"353",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"IE.png"
    },
    "376":{
@@ -1934,6 +2040,7 @@
       "eea":false,
       "calling_code":"972",
       "currency_symbol":"\u20aa",
+      "currency_decimals":"2",
       "flag":"IL.png"
    },
    "380":{
@@ -1952,6 +2059,7 @@
       "eea":true,
       "calling_code":"39",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"IT.png"
    },
    "384":{
@@ -1970,6 +2078,7 @@
       "eea":false,
       "calling_code":"225",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"CI.png"
    },
    "388":{
@@ -1988,6 +2097,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"JM.png"
    },
    "392":{
@@ -2006,6 +2116,7 @@
       "eea":false,
       "calling_code":"81",
       "currency_symbol":"\u00a5",
+      "currency_decimals":"0",
       "flag":"JP.png"
    },
    "398":{
@@ -2024,6 +2135,7 @@
       "eea":false,
       "calling_code":"7",
       "currency_symbol":"\u043b\u0432",
+      "currency_decimals":"2",
       "flag":"KZ.png"
    },
    "400":{
@@ -2042,6 +2154,7 @@
       "eea":false,
       "calling_code":"962",
       "currency_symbol":"JOD",
+      "currency_decimals":"2",
       "flag":"JO.png"
    },
    "404":{
@@ -2060,6 +2173,7 @@
       "eea":false,
       "calling_code":"254",
       "currency_symbol":"KES",
+      "currency_decimals":"2",
       "flag":"KE.png"
    },
    "408":{
@@ -2078,6 +2192,7 @@
       "eea":false,
       "calling_code":"850",
       "currency_symbol":"\u20a9",
+      "currency_decimals":"2",
       "flag":"KP.png"
    },
    "410":{
@@ -2096,6 +2211,7 @@
       "eea":false,
       "calling_code":"82",
       "currency_symbol":"\u20a9",
+      "currency_decimals":"0",
       "flag":"KR.png"
    },
    "414":{
@@ -2114,6 +2230,7 @@
       "eea":false,
       "calling_code":"965",
       "currency_symbol":"KWD",
+      "currency_decimals":"3",
       "flag":"KW.png"
    },
    "417":{
@@ -2132,6 +2249,7 @@
       "eea":false,
       "calling_code":"996",
       "currency_symbol":"\u043b\u0432",
+      "currency_decimals":"2",
       "flag":"KG.png"
    },
    "418":{
@@ -2150,6 +2268,7 @@
       "eea":false,
       "calling_code":"856",
       "currency_symbol":"\u20ad",
+      "currency_decimals":"0",
       "flag":"LA.png"
    },
    "422":{
@@ -2168,6 +2287,7 @@
       "eea":false,
       "calling_code":"961",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"LB.png"
    },
    "426":{
@@ -2186,6 +2306,7 @@
       "eea":false,
       "calling_code":"266",
       "currency_symbol":"L",
+      "currency_decimals":"2",
       "flag":"LS.png"
    },
    "428":{
@@ -2204,6 +2325,7 @@
       "eea":true,
       "calling_code":"371",
       "currency_symbol":"Ls",
+      "currency_decimals":"2",
       "flag":"LV.png"
    },
    "430":{
@@ -2222,6 +2344,7 @@
       "eea":false,
       "calling_code":"231",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"LR.png"
    },
    "434":{
@@ -2240,6 +2363,7 @@
       "eea":false,
       "calling_code":"218",
       "currency_symbol":"LYD",
+      "currency_decimals":"3",
       "flag":"LY.png"
    },
    "438":{
@@ -2258,6 +2382,7 @@
       "eea":true,
       "calling_code":"423",
       "currency_symbol":"CHF",
+      "currency_decimals":"2",
       "flag":"LI.png"
    },
    "440":{
@@ -2276,6 +2401,7 @@
       "eea":true,
       "calling_code":"370",
       "currency_symbol":"Lt",
+      "currency_decimals":"2",
       "flag":"LT.png"
    },
    "442":{
@@ -2294,6 +2420,7 @@
       "eea":true,
       "calling_code":"352",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"LU.png"
    },
    "446":{
@@ -2312,6 +2439,7 @@
       "eea":false,
       "calling_code":"853",
       "currency_symbol":"MOP",
+      "currency_decimals":"2",
       "flag":"MO.png"
    },
    "450":{
@@ -2330,6 +2458,7 @@
       "eea":false,
       "calling_code":"261",
       "currency_symbol":"MGA",
+      "currency_decimals":"2",
       "flag":"MG.png"
    },
    "454":{
@@ -2348,6 +2477,7 @@
       "eea":false,
       "calling_code":"265",
       "currency_symbol":"MK",
+      "currency_decimals":"2",
       "flag":"MW.png"
    },
    "458":{
@@ -2366,6 +2496,7 @@
       "eea":false,
       "calling_code":"60",
       "currency_symbol":"RM",
+      "currency_decimals":"2",
       "flag":"MY.png"
    },
    "462":{
@@ -2384,6 +2515,7 @@
       "eea":false,
       "calling_code":"960",
       "currency_symbol":"Rf",
+      "currency_decimals":"2",
       "flag":"MV.png"
    },
    "466":{
@@ -2402,6 +2534,7 @@
       "eea":false,
       "calling_code":"223",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"ML.png"
    },
    "470":{
@@ -2420,6 +2553,7 @@
       "eea":true,
       "calling_code":"356",
       "currency_symbol":"MTL",
+      "currency_decimals":"2",
       "flag":"MT.png"
    },
    "474":{
@@ -2438,6 +2572,7 @@
       "eea":false,
       "calling_code":"596",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"MQ.png"
    },
    "478":{
@@ -2456,6 +2591,7 @@
       "eea":false,
       "calling_code":"222",
       "currency_symbol":"UM",
+      "currency_decimals":"2",
       "flag":"MR.png"
    },
    "480":{
@@ -2474,6 +2610,7 @@
       "eea":false,
       "calling_code":"230",
       "currency_symbol":"\u20a8",
+      "currency_decimals":"2",
       "flag":"MU.png"
    },
    "484":{
@@ -2492,6 +2629,7 @@
       "eea":false,
       "calling_code":"52",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"MX.png"
    },
    "492":{
@@ -2510,6 +2648,7 @@
       "eea":false,
       "calling_code":"377",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"MC.png"
    },
    "496":{
@@ -2528,6 +2667,7 @@
       "eea":false,
       "calling_code":"976",
       "currency_symbol":"\u20ae",
+      "currency_decimals":"2",
       "flag":"MN.png"
    },
    "498":{
@@ -2546,6 +2686,7 @@
       "eea":false,
       "calling_code":"373",
       "currency_symbol":"MDL",
+      "currency_decimals":"2",
       "flag":"MD.png"
    },
    "499":{
@@ -2580,6 +2721,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"MS.png"
    },
    "504":{
@@ -2598,6 +2740,7 @@
       "eea":false,
       "calling_code":"212",
       "currency_symbol":"MAD",
+      "currency_decimals":"2",
       "flag":"MA.png"
    },
    "508":{
@@ -2616,6 +2759,7 @@
       "eea":false,
       "calling_code":"258",
       "currency_symbol":"MT",
+      "currency_decimals":"2",
       "flag":"MZ.png"
    },
    "512":{
@@ -2634,6 +2778,7 @@
       "eea":false,
       "calling_code":"968",
       "currency_symbol":"\ufdfc",
+      "currency_decimals":"3",
       "flag":"OM.png"
    },
    "516":{
@@ -2652,6 +2797,7 @@
       "eea":false,
       "calling_code":"264",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"NA.png"
    },
    "520":{
@@ -2670,6 +2816,7 @@
       "eea":false,
       "calling_code":"674",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"NR.png"
    },
    "524":{
@@ -2688,6 +2835,7 @@
       "eea":false,
       "calling_code":"977",
       "currency_symbol":"\u20a8",
+      "currency_decimals":"2",
       "flag":"NP.png"
    },
    "528":{
@@ -2706,6 +2854,7 @@
       "eea":true,
       "calling_code":"31",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"NL.png"
    },
    "531":{
@@ -2740,6 +2889,7 @@
       "eea":false,
       "calling_code":"297",
       "currency_symbol":"\u0192",
+      "currency_decimals":"2",
       "flag":"AW.png"
    },
    "534":{
@@ -2788,6 +2938,7 @@
       "eea":false,
       "calling_code":"687",
       "currency_symbol":"XPF",
+      "currency_decimals":"0",
       "flag":"NC.png"
    },
    "548":{
@@ -2806,6 +2957,7 @@
       "eea":false,
       "calling_code":"678",
       "currency_symbol":"Vt",
+      "currency_decimals":"0",
       "flag":"VU.png"
    },
    "554":{
@@ -2824,6 +2976,7 @@
       "eea":false,
       "calling_code":"64",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"NZ.png"
    },
    "558":{
@@ -2842,6 +2995,7 @@
       "eea":false,
       "calling_code":"505",
       "currency_symbol":"C$",
+      "currency_decimals":"2",
       "flag":"NI.png"
    },
    "562":{
@@ -2860,6 +3014,7 @@
       "eea":false,
       "calling_code":"227",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"NE.png"
    },
    "566":{
@@ -2878,6 +3033,7 @@
       "eea":false,
       "calling_code":"234",
       "currency_symbol":"\u20a6",
+      "currency_decimals":"2",
       "flag":"NG.png"
    },
    "570":{
@@ -2896,6 +3052,7 @@
       "eea":false,
       "calling_code":"683",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"NU.png"
    },
    "574":{
@@ -2914,6 +3071,7 @@
       "eea":false,
       "calling_code":"672",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"NF.png"
    },
    "578":{
@@ -2932,6 +3090,7 @@
       "eea":true,
       "calling_code":"47",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"NO.png"
    },
    "580":{
@@ -2950,6 +3109,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"MP.png"
    },
    "581":{
@@ -2968,6 +3128,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"UM.png"
    },
    "583":{
@@ -2986,6 +3147,7 @@
       "eea":false,
       "calling_code":"691",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"FM.png"
    },
    "584":{
@@ -3004,6 +3166,7 @@
       "eea":false,
       "calling_code":"692",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"MH.png"
    },
    "585":{
@@ -3022,6 +3185,7 @@
       "eea":false,
       "calling_code":"680",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"PW.png"
    },
    "586":{
@@ -3040,6 +3204,7 @@
       "eea":false,
       "calling_code":"92",
       "currency_symbol":"\u20a8",
+      "currency_decimals":"2",
       "flag":"PK.png"
    },
    "591":{
@@ -3058,6 +3223,7 @@
       "eea":false,
       "calling_code":"507",
       "currency_symbol":"B\/.",
+      "currency_decimals":"2",
       "flag":"PA.png"
    },
    "598":{
@@ -3076,6 +3242,7 @@
       "eea":false,
       "calling_code":"675",
       "currency_symbol":"PGK",
+      "currency_decimals":"2",
       "flag":"PG.png"
    },
    "600":{
@@ -3094,6 +3261,7 @@
       "eea":false,
       "calling_code":"595",
       "currency_symbol":"Gs",
+      "currency_decimals":"0",
       "flag":"PY.png"
    },
    "604":{
@@ -3112,6 +3280,7 @@
       "eea":false,
       "calling_code":"51",
       "currency_symbol":"S\/.",
+      "currency_decimals":"2",
       "flag":"PE.png"
    },
    "608":{
@@ -3130,6 +3299,7 @@
       "eea":false,
       "calling_code":"63",
       "currency_symbol":"Php",
+      "currency_decimals":"2",
       "flag":"PH.png"
    },
    "612":{
@@ -3148,6 +3318,7 @@
       "eea":false,
       "calling_code":"649",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"PN.png"
    },
    "616":{
@@ -3166,6 +3337,7 @@
       "eea":true,
       "calling_code":"48",
       "currency_symbol":"z\u0142",
+      "currency_decimals":"2",
       "flag":"PL.png"
    },
    "620":{
@@ -3184,6 +3356,7 @@
       "eea":true,
       "calling_code":"351",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"PT.png"
    },
    "624":{
@@ -3202,6 +3375,7 @@
       "eea":false,
       "calling_code":"245",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"GW.png"
    },
    "626":{
@@ -3220,6 +3394,7 @@
       "eea":false,
       "calling_code":"670",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"TL.png"
    },
    "630":{
@@ -3238,6 +3413,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"PR.png"
    },
    "634":{
@@ -3256,6 +3432,7 @@
       "eea":false,
       "calling_code":"974",
       "currency_symbol":"\ufdfc",
+      "currency_decimals":"2",
       "flag":"QA.png"
    },
    "638":{
@@ -3274,6 +3451,7 @@
       "eea":false,
       "calling_code":"262",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"RE.png"
    },
    "642":{
@@ -3292,6 +3470,7 @@
       "eea":true,
       "calling_code":"40",
       "currency_symbol":"lei",
+      "currency_decimals":"2",
       "flag":"RO.png"
    },
    "643":{
@@ -3310,6 +3489,7 @@
       "eea":false,
       "calling_code":"7",
       "currency_symbol":"\u0440\u0443\u0431",
+      "currency_decimals":"2",
       "flag":"RU.png"
    },
    "646":{
@@ -3328,6 +3508,7 @@
       "eea":false,
       "calling_code":"250",
       "currency_symbol":"RWF",
+      "currency_decimals":"0",
       "flag":"RW.png"
    },
    "652":{
@@ -3362,6 +3543,7 @@
       "eea":false,
       "calling_code":"290",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"SH.png"
    },
    "659":{
@@ -3380,6 +3562,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"KN.png"
    },
    "660":{
@@ -3398,6 +3581,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"AI.png"
    },
    "662":{
@@ -3416,6 +3600,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"LC.png"
    },
    "663":{
@@ -3450,6 +3635,7 @@
       "eea":false,
       "calling_code":"508",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"PM.png"
    },
    "670":{
@@ -3468,6 +3654,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"VC.png"
    },
    "674":{
@@ -3486,6 +3673,7 @@
       "eea":false,
       "calling_code":"378",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"SM.png"
    },
    "678":{
@@ -3504,6 +3692,7 @@
       "eea":false,
       "calling_code":"239",
       "currency_symbol":"Db",
+      "currency_decimals":"2",
       "flag":"ST.png"
    },
    "682":{
@@ -3522,6 +3711,7 @@
       "eea":false,
       "calling_code":"966",
       "currency_symbol":"\ufdfc",
+      "currency_decimals":"2",
       "flag":"SA.png"
    },
    "686":{
@@ -3540,6 +3730,7 @@
       "eea":false,
       "calling_code":"221",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"SN.png"
    },
    "688":{
@@ -3574,6 +3765,7 @@
       "eea":false,
       "calling_code":"248",
       "currency_symbol":"\u20a8",
+      "currency_decimals":"2",
       "flag":"SC.png"
    },
    "694":{
@@ -3592,6 +3784,7 @@
       "eea":false,
       "calling_code":"232",
       "currency_symbol":"Le",
+      "currency_decimals":"2",
       "flag":"SL.png"
    },
    "702":{
@@ -3610,6 +3803,7 @@
       "eea":false,
       "calling_code":"65",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"SG.png"
    },
    "703":{
@@ -3628,6 +3822,7 @@
       "eea":true,
       "calling_code":"421",
       "currency_symbol":"Sk",
+      "currency_decimals":"2",
       "flag":"SK.png"
    },
    "704":{
@@ -3646,6 +3841,7 @@
       "eea":false,
       "calling_code":"84",
       "currency_symbol":"\u20ab",
+      "currency_decimals":"2",
       "flag":"VN.png"
    },
    "705":{
@@ -3664,6 +3860,7 @@
       "eea":true,
       "calling_code":"386",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"SI.png"
    },
    "706":{
@@ -3682,6 +3879,7 @@
       "eea":false,
       "calling_code":"252",
       "currency_symbol":"S",
+      "currency_decimals":"2",
       "flag":"SO.png"
    },
    "710":{
@@ -3700,6 +3898,7 @@
       "eea":false,
       "calling_code":"27",
       "currency_symbol":"R",
+      "currency_decimals":"2",
       "flag":"ZA.png"
    },
    "716":{
@@ -3718,6 +3917,7 @@
       "eea":false,
       "calling_code":"263",
       "currency_symbol":"Z$",
+      "currency_decimals":"2",
       "flag":"ZW.png"
    },
    "724":{
@@ -3736,6 +3936,7 @@
       "eea":true,
       "calling_code":"34",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"ES.png"
    },
    "728":{
@@ -3786,6 +3987,7 @@
       "eea":false,
       "calling_code":"212",
       "currency_symbol":"MAD",
+      "currency_decimals":"2",
       "flag":"EH.png"
    },
    "740":{
@@ -3804,6 +4006,7 @@
       "eea":false,
       "calling_code":"597",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"SR.png"
    },
    "744":{
@@ -3822,6 +4025,7 @@
       "eea":false,
       "calling_code":"47",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"SJ.png"
    },
    "748":{
@@ -3840,6 +4044,7 @@
       "eea":false,
       "calling_code":"268",
       "currency_symbol":"SZL",
+      "currency_decimals":"2",
       "flag":"SZ.png"
    },
    "752":{
@@ -3858,6 +4063,7 @@
       "eea":true,
       "calling_code":"46",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"SE.png"
    },
    "756":{
@@ -3876,6 +4082,7 @@
       "eea":true,
       "calling_code":"41",
       "currency_symbol":"CHF",
+      "currency_decimals":"2",
       "flag":"CH.png"
    },
    "760":{
@@ -3894,6 +4101,7 @@
       "eea":false,
       "calling_code":"963",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"SY.png"
    },
    "762":{
@@ -3912,6 +4120,7 @@
       "eea":false,
       "calling_code":"992",
       "currency_symbol":"TJS",
+      "currency_decimals":"2",
       "flag":"TJ.png"
    },
    "764":{
@@ -3930,6 +4139,7 @@
       "eea":false,
       "calling_code":"66",
       "currency_symbol":"\u0e3f",
+      "currency_decimals":"2",
       "flag":"TH.png"
    },
    "768":{
@@ -3948,6 +4158,7 @@
       "eea":false,
       "calling_code":"228",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"TG.png"
    },
    "772":{
@@ -3966,6 +4177,7 @@
       "eea":false,
       "calling_code":"690",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"TK.png"
    },
    "776":{
@@ -3984,6 +4196,7 @@
       "eea":false,
       "calling_code":"676",
       "currency_symbol":"T$",
+      "currency_decimals":"2",
       "flag":"TO.png"
    },
    "780":{
@@ -4002,6 +4215,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"TT$",
+      "currency_decimals":"2",
       "flag":"TT.png"
    },
    "784":{
@@ -4020,6 +4234,7 @@
       "eea":false,
       "calling_code":"971",
       "currency_symbol":"AED",
+      "currency_decimals":"2",
       "flag":"AE.png"
    },
    "788":{
@@ -4038,6 +4253,7 @@
       "eea":false,
       "calling_code":"216",
       "currency_symbol":"TND",
+      "currency_decimals":"3",
       "flag":"TN.png"
    },
    "792":{
@@ -4056,6 +4272,7 @@
       "eea":false,
       "calling_code":"90",
       "currency_symbol":"₺",
+      "currency_decimals":"2",
       "flag":"TR.png"
    },
    "795":{
@@ -4074,6 +4291,7 @@
       "eea":false,
       "calling_code":"993",
       "currency_symbol":"m",
+      "currency_decimals":"2",
       "flag":"TM.png"
    },
    "796":{
@@ -4092,6 +4310,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"TC.png"
    },
    "798":{
@@ -4110,6 +4329,7 @@
       "eea":false,
       "calling_code":"688",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"TV.png"
    },
    "800":{
@@ -4128,6 +4348,7 @@
       "eea":false,
       "calling_code":"256",
       "currency_symbol":"UGX",
+      "currency_decimals":"0",
       "flag":"UG.png"
    },
    "804":{
@@ -4146,6 +4367,7 @@
       "eea":false,
       "calling_code":"380",
       "currency_symbol":"\u20b4",
+      "currency_decimals":"2",
       "flag":"UA.png"
    },
    "807":{
@@ -4164,6 +4386,7 @@
       "eea":false,
       "calling_code":"389",
       "currency_symbol":"\u0434\u0435\u043d",
+      "currency_decimals":"2",
       "flag":"MK.png"
    },
    "818":{
@@ -4182,6 +4405,7 @@
       "eea":false,
       "calling_code":"20",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"EG.png"
    },
    "826":{
@@ -4200,6 +4424,7 @@
       "eea":true,
       "calling_code":"44",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"GB.png"
    },
    "831":{
@@ -4266,6 +4491,7 @@
       "eea":false,
       "calling_code":"255",
       "currency_symbol":"TZS",
+      "currency_decimals":"2",
       "flag":"TZ.png"
    },
    "840":{
@@ -4284,6 +4510,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"US.png"
    },
    "850":{
@@ -4302,6 +4529,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"VI.png"
    },
    "854":{
@@ -4320,6 +4548,7 @@
       "eea":false,
       "calling_code":"226",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"BF.png"
    },
    "858":{
@@ -4338,6 +4567,7 @@
       "eea":false,
       "calling_code":"598",
       "currency_symbol":"$U",
+      "currency_decimals":"0",
       "flag":"UY.png"
    },
    "860":{
@@ -4356,6 +4586,7 @@
       "eea":false,
       "calling_code":"998",
       "currency_symbol":"\u043b\u0432",
+      "currency_decimals":"2",
       "flag":"UZ.png"
    },
    "862":{
@@ -4374,6 +4605,7 @@
       "eea":false,
       "calling_code":"58",
       "currency_symbol":"Bs",
+      "currency_decimals":"2",
       "flag":"VE.png"
    },
    "876":{
@@ -4392,6 +4624,7 @@
       "eea":false,
       "calling_code":"681",
       "currency_symbol":"XPF",
+      "currency_decimals":"0",
       "flag":"WF.png"
    },
    "882":{
@@ -4410,6 +4643,7 @@
       "eea":false,
       "calling_code":"685",
       "currency_symbol":"WS$",
+      "currency_decimals":"2",
       "flag":"WS.png"
    },
    "887":{
@@ -4428,6 +4662,7 @@
       "eea":false,
       "calling_code":"967",
       "currency_symbol":"\ufdfc",
+      "currency_decimals":"2",
       "flag":"YE.png"
    },
    "894":{
@@ -4446,6 +4681,7 @@
       "eea":false,
       "calling_code":"260",
       "currency_symbol":"ZK",
+      "currency_decimals":"2",
       "flag":"ZM.png"
    }
 }
