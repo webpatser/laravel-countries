@@ -23,6 +23,7 @@ class CountriesSeeder extends Seeder {
                 'currency' => ((isset($country['currency'])) ? $country['currency'] : null),
                 'currency_code' => ((isset($country['currency_code'])) ? $country['currency_code'] : null),
                 'currency_sub_unit' => ((isset($country['currency_sub_unit'])) ? $country['currency_sub_unit'] : null),
+                'currency_decimals' => ((isset($country['currency_decimals'])) ? $country['currency_decimals'] : null),
                 'full_name' => ((isset($country['full_name'])) ? $country['full_name'] : null),
                 'iso_3166_2' => $country['iso_3166_2'],
                 'iso_3166_3' => $country['iso_3166_3'],
