@@ -93,7 +93,8 @@ class MigrationCommand extends Command {
         $app = app();
         $migrationFiles = array(
             $this->laravel->path."/../database/migrations/*_setup_countries_table.php" => 'countries::generators.migration',
-            $this->laravel->path."/../database/migrations/*_charify_countries_table.php" => 'countries::generators.char_migration'
+            $this->laravel->path."/../database/migrations/*_charify_countries_table.php" => 'countries::generators.char_migration',
+            $this->laravel->path."/../database/migrations/*_add_continent_countries_table.php" => 'countries::generators.continent_migration'
         );
 
         $seconds = 0;
