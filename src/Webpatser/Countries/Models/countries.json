@@ -16,7 +16,8 @@
       "calling_code":"93",
       "currency_symbol":"\u060b",
       "currency_decimals":"2",
-      "flag":"AF.png"
+      "flag":"AF.png",
+      "continent":"Asia"
    },
    "8":{
       "capital":"Tirana",
@@ -35,26 +36,8 @@
       "calling_code":"355",
       "currency_symbol":"Lek",
       "currency_decimals":"2",
-      "flag":"AL.png"
-   },
-   "10":{
-      "capital":"Antartica",
-      "citizenship":"of Antartica",
-      "country-code":"010",
-      "currency":"",
-      "currency_code":"",
-      "currency_sub_unit":"",
-      "full_name":"Antarctica",
-      "iso_3166_2":"AQ",
-      "iso_3166_3":"ATA",
-      "name":"Antarctica",
-      "region-code":"",
-      "sub-region-code":"",
-      "eea":false,
-      "calling_code":"672",
-      "currency_symbol":"",
-      "currency_decimals":"2",
-      "flag":"AQ.png"
+      "flag":"AL.png",
+      "continent":"Europe"
    },
    "12":{
       "capital":"Algiers",
@@ -73,7 +56,8 @@
       "calling_code":"213",
       "currency_symbol":"DZD",
       "currency_decimals":"2",
-      "flag":"DZ.png"
+      "flag":"DZ.png",
+      "continent":"Africa"
    },
    "16":{
       "capital":"Pago Pago",
@@ -92,7 +76,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"AS.png"
+      "flag":"AS.png",
+      "continent":"Oceania"
    },
    "20":{
       "capital":"Andorra la Vella",
@@ -111,7 +96,8 @@
       "calling_code":"376",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"AD.png"
+      "flag":"AD.png",
+      "continent":"Europe"
    },
    "24":{
       "capital":"Luanda",
@@ -130,7 +116,8 @@
       "calling_code":"244",
       "currency_symbol":"Kz",
       "currency_decimals":"2",
-      "flag":"AO.png"
+      "flag":"AO.png",
+      "continent":"Africa"
    },
    "28":{
       "capital":"St John\u2019s",
@@ -149,7 +136,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"AG.png"
+      "flag":"AG.png",
+      "continent":"America"
    },
    "31":{
       "capital":"Baku",
@@ -168,7 +156,8 @@
       "calling_code":"994",
       "currency_symbol":"\u043c\u0430\u043d",
       "currency_decimals":"2",
-      "flag":"AZ.png"
+      "flag":"AZ.png",
+      "continent":"Asia"
    },
    "32":{
       "capital":"Buenos Aires",
@@ -187,7 +176,8 @@
       "calling_code":"54",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"AR.png"
+      "flag":"AR.png",
+      "continent":"America"
    },
    "36":{
       "capital":"Canberra",
@@ -206,7 +196,8 @@
       "calling_code":"61",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"AU.png"
+      "flag":"AU.png",
+      "continent":"Oceania"
    },
    "40":{
       "capital":"Vienna",
@@ -225,7 +216,8 @@
       "calling_code":"43",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"AT.png"
+      "flag":"AT.png",
+      "continent":"Europe"
    },
    "44":{
       "capital":"Nassau",
@@ -244,7 +236,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"BS.png"
+      "flag":"BS.png",
+      "continent":"America"
    },
    "48":{
       "capital":"Manama",
@@ -263,7 +256,8 @@
       "calling_code":"973",
       "currency_symbol":"BHD",
       "currency_decimals":"3",
-      "flag":"BH.png"
+      "flag":"BH.png",
+      "continent":"Asia"
    },
    "50":{
       "capital":"Dhaka",
@@ -282,7 +276,8 @@
       "calling_code":"880",
       "currency_symbol":"BDT",
       "currency_decimals":"2",
-      "flag":"BD.png"
+      "flag":"BD.png",
+      "continent":"Asia"
    },
    "51":{
       "capital":"Yerevan",
@@ -301,7 +296,8 @@
       "calling_code":"374",
       "currency_symbol":"AMD",
       "currency_decimals":"2",
-      "flag":"AM.png"
+      "flag":"AM.png",
+      "continent":"Asia"
    },
    "52":{
       "capital":"Bridgetown",
@@ -320,7 +316,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"BB.png"
+      "flag":"BB.png",
+      "continent":"America"
    },
    "56":{
       "capital":"Brussels",
@@ -339,7 +336,8 @@
       "calling_code":"32",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"BE.png"
+      "flag":"BE.png",
+      "continent":"Europe"
    },
    "60":{
       "capital":"Hamilton",
@@ -358,7 +356,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"BM.png"
+      "flag":"BM.png",
+      "continent":"America"
    },
    "64":{
       "capital":"Thimphu",
@@ -377,7 +376,8 @@
       "calling_code":"975",
       "currency_symbol":"BTN",
       "currency_decimals":"2",
-      "flag":"BT.png"
+      "flag":"BT.png",
+      "continent":"Asia"
    },
    "68":{
       "capital":"Sucre (BO1)",
@@ -396,7 +396,8 @@
       "calling_code":"591",
       "currency_symbol":"$b",
       "currency_decimals":"2",
-      "flag":"BO.png"
+      "flag":"BO.png",
+      "continent":"America"
    },
    "70":{
       "capital":"Sarajevo",
@@ -415,7 +416,8 @@
       "calling_code":"387",
       "currency_symbol":"KM",
       "currency_decimals":"2",
-      "flag":"BA.png"
+      "flag":"BA.png",
+      "continent":"Europe"
    },
    "72":{
       "capital":"Gaborone",
@@ -434,7 +436,8 @@
       "calling_code":"267",
       "currency_symbol":"P",
       "currency_decimals":"2",
-      "flag":"BW.png"
+      "flag":"BW.png",
+      "continent":"Africa"
    },
    "74":{
       "capital":"Bouvet island",
@@ -453,7 +456,8 @@
       "calling_code":"47",
       "currency_symbol":"kr",
       "currency_decimals":"2",
-      "flag":"BV.png"
+      "flag":"BV.png",
+      "continent":""
    },
    "76":{
       "capital":"Brasilia",
@@ -472,7 +476,8 @@
       "calling_code":"55",
       "currency_symbol":"R$",
       "currency_decimals":"2",
-      "flag":"BR.png"
+      "flag":"BR.png",
+      "continent":"America"
    },
    "84":{
       "capital":"Belmopan",
@@ -491,7 +496,8 @@
       "calling_code":"501",
       "currency_symbol":"BZ$",
       "currency_decimals":"2",
-      "flag":"BZ.png"
+      "flag":"BZ.png",
+      "continent":"America"
    },
    "86":{
       "capital":"Diego Garcia",
@@ -510,7 +516,8 @@
       "calling_code":"246",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"IO.png"
+      "flag":"IO.png",
+      "continent":"Africa"
    },
    "90":{
       "capital":"Honiara",
@@ -529,7 +536,8 @@
       "calling_code":"677",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"SB.png"
+      "flag":"SB.png",
+      "continent":"Oceania"
    },
    "92":{
       "capital":"Road Town",
@@ -548,7 +556,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"VG.png"
+      "flag":"VG.png",
+      "continent":"America"
    },
    "96":{
       "capital":"Bandar Seri Begawan",
@@ -567,7 +576,8 @@
       "calling_code":"673",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"BN.png"
+      "flag":"BN.png",
+      "continent":"Asia"
    },
    "100":{
       "capital":"Sofia",
@@ -586,7 +596,8 @@
       "calling_code":"359",
       "currency_symbol":"\u043b\u0432",
       "currency_decimals":"2",
-      "flag":"BG.png"
+      "flag":"BG.png",
+      "continent":"Europe"
    },
    "104":{
       "capital":"Yangon",
@@ -605,7 +616,8 @@
       "calling_code":"95",
       "currency_symbol":"K",
       "currency_decimals":"2",
-      "flag":"MM.png"
+      "flag":"MM.png",
+      "continent":"Asia"
    },
    "108":{
       "capital":"Bujumbura",
@@ -624,7 +636,8 @@
       "calling_code":"257",
       "currency_symbol":"BIF",
       "currency_decimals":"0",
-      "flag":"BI.png"
+      "flag":"BI.png",
+      "continent":"Africa"
    },
    "112":{
       "capital":"Minsk",
@@ -643,7 +656,8 @@
       "calling_code":"375",
       "currency_symbol":"p.",
       "currency_decimals":"2",
-      "flag":"BY.png"
+      "flag":"BY.png",
+      "continent":"Europe"
    },
    "116":{
       "capital":"Phnom Penh",
@@ -662,7 +676,8 @@
       "calling_code":"855",
       "currency_symbol":"\u17db",
       "currency_decimals":"2",
-      "flag":"KH.png"
+      "flag":"KH.png",
+      "continent":"Asia"
    },
    "120":{
       "capital":"Yaound\u00e9",
@@ -681,7 +696,8 @@
       "calling_code":"237",
       "currency_symbol":"FCF",
       "currency_decimals":"0",
-      "flag":"CM.png"
+      "flag":"CM.png",
+      "continent":"Africa"
    },
    "124":{
       "capital":"Ottawa",
@@ -700,7 +716,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"CA.png"
+      "flag":"CA.png",
+      "continent":"America"
    },
    "132":{
       "capital":"Praia",
@@ -719,7 +736,8 @@
       "calling_code":"238",
       "currency_symbol":"CVE",
       "currency_decimals":"2",
-      "flag":"CV.png"
+      "flag":"CV.png",
+      "continent":"Africa"
    },
    "136":{
       "capital":"George Town",
@@ -738,7 +756,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"KY.png"
+      "flag":"KY.png",
+      "continent":"America"
    },
    "140":{
       "capital":"Bangui",
@@ -757,7 +776,8 @@
       "calling_code":"236",
       "currency_symbol":"CFA",
       "currency_decimals":"0",
-      "flag":"CF.png"
+      "flag":"CF.png",
+      "continent":"Africa"
    },
    "144":{
       "capital":"Colombo",
@@ -776,7 +796,8 @@
       "calling_code":"94",
       "currency_symbol":"\u20a8",
       "currency_decimals":"2",
-      "flag":"LK.png"
+      "flag":"LK.png",
+      "continent":"Asia"
    },
    "148":{
       "capital":"N\u2019Djamena",
@@ -795,7 +816,8 @@
       "calling_code":"235",
       "currency_symbol":"XAF",
       "currency_decimals":"0",
-      "flag":"TD.png"
+      "flag":"TD.png",
+      "continent":"Africa"
    },
    "152":{
       "capital":"Santiago",
@@ -814,7 +836,8 @@
       "calling_code":"56",
       "currency_symbol":"CLP",
       "currency_decimals":"0",
-      "flag":"CL.png"
+      "flag":"CL.png",
+      "continent":"America"
    },
    "156":{
       "capital":"Beijing",
@@ -833,7 +856,8 @@
       "calling_code":"86",
       "currency_symbol":"\u00a5",
       "currency_decimals":"2",
-      "flag":"CN.png"
+      "flag":"CN.png",
+      "continent":"Asia"
    },
    "158":{
       "capital":"Taipei",
@@ -852,7 +876,8 @@
       "calling_code":"886",
       "currency_symbol":"NT$",
       "currency_decimals":"2",
-      "flag":"TW.png"
+      "flag":"TW.png",
+      "continent":"Asia"
    },
    "162":{
       "capital":"Flying Fish Cove",
@@ -871,7 +896,8 @@
       "calling_code":"61",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"CX.png"
+      "flag":"CX.png",
+      "continent":"Oceania"
    },
    "166":{
       "capital":"Bantam",
@@ -890,7 +916,8 @@
       "calling_code":"61",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"CC.png"
+      "flag":"CC.png",
+      "continent":"Oceania"
    },
    "170":{
       "capital":"Santa Fe de Bogot\u00e1",
@@ -909,7 +936,8 @@
       "calling_code":"57",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"CO.png"
+      "flag":"CO.png",
+      "continent":"America"
    },
    "174":{
       "capital":"Moroni",
@@ -928,7 +956,8 @@
       "calling_code":"269",
       "currency_symbol":"KMF",
       "currency_decimals":"0",
-      "flag":"KM.png"
+      "flag":"KM.png",
+      "continent":"Africa"
    },
    "175":{
       "capital":"Mamoudzou",
@@ -947,7 +976,8 @@
       "calling_code":"262",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"YT.png"
+      "flag":"YT.png",
+      "continent":"Africa"
    },
    "178":{
       "capital":"Brazzaville",
@@ -966,7 +996,8 @@
       "calling_code":"242",
       "currency_symbol":"FCF",
       "currency_decimals":"0",
-      "flag":"CG.png"
+      "flag":"CG.png",
+      "continent":"Africa"
    },
    "180":{
       "capital":"Kinshasa",
@@ -985,7 +1016,8 @@
       "calling_code":"243",
       "currency_symbol":"CDF",
       "currency_decimals":"2",
-      "flag":"CD.png"
+      "flag":"CD.png",
+      "continent":"Africa"
    },
    "184":{
       "capital":"Avarua",
@@ -1004,7 +1036,8 @@
       "calling_code":"682",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"CK.png"
+      "flag":"CK.png",
+      "continent":"Oceania"
    },
    "188":{
       "capital":"San Jos\u00e9",
@@ -1023,7 +1056,8 @@
       "calling_code":"506",
       "currency_symbol":"\u20a1",
       "currency_decimals":"2",
-      "flag":"CR.png"
+      "flag":"CR.png",
+      "continent":"America"
    },
    "191":{
       "capital":"Zagreb",
@@ -1042,7 +1076,8 @@
       "calling_code":"385",
       "currency_symbol":"kn",
       "currency_decimals":"2",
-      "flag":"HR.png"
+      "flag":"HR.png",
+      "continent":"Europe"
    },
    "192":{
       "capital":"Havana",
@@ -1061,7 +1096,8 @@
       "calling_code":"53",
       "currency_symbol":"\u20b1",
       "currency_decimals":"2",
-      "flag":"CU.png"
+      "flag":"CU.png",
+      "continent":"America"
    },
    "196":{
       "capital":"Nicosia",
@@ -1080,7 +1116,8 @@
       "calling_code":"357",
       "currency_symbol":"CYP",
       "currency_decimals":"2",
-      "flag":"CY.png"
+      "flag":"CY.png",
+      "continent":"Europe"
    },
    "203":{
       "capital":"Prague",
@@ -1099,7 +1136,8 @@
       "calling_code":"420",
       "currency_symbol":"K\u010d",
       "currency_decimals":"2",
-      "flag":"CZ.png"
+      "flag":"CZ.png",
+      "continent":"Europe"
    },
    "204":{
       "capital":"Porto Novo (BJ1)",
@@ -1118,7 +1156,8 @@
       "calling_code":"229",
       "currency_symbol":"XOF",
       "currency_decimals":"0",
-      "flag":"BJ.png"
+      "flag":"BJ.png",
+      "continent":"Africa"
    },
    "208":{
       "capital":"Copenhagen",
@@ -1137,7 +1176,8 @@
       "calling_code":"45",
       "currency_symbol":"kr",
       "currency_decimals":"2",
-      "flag":"DK.png"
+      "flag":"DK.png",
+      "continent":"Europe"
    },
    "212":{
       "capital":"Roseau",
@@ -1156,7 +1196,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"DM.png"
+      "flag":"DM.png",
+      "continent":"America"
    },
    "214":{
       "capital":"Santo Domingo",
@@ -1175,7 +1216,8 @@
       "calling_code":"1",
       "currency_symbol":"RD$",
       "currency_decimals":"2",
-      "flag":"DO.png"
+      "flag":"DO.png",
+      "continent":"America"
    },
    "218":{
       "capital":"Quito",
@@ -1194,7 +1236,8 @@
       "calling_code":"593",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"EC.png"
+      "flag":"EC.png",
+      "continent":"America"
    },
    "222":{
       "capital":"San Salvador",
@@ -1213,7 +1256,8 @@
       "calling_code":"503",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"SV.png"
+      "flag":"SV.png",
+      "continent":"America"
    },
    "226":{
       "capital":"Malabo",
@@ -1232,7 +1276,8 @@
       "calling_code":"240",
       "currency_symbol":"FCF",
       "currency_decimals":"2",
-      "flag":"GQ.png"
+      "flag":"GQ.png",
+      "continent":"Africa"
    },
    "231":{
       "capital":"Addis Ababa",
@@ -1251,7 +1296,8 @@
       "calling_code":"251",
       "currency_symbol":"ETB",
       "currency_decimals":"2",
-      "flag":"ET.png"
+      "flag":"ET.png",
+      "continent":"Africa"
    },
    "232":{
       "capital":"Asmara",
@@ -1270,7 +1316,8 @@
       "calling_code":"291",
       "currency_symbol":"Nfk",
       "currency_decimals":"2",
-      "flag":"ER.png"
+      "flag":"ER.png",
+      "continent":"Africa"
    },
    "233":{
       "capital":"Tallinn",
@@ -1289,7 +1336,8 @@
       "calling_code":"372",
       "currency_symbol":"kr",
       "currency_decimals":"2",
-      "flag":"EE.png"
+      "flag":"EE.png",
+      "continent":"Europe"
    },
    "234":{
       "capital":"T\u00f3rshavn",
@@ -1308,7 +1356,8 @@
       "calling_code":"298",
       "currency_symbol":"kr",
       "currency_decimals":"2",
-      "flag":"FO.png"
+      "flag":"FO.png",
+      "continent":"Europe"
    },
    "238":{
       "capital":"Stanley",
@@ -1327,7 +1376,8 @@
       "calling_code":"500",
       "currency_symbol":"\u00a3",
       "currency_decimals":"2",
-      "flag":"FK.png"
+      "flag":"FK.png",
+      "continent":"America"
    },
    "239":{
       "capital":"King Edward Point (Grytviken)",
@@ -1346,7 +1396,8 @@
       "calling_code":"44",
       "currency_symbol":"\u00a3",
       "currency_decimals":"2",
-      "flag":"GS.png"
+      "flag":"GS.png",
+      "continent":"America"
    },
    "242":{
       "capital":"Suva",
@@ -1365,7 +1416,8 @@
       "calling_code":"679",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"FJ.png"
+      "flag":"FJ.png",
+      "continent":"Oceania"
    },
    "246":{
       "capital":"Helsinki",
@@ -1384,7 +1436,8 @@
       "calling_code":"358",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"FI.png"
+      "flag":"FI.png",
+      "continent":"Europe"
    },
    "248":{
       "capital":"Mariehamn",
@@ -1400,7 +1453,8 @@
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
-      "calling_code":"358"
+      "calling_code":"358",
+      "continent":"Europe"
    },
    "250":{
       "capital":"Paris",
@@ -1419,7 +1473,8 @@
       "calling_code":"33",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"FR.png"
+      "flag":"FR.png",
+      "continent":"Europe"
    },
    "254":{
       "capital":"Cayenne",
@@ -1438,7 +1493,8 @@
       "calling_code":"594",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"GF.png"
+      "flag":"GF.png",
+      "continent":"America"
    },
    "258":{
       "capital":"Papeete",
@@ -1457,7 +1513,8 @@
       "calling_code":"689",
       "currency_symbol":"XPF",
       "currency_decimals":"0",
-      "flag":"PF.png"
+      "flag":"PF.png",
+      "continent":"Oceania"
    },
    "260":{
       "capital":"Port-aux-Francais",
@@ -1476,7 +1533,8 @@
       "calling_code":"33",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"TF.png"
+      "flag":"TF.png",
+      "continent":""
    },
    "262":{
       "capital":"Djibouti",
@@ -1495,7 +1553,8 @@
       "calling_code":"253",
       "currency_symbol":"DJF",
       "currency_decimals":"0",
-      "flag":"DJ.png"
+      "flag":"DJ.png",
+      "continent":"Africa"
    },
    "266":{
       "capital":"Libreville",
@@ -1514,7 +1573,8 @@
       "calling_code":"241",
       "currency_symbol":"FCF",
       "currency_decimals":"0",
-      "flag":"GA.png"
+      "flag":"GA.png",
+      "continent":"Africa"
    },
    "268":{
       "capital":"Tbilisi",
@@ -1533,7 +1593,8 @@
       "calling_code":"995",
       "currency_symbol":"GEL",
       "currency_decimals":"2",
-      "flag":"GE.png"
+      "flag":"GE.png",
+      "continent":"Asia"
    },
    "270":{
       "capital":"Banjul",
@@ -1552,7 +1613,8 @@
       "calling_code":"220",
       "currency_symbol":"D",
       "currency_decimals":"2",
-      "flag":"GM.png"
+      "flag":"GM.png",
+      "continent":"Africa"
    },
    "275":{
       "citizenship":"Palestinian",
@@ -1566,7 +1628,8 @@
       "calling_code":"970",
       "currency_symbol":"\u20aa",
       "currency_decimals":"2",
-      "flag":"PS.png"
+      "flag":"PS.png",
+      "continent":"Asia"
    },
    "276":{
       "capital":"Berlin",
@@ -1585,7 +1648,8 @@
       "calling_code":"49",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"DE.png"
+      "flag":"DE.png",
+      "continent":"Europe"
    },
    "288":{
       "capital":"Accra",
@@ -1604,7 +1668,8 @@
       "calling_code":"233",
       "currency_symbol":"\u00a2",
       "currency_decimals":"2",
-      "flag":"GH.png"
+      "flag":"GH.png",
+      "continent":"Africa"
    },
    "292":{
       "capital":"Gibraltar",
@@ -1623,7 +1688,8 @@
       "calling_code":"350",
       "currency_symbol":"\u00a3",
       "currency_decimals":"2",
-      "flag":"GI.png"
+      "flag":"GI.png",
+      "continent":"Europe"
    },
    "296":{
       "capital":"Tarawa",
@@ -1642,7 +1708,8 @@
       "calling_code":"686",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"KI.png"
+      "flag":"KI.png",
+      "continent":"Oceania"
    },
    "300":{
       "capital":"Athens",
@@ -1661,7 +1728,8 @@
       "calling_code":"30",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"GR.png"
+      "flag":"GR.png",
+      "continent":"Europe"
    },
    "304":{
       "capital":"Nuuk",
@@ -1680,7 +1748,8 @@
       "calling_code":"299",
       "currency_symbol":"kr",
       "currency_decimals":"2",
-      "flag":"GL.png"
+      "flag":"GL.png",
+      "continent":"America"
    },
    "308":{
       "capital":"St George\u2019s",
@@ -1699,7 +1768,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"GD.png"
+      "flag":"GD.png",
+      "continent":"America"
    },
    "312":{
       "capital":"Basse Terre",
@@ -1718,7 +1788,8 @@
       "calling_code":"590",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"GP.png"
+      "flag":"GP.png",
+      "continent":"America"
    },
    "316":{
       "capital":"Aga\u00f1a (Hag\u00e5t\u00f1a)",
@@ -1737,7 +1808,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"GU.png"
+      "flag":"GU.png",
+      "continent":"Oceania"
    },
    "320":{
       "capital":"Guatemala City",
@@ -1756,7 +1828,8 @@
       "calling_code":"502",
       "currency_symbol":"Q",
       "currency_decimals":"2",
-      "flag":"GT.png"
+      "flag":"GT.png",
+      "continent":"America"
    },
    "324":{
       "capital":"Conakry",
@@ -1775,7 +1848,8 @@
       "calling_code":"224",
       "currency_symbol":"GNF",
       "currency_decimals":"0",
-      "flag":"GN.png"
+      "flag":"GN.png",
+      "continent":"Africa"
    },
    "328":{
       "capital":"Georgetown",
@@ -1794,7 +1868,8 @@
       "calling_code":"592",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"GY.png"
+      "flag":"GY.png",
+      "continent":"America"
    },
    "332":{
       "capital":"Port-au-Prince",
@@ -1813,7 +1888,8 @@
       "calling_code":"509",
       "currency_symbol":"G",
       "currency_decimals":"2",
-      "flag":"HT.png"
+      "flag":"HT.png",
+      "continent":"America"
    },
    "334":{
       "capital":"Territory of Heard Island and McDonald Islands",
@@ -1832,26 +1908,8 @@
       "calling_code":"61",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"HM.png"
-   },
-   "336":{
-      "capital":"Vatican City",
-      "citizenship":"of the Holy See\/of the Vatican",
-      "country-code":"336",
-      "currency":"euro",
-      "currency_code":"EUR",
-      "currency_sub_unit":"cent",
-      "full_name":"the Holy See\/ Vatican City State",
-      "iso_3166_2":"VA",
-      "iso_3166_3":"VAT",
-      "name":"Holy See (Vatican City State)",
-      "region-code":"150",
-      "sub-region-code":"039",
-      "eea":false,
-      "calling_code":"39",
-      "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
-      "flag":"VA.png"
+      "flag":"HM.png",
+      "continent":""
    },
    "340":{
       "capital":"Tegucigalpa",
@@ -1870,7 +1928,8 @@
       "calling_code":"504",
       "currency_symbol":"L",
       "currency_decimals":"2",
-      "flag":"HN.png"
+      "flag":"HN.png",
+      "continent":"America"
    },
    "344":{
       "capital":"(HK3)",
@@ -1889,7 +1948,8 @@
       "calling_code":"852",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"HK.png"
+      "flag":"HK.png",
+      "continent":"Asia"
    },
    "348":{
       "capital":"Budapest",
@@ -1908,7 +1968,8 @@
       "calling_code":"36",
       "currency_symbol":"Ft",
       "currency_decimals":"2",
-      "flag":"HU.png"
+      "flag":"HU.png",
+      "continent":"Europe"
    },
    "352":{
       "capital":"Reykjavik",
@@ -1927,7 +1988,8 @@
       "calling_code":"354",
       "currency_symbol":"kr",
       "currency_decimals":"0",
-      "flag":"IS.png"
+      "flag":"IS.png",
+      "continent":"Europe"
    },
    "356":{
       "capital":"New Delhi",
@@ -1946,7 +2008,8 @@
       "calling_code":"91",
       "currency_symbol":"\u20b9",
       "currency_decimals":"2",
-      "flag":"IN.png"
+      "flag":"IN.png",
+      "continent":"Asia"
    },
    "360":{
       "capital":"Jakarta",
@@ -1965,7 +2028,8 @@
       "calling_code":"62",
       "currency_symbol":"Rp",
       "currency_decimals":"2",
-      "flag":"ID.png"
+      "flag":"ID.png",
+      "continent":"Asia"
    },
    "364":{
       "capital":"Tehran",
@@ -1984,7 +2048,8 @@
       "calling_code":"98",
       "currency_symbol":"\ufdfc",
       "currency_decimals":"2",
-      "flag":"IR.png"
+      "flag":"IR.png",
+      "continent":"Asia"
    },
    "368":{
       "capital":"Baghdad",
@@ -2003,7 +2068,8 @@
       "calling_code":"964",
       "currency_symbol":"IQD",
       "currency_decimals":"3",
-      "flag":"IQ.png"
+      "flag":"IQ.png",
+      "continent":"Asia"
    },
    "372":{
       "capital":"Dublin",
@@ -2022,7 +2088,8 @@
       "calling_code":"353",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"IE.png"
+      "flag":"IE.png",
+      "continent":"Europe"
    },
    "376":{
       "capital":"(IL1)",
@@ -2041,7 +2108,8 @@
       "calling_code":"972",
       "currency_symbol":"\u20aa",
       "currency_decimals":"2",
-      "flag":"IL.png"
+      "flag":"IL.png",
+      "continent":"Asia"
    },
    "380":{
       "capital":"Rome",
@@ -2060,7 +2128,8 @@
       "calling_code":"39",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"IT.png"
+      "flag":"IT.png",
+      "continent":"Europe"
    },
    "384":{
       "capital":"Yamoussoukro (CI1)",
@@ -2079,7 +2148,8 @@
       "calling_code":"225",
       "currency_symbol":"XOF",
       "currency_decimals":"0",
-      "flag":"CI.png"
+      "flag":"CI.png",
+      "continent":"Africa"
    },
    "388":{
       "capital":"Kingston",
@@ -2098,7 +2168,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"JM.png"
+      "flag":"JM.png",
+      "continent":"America"
    },
    "392":{
       "capital":"Tokyo",
@@ -2117,7 +2188,8 @@
       "calling_code":"81",
       "currency_symbol":"\u00a5",
       "currency_decimals":"0",
-      "flag":"JP.png"
+      "flag":"JP.png",
+      "continent":"Asia"
    },
    "398":{
       "capital":"Astana",
@@ -2136,7 +2208,8 @@
       "calling_code":"7",
       "currency_symbol":"\u043b\u0432",
       "currency_decimals":"2",
-      "flag":"KZ.png"
+      "flag":"KZ.png",
+      "continent":"Asia"
    },
    "400":{
       "capital":"Amman",
@@ -2155,7 +2228,8 @@
       "calling_code":"962",
       "currency_symbol":"JOD",
       "currency_decimals":"2",
-      "flag":"JO.png"
+      "flag":"JO.png",
+      "continent":"Asia"
    },
    "404":{
       "capital":"Nairobi",
@@ -2174,7 +2248,8 @@
       "calling_code":"254",
       "currency_symbol":"KES",
       "currency_decimals":"2",
-      "flag":"KE.png"
+      "flag":"KE.png",
+      "continent":"Africa"
    },
    "408":{
       "capital":"Pyongyang",
@@ -2193,7 +2268,8 @@
       "calling_code":"850",
       "currency_symbol":"\u20a9",
       "currency_decimals":"2",
-      "flag":"KP.png"
+      "flag":"KP.png",
+      "continent":"Asia"
    },
    "410":{
       "capital":"Seoul",
@@ -2212,7 +2288,8 @@
       "calling_code":"82",
       "currency_symbol":"\u20a9",
       "currency_decimals":"0",
-      "flag":"KR.png"
+      "flag":"KR.png",
+      "continent":"Asia"
    },
    "414":{
       "capital":"Kuwait City",
@@ -2231,7 +2308,8 @@
       "calling_code":"965",
       "currency_symbol":"KWD",
       "currency_decimals":"3",
-      "flag":"KW.png"
+      "flag":"KW.png",
+      "continent":"Asia"
    },
    "417":{
       "capital":"Bishkek",
@@ -2250,7 +2328,8 @@
       "calling_code":"996",
       "currency_symbol":"\u043b\u0432",
       "currency_decimals":"2",
-      "flag":"KG.png"
+      "flag":"KG.png",
+      "continent":"Asia"
    },
    "418":{
       "capital":"Vientiane",
@@ -2269,7 +2348,8 @@
       "calling_code":"856",
       "currency_symbol":"\u20ad",
       "currency_decimals":"0",
-      "flag":"LA.png"
+      "flag":"LA.png",
+      "continent":"Asia"
    },
    "422":{
       "capital":"Beirut",
@@ -2288,7 +2368,8 @@
       "calling_code":"961",
       "currency_symbol":"\u00a3",
       "currency_decimals":"2",
-      "flag":"LB.png"
+      "flag":"LB.png",
+      "continent":"Asia"
    },
    "426":{
       "capital":"Maseru",
@@ -2307,7 +2388,8 @@
       "calling_code":"266",
       "currency_symbol":"L",
       "currency_decimals":"2",
-      "flag":"LS.png"
+      "flag":"LS.png",
+      "continent":"Africa"
    },
    "428":{
       "capital":"Riga",
@@ -2326,7 +2408,8 @@
       "calling_code":"371",
       "currency_symbol":"Ls",
       "currency_decimals":"2",
-      "flag":"LV.png"
+      "flag":"LV.png",
+      "continent":"Europe"
    },
    "430":{
       "capital":"Monrovia",
@@ -2345,7 +2428,8 @@
       "calling_code":"231",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"LR.png"
+      "flag":"LR.png",
+      "continent":"Africa"
    },
    "434":{
       "capital":"Tripoli",
@@ -2364,7 +2448,8 @@
       "calling_code":"218",
       "currency_symbol":"LYD",
       "currency_decimals":"3",
-      "flag":"LY.png"
+      "flag":"LY.png",
+      "continent":"Africa"
    },
    "438":{
       "capital":"Vaduz",
@@ -2383,7 +2468,8 @@
       "calling_code":"423",
       "currency_symbol":"CHF",
       "currency_decimals":"2",
-      "flag":"LI.png"
+      "flag":"LI.png",
+      "continent":"Europe"
    },
    "440":{
       "capital":"Vilnius",
@@ -2402,7 +2488,8 @@
       "calling_code":"370",
       "currency_symbol":"Lt",
       "currency_decimals":"2",
-      "flag":"LT.png"
+      "flag":"LT.png",
+      "continent":"Europe"
    },
    "442":{
       "capital":"Luxembourg",
@@ -2421,7 +2508,8 @@
       "calling_code":"352",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"LU.png"
+      "flag":"LU.png",
+      "continent":"Europe"
    },
    "446":{
       "capital":"Macao (MO3)",
@@ -2440,7 +2528,8 @@
       "calling_code":"853",
       "currency_symbol":"MOP",
       "currency_decimals":"2",
-      "flag":"MO.png"
+      "flag":"MO.png",
+      "continent":"Asia"
    },
    "450":{
       "capital":"Antananarivo",
@@ -2459,7 +2548,8 @@
       "calling_code":"261",
       "currency_symbol":"MGA",
       "currency_decimals":"2",
-      "flag":"MG.png"
+      "flag":"MG.png",
+      "continent":"Africa"
    },
    "454":{
       "capital":"Lilongwe",
@@ -2478,7 +2568,8 @@
       "calling_code":"265",
       "currency_symbol":"MK",
       "currency_decimals":"2",
-      "flag":"MW.png"
+      "flag":"MW.png",
+      "continent":"Africa"
    },
    "458":{
       "capital":"Kuala Lumpur (MY1)",
@@ -2497,7 +2588,8 @@
       "calling_code":"60",
       "currency_symbol":"RM",
       "currency_decimals":"2",
-      "flag":"MY.png"
+      "flag":"MY.png",
+      "continent":"Asia"
    },
    "462":{
       "capital":"Mal\u00e9",
@@ -2516,7 +2608,8 @@
       "calling_code":"960",
       "currency_symbol":"Rf",
       "currency_decimals":"2",
-      "flag":"MV.png"
+      "flag":"MV.png",
+      "continent":"Asia"
    },
    "466":{
       "capital":"Bamako",
@@ -2535,7 +2628,8 @@
       "calling_code":"223",
       "currency_symbol":"XOF",
       "currency_decimals":"0",
-      "flag":"ML.png"
+      "flag":"ML.png",
+      "continent":"Africa"
    },
    "470":{
       "capital":"Valletta",
@@ -2554,7 +2648,8 @@
       "calling_code":"356",
       "currency_symbol":"MTL",
       "currency_decimals":"2",
-      "flag":"MT.png"
+      "flag":"MT.png",
+      "continent":"Europe"
    },
    "474":{
       "capital":"Fort-de-France",
@@ -2573,7 +2668,8 @@
       "calling_code":"596",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"MQ.png"
+      "flag":"MQ.png",
+      "continent":"America"
    },
    "478":{
       "capital":"Nouakchott",
@@ -2592,7 +2688,8 @@
       "calling_code":"222",
       "currency_symbol":"UM",
       "currency_decimals":"2",
-      "flag":"MR.png"
+      "flag":"MR.png",
+      "continent":"Africa"
    },
    "480":{
       "capital":"Port Louis",
@@ -2611,7 +2708,8 @@
       "calling_code":"230",
       "currency_symbol":"\u20a8",
       "currency_decimals":"2",
-      "flag":"MU.png"
+      "flag":"MU.png",
+      "continent":"Africa"
    },
    "484":{
       "capital":"Mexico City",
@@ -2630,7 +2728,8 @@
       "calling_code":"52",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"MX.png"
+      "flag":"MX.png",
+      "continent":"America"
    },
    "492":{
       "capital":"Monaco",
@@ -2649,7 +2748,8 @@
       "calling_code":"377",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"MC.png"
+      "flag":"MC.png",
+      "continent":"Europe"
    },
    "496":{
       "capital":"Ulan Bator",
@@ -2668,7 +2768,8 @@
       "calling_code":"976",
       "currency_symbol":"\u20ae",
       "currency_decimals":"2",
-      "flag":"MN.png"
+      "flag":"MN.png",
+      "continent":"Asia"
    },
    "498":{
       "capital":"Chisinau",
@@ -2687,7 +2788,8 @@
       "calling_code":"373",
       "currency_symbol":"MDL",
       "currency_decimals":"2",
-      "flag":"MD.png"
+      "flag":"MD.png",
+      "continent":"Europe"
    },
    "499":{
       "capital":"Podgorica",
@@ -2703,7 +2805,8 @@
       "region-code":"150",
       "sub-region-code":"039",
       "eea":false,
-      "calling_code":"382"
+      "calling_code":"382",
+      "continent":"Europe"
    },
    "500":{
       "capital":"Plymouth (MS2)",
@@ -2722,7 +2825,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"MS.png"
+      "flag":"MS.png",
+      "continent":"America"
    },
    "504":{
       "capital":"Rabat",
@@ -2741,7 +2845,8 @@
       "calling_code":"212",
       "currency_symbol":"MAD",
       "currency_decimals":"2",
-      "flag":"MA.png"
+      "flag":"MA.png",
+      "continent":"Africa"
    },
    "508":{
       "capital":"Maputo",
@@ -2760,7 +2865,8 @@
       "calling_code":"258",
       "currency_symbol":"MT",
       "currency_decimals":"2",
-      "flag":"MZ.png"
+      "flag":"MZ.png",
+      "continent":"Africa"
    },
    "512":{
       "capital":"Muscat",
@@ -2779,7 +2885,8 @@
       "calling_code":"968",
       "currency_symbol":"\ufdfc",
       "currency_decimals":"3",
-      "flag":"OM.png"
+      "flag":"OM.png",
+      "continent":"Asia"
    },
    "516":{
       "capital":"Windhoek",
@@ -2798,7 +2905,8 @@
       "calling_code":"264",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"NA.png"
+      "flag":"NA.png",
+      "continent":"Africa"
    },
    "520":{
       "capital":"Yaren",
@@ -2817,7 +2925,8 @@
       "calling_code":"674",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"NR.png"
+      "flag":"NR.png",
+      "continent":"Oceania"
    },
    "524":{
       "capital":"Kathmandu",
@@ -2836,7 +2945,8 @@
       "calling_code":"977",
       "currency_symbol":"\u20a8",
       "currency_decimals":"2",
-      "flag":"NP.png"
+      "flag":"NP.png",
+      "continent":"Asia"
    },
    "528":{
       "capital":"Amsterdam (NL2)",
@@ -2855,7 +2965,8 @@
       "calling_code":"31",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"NL.png"
+      "flag":"NL.png",
+      "continent":"Europe"
    },
    "531":{
       "capital":"Willemstad",
@@ -2871,7 +2982,8 @@
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
-      "calling_code":"599"
+      "calling_code":"599",
+      "continent":"America"
    },
    "533":{
       "capital":"Oranjestad",
@@ -2890,7 +3002,8 @@
       "calling_code":"297",
       "currency_symbol":"\u0192",
       "currency_decimals":"2",
-      "flag":"AW.png"
+      "flag":"AW.png",
+      "continent":"America"
    },
    "534":{
       "capital":"Philipsburg",
@@ -2906,7 +3019,8 @@
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
-      "calling_code":"721"
+      "calling_code":"721",
+      "continent":"America"
    },
    "535":{
       "citizenship":"of Bonaire, Sint Eustatius and Saba",
@@ -2920,7 +3034,8 @@
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
-      "calling_code":"599"
+      "calling_code":"599",
+      "continent":"America"
    },
    "540":{
       "capital":"Noum\u00e9a",
@@ -2939,7 +3054,8 @@
       "calling_code":"687",
       "currency_symbol":"XPF",
       "currency_decimals":"0",
-      "flag":"NC.png"
+      "flag":"NC.png",
+      "continent":"Oceania"
    },
    "548":{
       "capital":"Port Vila",
@@ -2958,7 +3074,8 @@
       "calling_code":"678",
       "currency_symbol":"Vt",
       "currency_decimals":"0",
-      "flag":"VU.png"
+      "flag":"VU.png",
+      "continent":"Oceania"
    },
    "554":{
       "capital":"Wellington",
@@ -2977,7 +3094,8 @@
       "calling_code":"64",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"NZ.png"
+      "flag":"NZ.png",
+      "continent":"Oceania"
    },
    "558":{
       "capital":"Managua",
@@ -2996,7 +3114,8 @@
       "calling_code":"505",
       "currency_symbol":"C$",
       "currency_decimals":"2",
-      "flag":"NI.png"
+      "flag":"NI.png",
+      "continent":"America"
    },
    "562":{
       "capital":"Niamey",
@@ -3015,7 +3134,8 @@
       "calling_code":"227",
       "currency_symbol":"XOF",
       "currency_decimals":"0",
-      "flag":"NE.png"
+      "flag":"NE.png",
+      "continent":"Africa"
    },
    "566":{
       "capital":"Abuja",
@@ -3034,7 +3154,8 @@
       "calling_code":"234",
       "currency_symbol":"\u20a6",
       "currency_decimals":"2",
-      "flag":"NG.png"
+      "flag":"NG.png",
+      "continent":"Africa"
    },
    "570":{
       "capital":"Alofi",
@@ -3053,7 +3174,8 @@
       "calling_code":"683",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"NU.png"
+      "flag":"NU.png",
+      "continent":"Oceania"
    },
    "574":{
       "capital":"Kingston",
@@ -3072,7 +3194,8 @@
       "calling_code":"672",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"NF.png"
+      "flag":"NF.png",
+      "continent":"Oceania"
    },
    "578":{
       "capital":"Oslo",
@@ -3091,7 +3214,8 @@
       "calling_code":"47",
       "currency_symbol":"kr",
       "currency_decimals":"2",
-      "flag":"NO.png"
+      "flag":"NO.png",
+      "continent":"Europe"
    },
    "580":{
       "capital":"Saipan",
@@ -3110,7 +3234,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"MP.png"
+      "flag":"MP.png",
+      "continent":"Oceania"
    },
    "581":{
       "capital":"United States Minor Outlying Islands",
@@ -3129,7 +3254,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"UM.png"
+      "flag":"UM.png",
+      "continent":"America"
    },
    "583":{
       "capital":"Palikir",
@@ -3148,7 +3274,8 @@
       "calling_code":"691",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"FM.png"
+      "flag":"FM.png",
+      "continent":"Oceania"
    },
    "584":{
       "capital":"Majuro",
@@ -3167,7 +3294,8 @@
       "calling_code":"692",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"MH.png"
+      "flag":"MH.png",
+      "continent":"Oceania"
    },
    "585":{
       "capital":"Melekeok",
@@ -3186,7 +3314,8 @@
       "calling_code":"680",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"PW.png"
+      "flag":"PW.png",
+      "continent":"Oceania"
    },
    "586":{
       "capital":"Islamabad",
@@ -3205,7 +3334,8 @@
       "calling_code":"92",
       "currency_symbol":"\u20a8",
       "currency_decimals":"2",
-      "flag":"PK.png"
+      "flag":"PK.png",
+      "continent":"Asia"
    },
    "591":{
       "capital":"Panama City",
@@ -3224,7 +3354,8 @@
       "calling_code":"507",
       "currency_symbol":"B\/.",
       "currency_decimals":"2",
-      "flag":"PA.png"
+      "flag":"PA.png",
+      "continent":"America"
    },
    "598":{
       "capital":"Port Moresby",
@@ -3243,7 +3374,8 @@
       "calling_code":"675",
       "currency_symbol":"PGK",
       "currency_decimals":"2",
-      "flag":"PG.png"
+      "flag":"PG.png",
+      "continent":"Oceania"
    },
    "600":{
       "capital":"Asunci\u00f3n",
@@ -3262,7 +3394,8 @@
       "calling_code":"595",
       "currency_symbol":"Gs",
       "currency_decimals":"0",
-      "flag":"PY.png"
+      "flag":"PY.png",
+      "continent":"America"
    },
    "604":{
       "capital":"Lima",
@@ -3281,7 +3414,8 @@
       "calling_code":"51",
       "currency_symbol":"S\/.",
       "currency_decimals":"2",
-      "flag":"PE.png"
+      "flag":"PE.png",
+      "continent":"America"
    },
    "608":{
       "capital":"Manila",
@@ -3300,7 +3434,8 @@
       "calling_code":"63",
       "currency_symbol":"Php",
       "currency_decimals":"2",
-      "flag":"PH.png"
+      "flag":"PH.png",
+      "continent":"Asia"
    },
    "612":{
       "capital":"Adamstown",
@@ -3319,7 +3454,8 @@
       "calling_code":"649",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"PN.png"
+      "flag":"PN.png",
+      "continent":"Oceania"
    },
    "616":{
       "capital":"Warsaw",
@@ -3338,7 +3474,8 @@
       "calling_code":"48",
       "currency_symbol":"z\u0142",
       "currency_decimals":"2",
-      "flag":"PL.png"
+      "flag":"PL.png",
+      "continent":"Europe"
    },
    "620":{
       "capital":"Lisbon",
@@ -3357,7 +3494,8 @@
       "calling_code":"351",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"PT.png"
+      "flag":"PT.png",
+      "continent":"Europe"
    },
    "624":{
       "capital":"Bissau",
@@ -3376,7 +3514,8 @@
       "calling_code":"245",
       "currency_symbol":"XOF",
       "currency_decimals":"0",
-      "flag":"GW.png"
+      "flag":"GW.png",
+      "continent":"Africa"
    },
    "626":{
       "capital":"Dili",
@@ -3395,7 +3534,8 @@
       "calling_code":"670",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"TL.png"
+      "flag":"TL.png",
+      "continent":"Asia"
    },
    "630":{
       "capital":"San Juan",
@@ -3414,7 +3554,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"PR.png"
+      "flag":"PR.png",
+      "continent":"America"
    },
    "634":{
       "capital":"Doha",
@@ -3433,7 +3574,8 @@
       "calling_code":"974",
       "currency_symbol":"\ufdfc",
       "currency_decimals":"2",
-      "flag":"QA.png"
+      "flag":"QA.png",
+      "continent":"Asia"
    },
    "638":{
       "capital":"Saint-Denis",
@@ -3452,7 +3594,8 @@
       "calling_code":"262",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"RE.png"
+      "flag":"RE.png",
+      "continent":"Africa"
    },
    "642":{
       "capital":"Bucharest",
@@ -3471,7 +3614,8 @@
       "calling_code":"40",
       "currency_symbol":"lei",
       "currency_decimals":"2",
-      "flag":"RO.png"
+      "flag":"RO.png",
+      "continent":"Europe"
    },
    "643":{
       "capital":"Moscow",
@@ -3490,7 +3634,8 @@
       "calling_code":"7",
       "currency_symbol":"\u0440\u0443\u0431",
       "currency_decimals":"2",
-      "flag":"RU.png"
+      "flag":"RU.png",
+      "continent":"Europe"
    },
    "646":{
       "capital":"Kigali",
@@ -3509,7 +3654,8 @@
       "calling_code":"250",
       "currency_symbol":"RWF",
       "currency_decimals":"0",
-      "flag":"RW.png"
+      "flag":"RW.png",
+      "continent":"Africa"
    },
    "652":{
       "capital":"Gustavia",
@@ -3525,7 +3671,8 @@
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
-      "calling_code":"590"
+      "calling_code":"590",
+      "continent":"America"
    },
    "654":{
       "capital":"Jamestown",
@@ -3544,7 +3691,8 @@
       "calling_code":"290",
       "currency_symbol":"\u00a3",
       "currency_decimals":"2",
-      "flag":"SH.png"
+      "flag":"SH.png",
+      "continent":"Africa"
    },
    "659":{
       "capital":"Basseterre",
@@ -3563,7 +3711,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"KN.png"
+      "flag":"KN.png",
+      "continent":"America"
    },
    "660":{
       "capital":"The Valley",
@@ -3582,7 +3731,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"AI.png"
+      "flag":"AI.png",
+      "continent":"America"
    },
    "662":{
       "capital":"Castries",
@@ -3601,7 +3751,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"LC.png"
+      "flag":"LC.png",
+      "continent":"America"
    },
    "663":{
       "capital":"Marigot",
@@ -3617,7 +3768,8 @@
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
-      "calling_code":"590"
+      "calling_code":"590",
+      "continent":"America"
    },
    "666":{
       "capital":"Saint-Pierre",
@@ -3636,7 +3788,8 @@
       "calling_code":"508",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"PM.png"
+      "flag":"PM.png",
+      "continent":"America"
    },
    "670":{
       "capital":"Kingstown",
@@ -3655,7 +3808,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"VC.png"
+      "flag":"VC.png",
+      "continent":"America"
    },
    "674":{
       "capital":"San Marino",
@@ -3674,7 +3828,8 @@
       "calling_code":"378",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"SM.png"
+      "flag":"SM.png",
+      "continent":"Europe"
    },
    "678":{
       "capital":"S\u00e3o Tom\u00e9",
@@ -3693,7 +3848,8 @@
       "calling_code":"239",
       "currency_symbol":"Db",
       "currency_decimals":"2",
-      "flag":"ST.png"
+      "flag":"ST.png",
+      "continent":"Africa"
    },
    "682":{
       "capital":"Riyadh",
@@ -3712,7 +3868,8 @@
       "calling_code":"966",
       "currency_symbol":"\ufdfc",
       "currency_decimals":"2",
-      "flag":"SA.png"
+      "flag":"SA.png",
+      "continent":"Asia"
    },
    "686":{
       "capital":"Dakar",
@@ -3731,7 +3888,8 @@
       "calling_code":"221",
       "currency_symbol":"XOF",
       "currency_decimals":"0",
-      "flag":"SN.png"
+      "flag":"SN.png",
+      "continent":"Africa"
    },
    "688":{
       "capital":"Belgrade",
@@ -3747,7 +3905,8 @@
       "region-code":"150",
       "sub-region-code":"039",
       "eea":false,
-      "calling_code":"381"
+      "calling_code":"381",
+      "continent":"Europe"
    },
    "690":{
       "capital":"Victoria",
@@ -3766,7 +3925,8 @@
       "calling_code":"248",
       "currency_symbol":"\u20a8",
       "currency_decimals":"2",
-      "flag":"SC.png"
+      "flag":"SC.png",
+      "continent":"Africa"
    },
    "694":{
       "capital":"Freetown",
@@ -3785,7 +3945,8 @@
       "calling_code":"232",
       "currency_symbol":"Le",
       "currency_decimals":"2",
-      "flag":"SL.png"
+      "flag":"SL.png",
+      "continent":"Africa"
    },
    "702":{
       "capital":"Singapore",
@@ -3804,7 +3965,8 @@
       "calling_code":"65",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"SG.png"
+      "flag":"SG.png",
+      "continent":"Asia"
    },
    "703":{
       "capital":"Bratislava",
@@ -3823,7 +3985,8 @@
       "calling_code":"421",
       "currency_symbol":"Sk",
       "currency_decimals":"2",
-      "flag":"SK.png"
+      "flag":"SK.png",
+      "continent":"Europe"
    },
    "704":{
       "capital":"Hanoi",
@@ -3842,7 +4005,8 @@
       "calling_code":"84",
       "currency_symbol":"\u20ab",
       "currency_decimals":"2",
-      "flag":"VN.png"
+      "flag":"VN.png",
+      "continent":"Asia"
    },
    "705":{
       "capital":"Ljubljana",
@@ -3861,7 +4025,8 @@
       "calling_code":"386",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"SI.png"
+      "flag":"SI.png",
+      "continent":"Europe"
    },
    "706":{
       "capital":"Mogadishu",
@@ -3880,7 +4045,8 @@
       "calling_code":"252",
       "currency_symbol":"S",
       "currency_decimals":"2",
-      "flag":"SO.png"
+      "flag":"SO.png",
+      "continent":"Africa"
    },
    "710":{
       "capital":"Pretoria (ZA1)",
@@ -3899,7 +4065,8 @@
       "calling_code":"27",
       "currency_symbol":"R",
       "currency_decimals":"2",
-      "flag":"ZA.png"
+      "flag":"ZA.png",
+      "continent":"Africa"
    },
    "716":{
       "capital":"Harare",
@@ -3918,7 +4085,8 @@
       "calling_code":"263",
       "currency_symbol":"Z$",
       "currency_decimals":"2",
-      "flag":"ZW.png"
+      "flag":"ZW.png",
+      "continent":"Africa"
    },
    "724":{
       "capital":"Madrid",
@@ -3937,7 +4105,8 @@
       "calling_code":"34",
       "currency_symbol":"\u20ac",
       "currency_decimals":"2",
-      "flag":"ES.png"
+      "flag":"ES.png",
+      "continent":"Europe"
    },
    "728":{
       "capital":"Juba",
@@ -3953,7 +4122,8 @@
       "region-code":"002",
       "sub-region-code":"015",
       "eea":false,
-      "calling_code":"211"
+      "calling_code":"211",
+      "continent":"Africa"
    },
    "729":{
       "capital":"Khartoum",
@@ -3969,7 +4139,8 @@
       "region-code":"002",
       "sub-region-code":"015",
       "eea":false,
-      "calling_code":"249"
+      "calling_code":"249",
+      "continent":"Africa"
    },
    "732":{
       "capital":"Al aaiun",
@@ -3988,7 +4159,8 @@
       "calling_code":"212",
       "currency_symbol":"MAD",
       "currency_decimals":"2",
-      "flag":"EH.png"
+      "flag":"EH.png",
+      "continent":"Africa"
    },
    "740":{
       "capital":"Paramaribo",
@@ -4007,7 +4179,8 @@
       "calling_code":"597",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"SR.png"
+      "flag":"SR.png",
+      "continent":"America"
    },
    "744":{
       "capital":"Longyearbyen",
@@ -4026,7 +4199,8 @@
       "calling_code":"47",
       "currency_symbol":"kr",
       "currency_decimals":"2",
-      "flag":"SJ.png"
+      "flag":"SJ.png",
+      "continent":"Europe"
    },
    "748":{
       "capital":"Mbabane",
@@ -4045,7 +4219,8 @@
       "calling_code":"268",
       "currency_symbol":"SZL",
       "currency_decimals":"2",
-      "flag":"SZ.png"
+      "flag":"SZ.png",
+      "continent":"Africa"
    },
    "752":{
       "capital":"Stockholm",
@@ -4064,7 +4239,8 @@
       "calling_code":"46",
       "currency_symbol":"kr",
       "currency_decimals":"2",
-      "flag":"SE.png"
+      "flag":"SE.png",
+      "continent":"Europe"
    },
    "756":{
       "capital":"Berne",
@@ -4083,7 +4259,8 @@
       "calling_code":"41",
       "currency_symbol":"CHF",
       "currency_decimals":"2",
-      "flag":"CH.png"
+      "flag":"CH.png",
+      "continent":"Europe"
    },
    "760":{
       "capital":"Damascus",
@@ -4102,7 +4279,8 @@
       "calling_code":"963",
       "currency_symbol":"\u00a3",
       "currency_decimals":"2",
-      "flag":"SY.png"
+      "flag":"SY.png",
+      "continent":"Asia"
    },
    "762":{
       "capital":"Dushanbe",
@@ -4121,7 +4299,8 @@
       "calling_code":"992",
       "currency_symbol":"TJS",
       "currency_decimals":"2",
-      "flag":"TJ.png"
+      "flag":"TJ.png",
+      "continent":"Asia"
    },
    "764":{
       "capital":"Bangkok",
@@ -4140,7 +4319,8 @@
       "calling_code":"66",
       "currency_symbol":"\u0e3f",
       "currency_decimals":"2",
-      "flag":"TH.png"
+      "flag":"TH.png",
+      "continent":"Asia"
    },
    "768":{
       "capital":"Lom\u00e9",
@@ -4159,7 +4339,8 @@
       "calling_code":"228",
       "currency_symbol":"XOF",
       "currency_decimals":"0",
-      "flag":"TG.png"
+      "flag":"TG.png",
+      "continent":"Africa"
    },
    "772":{
       "capital":"(TK2)",
@@ -4178,7 +4359,8 @@
       "calling_code":"690",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"TK.png"
+      "flag":"TK.png",
+      "continent":"Oceania"
    },
    "776":{
       "capital":"Nuku\u2019alofa",
@@ -4197,7 +4379,8 @@
       "calling_code":"676",
       "currency_symbol":"T$",
       "currency_decimals":"2",
-      "flag":"TO.png"
+      "flag":"TO.png",
+      "continent":"Oceania"
    },
    "780":{
       "capital":"Port of Spain",
@@ -4216,7 +4399,8 @@
       "calling_code":"1",
       "currency_symbol":"TT$",
       "currency_decimals":"2",
-      "flag":"TT.png"
+      "flag":"TT.png",
+      "continent":"America"
    },
    "784":{
       "capital":"Abu Dhabi",
@@ -4235,7 +4419,8 @@
       "calling_code":"971",
       "currency_symbol":"AED",
       "currency_decimals":"2",
-      "flag":"AE.png"
+      "flag":"AE.png",
+      "continent":"Asia"
    },
    "788":{
       "capital":"Tunis",
@@ -4254,7 +4439,8 @@
       "calling_code":"216",
       "currency_symbol":"TND",
       "currency_decimals":"3",
-      "flag":"TN.png"
+      "flag":"TN.png",
+      "continent":"Africa"
    },
    "792":{
       "capital":"Ankara",
@@ -4271,9 +4457,10 @@
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"90",
-      "currency_symbol":"₺",
+      "currency_symbol":"\u20ba",
       "currency_decimals":"2",
-      "flag":"TR.png"
+      "flag":"TR.png",
+      "continent":"Asia"
    },
    "795":{
       "capital":"Ashgabat",
@@ -4292,7 +4479,8 @@
       "calling_code":"993",
       "currency_symbol":"m",
       "currency_decimals":"2",
-      "flag":"TM.png"
+      "flag":"TM.png",
+      "continent":"Asia"
    },
    "796":{
       "capital":"Cockburn Town",
@@ -4311,7 +4499,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"TC.png"
+      "flag":"TC.png",
+      "continent":"America"
    },
    "798":{
       "capital":"Funafuti",
@@ -4330,7 +4519,8 @@
       "calling_code":"688",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"TV.png"
+      "flag":"TV.png",
+      "continent":"Oceania"
    },
    "800":{
       "capital":"Kampala",
@@ -4349,7 +4539,8 @@
       "calling_code":"256",
       "currency_symbol":"UGX",
       "currency_decimals":"0",
-      "flag":"UG.png"
+      "flag":"UG.png",
+      "continent":"Africa"
    },
    "804":{
       "capital":"Kiev",
@@ -4368,7 +4559,8 @@
       "calling_code":"380",
       "currency_symbol":"\u20b4",
       "currency_decimals":"2",
-      "flag":"UA.png"
+      "flag":"UA.png",
+      "continent":"Europe"
    },
    "807":{
       "capital":"Skopje",
@@ -4387,7 +4579,8 @@
       "calling_code":"389",
       "currency_symbol":"\u0434\u0435\u043d",
       "currency_decimals":"2",
-      "flag":"MK.png"
+      "flag":"MK.png",
+      "continent":"Europe"
    },
    "818":{
       "capital":"Cairo",
@@ -4406,7 +4599,8 @@
       "calling_code":"20",
       "currency_symbol":"\u00a3",
       "currency_decimals":"2",
-      "flag":"EG.png"
+      "flag":"EG.png",
+      "continent":"Africa"
    },
    "826":{
       "capital":"London",
@@ -4425,7 +4619,8 @@
       "calling_code":"44",
       "currency_symbol":"\u00a3",
       "currency_decimals":"2",
-      "flag":"GB.png"
+      "flag":"GB.png",
+      "continent":"Europe"
    },
    "831":{
       "capital":"St Peter Port",
@@ -4441,7 +4636,8 @@
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
-      "calling_code":"44"
+      "calling_code":"44",
+      "continent":"Europe"
    },
    "832":{
       "capital":"St Helier",
@@ -4457,7 +4653,8 @@
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
-      "calling_code":"44"
+      "calling_code":"44",
+      "continent":"Europe"
    },
    "833":{
       "capital":"Douglas",
@@ -4473,7 +4670,8 @@
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
-      "calling_code":"44"
+      "calling_code":"44",
+      "continent":"Europe"
    },
    "834":{
       "capital":"Dodoma (TZ1)",
@@ -4492,7 +4690,8 @@
       "calling_code":"255",
       "currency_symbol":"TZS",
       "currency_decimals":"2",
-      "flag":"TZ.png"
+      "flag":"TZ.png",
+      "continent":"Africa"
    },
    "840":{
       "capital":"Washington DC",
@@ -4511,26 +4710,8 @@
       "calling_code":"1",
       "currency_symbol":"$",
       "currency_decimals":"2",
-      "flag":"US.png"
-   },
-   "850":{
-      "capital":"Charlotte Amalie",
-      "citizenship":"US Virgin Islander",
-      "country-code":"850",
-      "currency":"US dollar",
-      "currency_code":"USD",
-      "currency_sub_unit":"cent",
-      "full_name":"United States Virgin Islands",
-      "iso_3166_2":"VI",
-      "iso_3166_3":"VIR",
-      "name":"Virgin Islands, U.S.",
-      "region-code":"019",
-      "sub-region-code":"029",
-      "eea":false,
-      "calling_code":"1",
-      "currency_symbol":"$",
-      "currency_decimals":"2",
-      "flag":"VI.png"
+      "flag":"US.png",
+      "continent":"America"
    },
    "854":{
       "capital":"Ouagadougou",
@@ -4549,7 +4730,8 @@
       "calling_code":"226",
       "currency_symbol":"XOF",
       "currency_decimals":"0",
-      "flag":"BF.png"
+      "flag":"BF.png",
+      "continent":"Africa"
    },
    "858":{
       "capital":"Montevideo",
@@ -4568,7 +4750,8 @@
       "calling_code":"598",
       "currency_symbol":"$U",
       "currency_decimals":"0",
-      "flag":"UY.png"
+      "flag":"UY.png",
+      "continent":"America"
    },
    "860":{
       "capital":"Tashkent",
@@ -4587,7 +4770,8 @@
       "calling_code":"998",
       "currency_symbol":"\u043b\u0432",
       "currency_decimals":"2",
-      "flag":"UZ.png"
+      "flag":"UZ.png",
+      "continent":"Asia"
    },
    "862":{
       "capital":"Caracas",
@@ -4606,7 +4790,8 @@
       "calling_code":"58",
       "currency_symbol":"Bs",
       "currency_decimals":"2",
-      "flag":"VE.png"
+      "flag":"VE.png",
+      "continent":"America"
    },
    "876":{
       "capital":"Mata-Utu",
@@ -4625,7 +4810,8 @@
       "calling_code":"681",
       "currency_symbol":"XPF",
       "currency_decimals":"0",
-      "flag":"WF.png"
+      "flag":"WF.png",
+      "continent":"Oceania"
    },
    "882":{
       "capital":"Apia",
@@ -4644,7 +4830,8 @@
       "calling_code":"685",
       "currency_symbol":"WS$",
       "currency_decimals":"2",
-      "flag":"WS.png"
+      "flag":"WS.png",
+      "continent":"Oceania"
    },
    "887":{
       "capital":"San\u2019a",
@@ -4663,7 +4850,8 @@
       "calling_code":"967",
       "currency_symbol":"\ufdfc",
       "currency_decimals":"2",
-      "flag":"YE.png"
+      "flag":"YE.png",
+      "continent":"Asia"
    },
    "894":{
       "capital":"Lusaka",
@@ -4682,6 +4870,7 @@
       "calling_code":"260",
       "currency_symbol":"ZK",
       "currency_decimals":"2",
-      "flag":"ZM.png"
+      "flag":"ZM.png",
+      "continent":"Africa"
    }
 }
