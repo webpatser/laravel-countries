@@ -15,6 +15,7 @@
       "eea":false,
       "calling_code":"93",
       "currency_symbol":"\u060b",
+      "currency_decimals":"2",
       "flag":"AF.png",
       "continent":"Asia"
    },
@@ -34,6 +35,7 @@
       "eea":false,
       "calling_code":"355",
       "currency_symbol":"Lek",
+      "currency_decimals":"2",
       "flag":"AL.png",
       "continent":"Europe"
    },
@@ -53,6 +55,7 @@
       "eea":false,
       "calling_code":"213",
       "currency_symbol":"DZD",
+      "currency_decimals":"2",
       "flag":"DZ.png",
       "continent":"Africa"
    },
@@ -72,6 +75,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"AS.png",
       "continent":"Oceania"
    },
@@ -91,6 +95,7 @@
       "eea":false,
       "calling_code":"376",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"AD.png",
       "continent":"Europe"
    },
@@ -110,6 +115,7 @@
       "eea":false,
       "calling_code":"244",
       "currency_symbol":"Kz",
+      "currency_decimals":"2",
       "flag":"AO.png",
       "continent":"Africa"
    },
@@ -129,6 +135,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"AG.png",
       "continent":"America"
    },
@@ -148,6 +155,7 @@
       "eea":false,
       "calling_code":"994",
       "currency_symbol":"\u043c\u0430\u043d",
+      "currency_decimals":"2",
       "flag":"AZ.png",
       "continent":"Asia"
    },
@@ -167,6 +175,7 @@
       "eea":false,
       "calling_code":"54",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"AR.png",
       "continent":"America"
    },
@@ -186,6 +195,7 @@
       "eea":false,
       "calling_code":"61",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"AU.png",
       "continent":"Oceania"
    },
@@ -205,6 +215,7 @@
       "eea":true,
       "calling_code":"43",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"AT.png",
       "continent":"Europe"
    },
@@ -224,6 +235,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"BS.png",
       "continent":"America"
    },
@@ -243,6 +255,7 @@
       "eea":false,
       "calling_code":"973",
       "currency_symbol":"BHD",
+      "currency_decimals":"3",
       "flag":"BH.png",
       "continent":"Asia"
    },
@@ -262,6 +275,7 @@
       "eea":false,
       "calling_code":"880",
       "currency_symbol":"BDT",
+      "currency_decimals":"2",
       "flag":"BD.png",
       "continent":"Asia"
    },
@@ -281,6 +295,7 @@
       "eea":false,
       "calling_code":"374",
       "currency_symbol":"AMD",
+      "currency_decimals":"2",
       "flag":"AM.png",
       "continent":"Asia"
    },
@@ -300,6 +315,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"BB.png",
       "continent":"America"
    },
@@ -319,6 +335,7 @@
       "eea":true,
       "calling_code":"32",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"BE.png",
       "continent":"Europe"
    },
@@ -338,6 +355,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"BM.png",
       "continent":"America"
    },
@@ -357,6 +375,7 @@
       "eea":false,
       "calling_code":"975",
       "currency_symbol":"BTN",
+      "currency_decimals":"2",
       "flag":"BT.png",
       "continent":"Asia"
    },
@@ -376,6 +395,7 @@
       "eea":false,
       "calling_code":"591",
       "currency_symbol":"$b",
+      "currency_decimals":"2",
       "flag":"BO.png",
       "continent":"America"
    },
@@ -395,6 +415,7 @@
       "eea":false,
       "calling_code":"387",
       "currency_symbol":"KM",
+      "currency_decimals":"2",
       "flag":"BA.png",
       "continent":"Europe"
    },
@@ -414,6 +435,7 @@
       "eea":false,
       "calling_code":"267",
       "currency_symbol":"P",
+      "currency_decimals":"2",
       "flag":"BW.png",
       "continent":"Africa"
    },
@@ -433,6 +455,7 @@
       "eea":false,
       "calling_code":"47",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"BV.png",
       "continent":""
    },
@@ -452,6 +475,7 @@
       "eea":false,
       "calling_code":"55",
       "currency_symbol":"R$",
+      "currency_decimals":"2",
       "flag":"BR.png",
       "continent":"America"
    },
@@ -471,6 +495,7 @@
       "eea":false,
       "calling_code":"501",
       "currency_symbol":"BZ$",
+      "currency_decimals":"2",
       "flag":"BZ.png",
       "continent":"America"
    },
@@ -490,6 +515,7 @@
       "eea":false,
       "calling_code":"246",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"IO.png",
       "continent":"Africa"
    },
@@ -509,6 +535,7 @@
       "eea":false,
       "calling_code":"677",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"SB.png",
       "continent":"Oceania"
    },
@@ -528,6 +555,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"VG.png",
       "continent":"America"
    },
@@ -547,6 +575,7 @@
       "eea":false,
       "calling_code":"673",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"BN.png",
       "continent":"Asia"
    },
@@ -566,6 +595,7 @@
       "eea":true,
       "calling_code":"359",
       "currency_symbol":"\u043b\u0432",
+      "currency_decimals":"2",
       "flag":"BG.png",
       "continent":"Europe"
    },
@@ -585,6 +615,7 @@
       "eea":false,
       "calling_code":"95",
       "currency_symbol":"K",
+      "currency_decimals":"2",
       "flag":"MM.png",
       "continent":"Asia"
    },
@@ -604,6 +635,7 @@
       "eea":false,
       "calling_code":"257",
       "currency_symbol":"BIF",
+      "currency_decimals":"0",
       "flag":"BI.png",
       "continent":"Africa"
    },
@@ -623,6 +655,7 @@
       "eea":false,
       "calling_code":"375",
       "currency_symbol":"p.",
+      "currency_decimals":"2",
       "flag":"BY.png",
       "continent":"Europe"
    },
@@ -642,6 +675,7 @@
       "eea":false,
       "calling_code":"855",
       "currency_symbol":"\u17db",
+      "currency_decimals":"2",
       "flag":"KH.png",
       "continent":"Asia"
    },
@@ -661,6 +695,7 @@
       "eea":false,
       "calling_code":"237",
       "currency_symbol":"FCF",
+      "currency_decimals":"0",
       "flag":"CM.png",
       "continent":"Africa"
    },
@@ -680,6 +715,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"CA.png",
       "continent":"America"
    },
@@ -699,6 +735,7 @@
       "eea":false,
       "calling_code":"238",
       "currency_symbol":"CVE",
+      "currency_decimals":"2",
       "flag":"CV.png",
       "continent":"Africa"
    },
@@ -718,6 +755,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"KY.png",
       "continent":"America"
    },
@@ -736,7 +774,8 @@
       "sub-region-code":"017",
       "eea":false,
       "calling_code":"236",
-      "currency_symbol":"FCF",
+      "currency_symbol":"CFA",
+      "currency_decimals":"0",
       "flag":"CF.png",
       "continent":"Africa"
    },
@@ -756,6 +795,7 @@
       "eea":false,
       "calling_code":"94",
       "currency_symbol":"\u20a8",
+      "currency_decimals":"2",
       "flag":"LK.png",
       "continent":"Asia"
    },
@@ -775,6 +815,7 @@
       "eea":false,
       "calling_code":"235",
       "currency_symbol":"XAF",
+      "currency_decimals":"0",
       "flag":"TD.png",
       "continent":"Africa"
    },
@@ -794,6 +835,7 @@
       "eea":false,
       "calling_code":"56",
       "currency_symbol":"CLP",
+      "currency_decimals":"0",
       "flag":"CL.png",
       "continent":"America"
    },
@@ -813,6 +855,7 @@
       "eea":false,
       "calling_code":"86",
       "currency_symbol":"\u00a5",
+      "currency_decimals":"2",
       "flag":"CN.png",
       "continent":"Asia"
    },
@@ -832,6 +875,7 @@
       "eea":false,
       "calling_code":"886",
       "currency_symbol":"NT$",
+      "currency_decimals":"2",
       "flag":"TW.png",
       "continent":"Asia"
    },
@@ -851,6 +895,7 @@
       "eea":false,
       "calling_code":"61",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"CX.png",
       "continent":"Oceania"
    },
@@ -870,6 +915,7 @@
       "eea":false,
       "calling_code":"61",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"CC.png",
       "continent":"Oceania"
    },
@@ -889,6 +935,7 @@
       "eea":false,
       "calling_code":"57",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"CO.png",
       "continent":"America"
    },
@@ -908,6 +955,7 @@
       "eea":false,
       "calling_code":"269",
       "currency_symbol":"KMF",
+      "currency_decimals":"0",
       "flag":"KM.png",
       "continent":"Africa"
    },
@@ -927,6 +975,7 @@
       "eea":false,
       "calling_code":"262",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"YT.png",
       "continent":"Africa"
    },
@@ -946,6 +995,7 @@
       "eea":false,
       "calling_code":"242",
       "currency_symbol":"FCF",
+      "currency_decimals":"0",
       "flag":"CG.png",
       "continent":"Africa"
    },
@@ -965,6 +1015,7 @@
       "eea":false,
       "calling_code":"243",
       "currency_symbol":"CDF",
+      "currency_decimals":"2",
       "flag":"CD.png",
       "continent":"Africa"
    },
@@ -984,6 +1035,7 @@
       "eea":false,
       "calling_code":"682",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"CK.png",
       "continent":"Oceania"
    },
@@ -1003,6 +1055,7 @@
       "eea":false,
       "calling_code":"506",
       "currency_symbol":"\u20a1",
+      "currency_decimals":"2",
       "flag":"CR.png",
       "continent":"America"
    },
@@ -1022,6 +1075,7 @@
       "eea":true,
       "calling_code":"385",
       "currency_symbol":"kn",
+      "currency_decimals":"2",
       "flag":"HR.png",
       "continent":"Europe"
    },
@@ -1041,6 +1095,7 @@
       "eea":false,
       "calling_code":"53",
       "currency_symbol":"\u20b1",
+      "currency_decimals":"2",
       "flag":"CU.png",
       "continent":"America"
    },
@@ -1060,6 +1115,7 @@
       "eea":true,
       "calling_code":"357",
       "currency_symbol":"CYP",
+      "currency_decimals":"2",
       "flag":"CY.png",
       "continent":"Europe"
    },
@@ -1079,6 +1135,7 @@
       "eea":true,
       "calling_code":"420",
       "currency_symbol":"K\u010d",
+      "currency_decimals":"2",
       "flag":"CZ.png",
       "continent":"Europe"
    },
@@ -1098,6 +1155,7 @@
       "eea":false,
       "calling_code":"229",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"BJ.png",
       "continent":"Africa"
    },
@@ -1117,6 +1175,7 @@
       "eea":true,
       "calling_code":"45",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"DK.png",
       "continent":"Europe"
    },
@@ -1136,6 +1195,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"DM.png",
       "continent":"America"
    },
@@ -1155,6 +1215,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"RD$",
+      "currency_decimals":"2",
       "flag":"DO.png",
       "continent":"America"
    },
@@ -1174,6 +1235,7 @@
       "eea":false,
       "calling_code":"593",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"EC.png",
       "continent":"America"
    },
@@ -1193,6 +1255,7 @@
       "eea":false,
       "calling_code":"503",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"SV.png",
       "continent":"America"
    },
@@ -1212,6 +1275,7 @@
       "eea":false,
       "calling_code":"240",
       "currency_symbol":"FCF",
+      "currency_decimals":"2",
       "flag":"GQ.png",
       "continent":"Africa"
    },
@@ -1231,6 +1295,7 @@
       "eea":false,
       "calling_code":"251",
       "currency_symbol":"ETB",
+      "currency_decimals":"2",
       "flag":"ET.png",
       "continent":"Africa"
    },
@@ -1250,6 +1315,7 @@
       "eea":false,
       "calling_code":"291",
       "currency_symbol":"Nfk",
+      "currency_decimals":"2",
       "flag":"ER.png",
       "continent":"Africa"
    },
@@ -1269,6 +1335,7 @@
       "eea":true,
       "calling_code":"372",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"EE.png",
       "continent":"Europe"
    },
@@ -1288,6 +1355,7 @@
       "eea":false,
       "calling_code":"298",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"FO.png",
       "continent":"Europe"
    },
@@ -1307,6 +1375,7 @@
       "eea":false,
       "calling_code":"500",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"FK.png",
       "continent":"America"
    },
@@ -1326,6 +1395,7 @@
       "eea":false,
       "calling_code":"44",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"GS.png",
       "continent":"America"
    },
@@ -1345,6 +1415,7 @@
       "eea":false,
       "calling_code":"679",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"FJ.png",
       "continent":"Oceania"
    },
@@ -1364,6 +1435,7 @@
       "eea":true,
       "calling_code":"358",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"FI.png",
       "continent":"Europe"
    },
@@ -1400,6 +1472,7 @@
       "eea":true,
       "calling_code":"33",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"FR.png",
       "continent":"Europe"
    },
@@ -1419,6 +1492,7 @@
       "eea":false,
       "calling_code":"594",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"GF.png",
       "continent":"America"
    },
@@ -1438,6 +1512,7 @@
       "eea":false,
       "calling_code":"689",
       "currency_symbol":"XPF",
+      "currency_decimals":"0",
       "flag":"PF.png",
       "continent":"Oceania"
    },
@@ -1457,6 +1532,7 @@
       "eea":false,
       "calling_code":"33",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"TF.png",
       "continent":""
    },
@@ -1476,6 +1552,7 @@
       "eea":false,
       "calling_code":"253",
       "currency_symbol":"DJF",
+      "currency_decimals":"0",
       "flag":"DJ.png",
       "continent":"Africa"
    },
@@ -1495,6 +1572,7 @@
       "eea":false,
       "calling_code":"241",
       "currency_symbol":"FCF",
+      "currency_decimals":"0",
       "flag":"GA.png",
       "continent":"Africa"
    },
@@ -1514,6 +1592,7 @@
       "eea":false,
       "calling_code":"995",
       "currency_symbol":"GEL",
+      "currency_decimals":"2",
       "flag":"GE.png",
       "continent":"Asia"
    },
@@ -1533,6 +1612,7 @@
       "eea":false,
       "calling_code":"220",
       "currency_symbol":"D",
+      "currency_decimals":"2",
       "flag":"GM.png",
       "continent":"Africa"
    },
@@ -1547,6 +1627,7 @@
       "eea":false,
       "calling_code":"970",
       "currency_symbol":"\u20aa",
+      "currency_decimals":"2",
       "flag":"PS.png",
       "continent":"Asia"
    },
@@ -1566,6 +1647,7 @@
       "eea":true,
       "calling_code":"49",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"DE.png",
       "continent":"Europe"
    },
@@ -1585,6 +1667,7 @@
       "eea":false,
       "calling_code":"233",
       "currency_symbol":"\u00a2",
+      "currency_decimals":"2",
       "flag":"GH.png",
       "continent":"Africa"
    },
@@ -1604,6 +1687,7 @@
       "eea":false,
       "calling_code":"350",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"GI.png",
       "continent":"Europe"
    },
@@ -1623,6 +1707,7 @@
       "eea":false,
       "calling_code":"686",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"KI.png",
       "continent":"Oceania"
    },
@@ -1642,6 +1727,7 @@
       "eea":true,
       "calling_code":"30",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"GR.png",
       "continent":"Europe"
    },
@@ -1661,6 +1747,7 @@
       "eea":false,
       "calling_code":"299",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"GL.png",
       "continent":"America"
    },
@@ -1680,6 +1767,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"GD.png",
       "continent":"America"
    },
@@ -1699,6 +1787,7 @@
       "eea":false,
       "calling_code":"590",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"GP.png",
       "continent":"America"
    },
@@ -1718,6 +1807,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"GU.png",
       "continent":"Oceania"
    },
@@ -1737,6 +1827,7 @@
       "eea":false,
       "calling_code":"502",
       "currency_symbol":"Q",
+      "currency_decimals":"2",
       "flag":"GT.png",
       "continent":"America"
    },
@@ -1756,6 +1847,7 @@
       "eea":false,
       "calling_code":"224",
       "currency_symbol":"GNF",
+      "currency_decimals":"0",
       "flag":"GN.png",
       "continent":"Africa"
    },
@@ -1775,6 +1867,7 @@
       "eea":false,
       "calling_code":"592",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"GY.png",
       "continent":"America"
    },
@@ -1794,6 +1887,7 @@
       "eea":false,
       "calling_code":"509",
       "currency_symbol":"G",
+      "currency_decimals":"2",
       "flag":"HT.png",
       "continent":"America"
    },
@@ -1813,6 +1907,7 @@
       "eea":false,
       "calling_code":"61",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"HM.png",
       "continent":""
    },
@@ -1832,6 +1927,7 @@
       "eea":false,
       "calling_code":"504",
       "currency_symbol":"L",
+      "currency_decimals":"2",
       "flag":"HN.png",
       "continent":"America"
    },
@@ -1851,6 +1947,7 @@
       "eea":false,
       "calling_code":"852",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"HK.png",
       "continent":"Asia"
    },
@@ -1870,6 +1967,7 @@
       "eea":true,
       "calling_code":"36",
       "currency_symbol":"Ft",
+      "currency_decimals":"2",
       "flag":"HU.png",
       "continent":"Europe"
    },
@@ -1889,6 +1987,7 @@
       "eea":true,
       "calling_code":"354",
       "currency_symbol":"kr",
+      "currency_decimals":"0",
       "flag":"IS.png",
       "continent":"Europe"
    },
@@ -1908,6 +2007,7 @@
       "eea":false,
       "calling_code":"91",
       "currency_symbol":"\u20b9",
+      "currency_decimals":"2",
       "flag":"IN.png",
       "continent":"Asia"
    },
@@ -1927,6 +2027,7 @@
       "eea":false,
       "calling_code":"62",
       "currency_symbol":"Rp",
+      "currency_decimals":"2",
       "flag":"ID.png",
       "continent":"Asia"
    },
@@ -1946,6 +2047,7 @@
       "eea":false,
       "calling_code":"98",
       "currency_symbol":"\ufdfc",
+      "currency_decimals":"2",
       "flag":"IR.png",
       "continent":"Asia"
    },
@@ -1965,6 +2067,7 @@
       "eea":false,
       "calling_code":"964",
       "currency_symbol":"IQD",
+      "currency_decimals":"3",
       "flag":"IQ.png",
       "continent":"Asia"
    },
@@ -1984,6 +2087,7 @@
       "eea":true,
       "calling_code":"353",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"IE.png",
       "continent":"Europe"
    },
@@ -2003,6 +2107,7 @@
       "eea":false,
       "calling_code":"972",
       "currency_symbol":"\u20aa",
+      "currency_decimals":"2",
       "flag":"IL.png",
       "continent":"Asia"
    },
@@ -2022,6 +2127,7 @@
       "eea":true,
       "calling_code":"39",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"IT.png",
       "continent":"Europe"
    },
@@ -2041,6 +2147,7 @@
       "eea":false,
       "calling_code":"225",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"CI.png",
       "continent":"Africa"
    },
@@ -2060,6 +2167,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"JM.png",
       "continent":"America"
    },
@@ -2079,6 +2187,7 @@
       "eea":false,
       "calling_code":"81",
       "currency_symbol":"\u00a5",
+      "currency_decimals":"0",
       "flag":"JP.png",
       "continent":"Asia"
    },
@@ -2098,6 +2207,7 @@
       "eea":false,
       "calling_code":"7",
       "currency_symbol":"\u043b\u0432",
+      "currency_decimals":"2",
       "flag":"KZ.png",
       "continent":"Asia"
    },
@@ -2117,6 +2227,7 @@
       "eea":false,
       "calling_code":"962",
       "currency_symbol":"JOD",
+      "currency_decimals":"2",
       "flag":"JO.png",
       "continent":"Asia"
    },
@@ -2136,6 +2247,7 @@
       "eea":false,
       "calling_code":"254",
       "currency_symbol":"KES",
+      "currency_decimals":"2",
       "flag":"KE.png",
       "continent":"Africa"
    },
@@ -2155,6 +2267,7 @@
       "eea":false,
       "calling_code":"850",
       "currency_symbol":"\u20a9",
+      "currency_decimals":"2",
       "flag":"KP.png",
       "continent":"Asia"
    },
@@ -2174,6 +2287,7 @@
       "eea":false,
       "calling_code":"82",
       "currency_symbol":"\u20a9",
+      "currency_decimals":"0",
       "flag":"KR.png",
       "continent":"Asia"
    },
@@ -2193,6 +2307,7 @@
       "eea":false,
       "calling_code":"965",
       "currency_symbol":"KWD",
+      "currency_decimals":"3",
       "flag":"KW.png",
       "continent":"Asia"
    },
@@ -2212,6 +2327,7 @@
       "eea":false,
       "calling_code":"996",
       "currency_symbol":"\u043b\u0432",
+      "currency_decimals":"2",
       "flag":"KG.png",
       "continent":"Asia"
    },
@@ -2231,6 +2347,7 @@
       "eea":false,
       "calling_code":"856",
       "currency_symbol":"\u20ad",
+      "currency_decimals":"0",
       "flag":"LA.png",
       "continent":"Asia"
    },
@@ -2250,6 +2367,7 @@
       "eea":false,
       "calling_code":"961",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"LB.png",
       "continent":"Asia"
    },
@@ -2269,6 +2387,7 @@
       "eea":false,
       "calling_code":"266",
       "currency_symbol":"L",
+      "currency_decimals":"2",
       "flag":"LS.png",
       "continent":"Africa"
    },
@@ -2288,6 +2407,7 @@
       "eea":true,
       "calling_code":"371",
       "currency_symbol":"Ls",
+      "currency_decimals":"2",
       "flag":"LV.png",
       "continent":"Europe"
    },
@@ -2307,6 +2427,7 @@
       "eea":false,
       "calling_code":"231",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"LR.png",
       "continent":"Africa"
    },
@@ -2326,6 +2447,7 @@
       "eea":false,
       "calling_code":"218",
       "currency_symbol":"LYD",
+      "currency_decimals":"3",
       "flag":"LY.png",
       "continent":"Africa"
    },
@@ -2345,6 +2467,7 @@
       "eea":true,
       "calling_code":"423",
       "currency_symbol":"CHF",
+      "currency_decimals":"2",
       "flag":"LI.png",
       "continent":"Europe"
    },
@@ -2364,6 +2487,7 @@
       "eea":true,
       "calling_code":"370",
       "currency_symbol":"Lt",
+      "currency_decimals":"2",
       "flag":"LT.png",
       "continent":"Europe"
    },
@@ -2383,6 +2507,7 @@
       "eea":true,
       "calling_code":"352",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"LU.png",
       "continent":"Europe"
    },
@@ -2402,6 +2527,7 @@
       "eea":false,
       "calling_code":"853",
       "currency_symbol":"MOP",
+      "currency_decimals":"2",
       "flag":"MO.png",
       "continent":"Asia"
    },
@@ -2421,6 +2547,7 @@
       "eea":false,
       "calling_code":"261",
       "currency_symbol":"MGA",
+      "currency_decimals":"2",
       "flag":"MG.png",
       "continent":"Africa"
    },
@@ -2440,6 +2567,7 @@
       "eea":false,
       "calling_code":"265",
       "currency_symbol":"MK",
+      "currency_decimals":"2",
       "flag":"MW.png",
       "continent":"Africa"
    },
@@ -2459,6 +2587,7 @@
       "eea":false,
       "calling_code":"60",
       "currency_symbol":"RM",
+      "currency_decimals":"2",
       "flag":"MY.png",
       "continent":"Asia"
    },
@@ -2478,6 +2607,7 @@
       "eea":false,
       "calling_code":"960",
       "currency_symbol":"Rf",
+      "currency_decimals":"2",
       "flag":"MV.png",
       "continent":"Asia"
    },
@@ -2497,6 +2627,7 @@
       "eea":false,
       "calling_code":"223",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"ML.png",
       "continent":"Africa"
    },
@@ -2516,6 +2647,7 @@
       "eea":true,
       "calling_code":"356",
       "currency_symbol":"MTL",
+      "currency_decimals":"2",
       "flag":"MT.png",
       "continent":"Europe"
    },
@@ -2535,6 +2667,7 @@
       "eea":false,
       "calling_code":"596",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"MQ.png",
       "continent":"America"
    },
@@ -2554,6 +2687,7 @@
       "eea":false,
       "calling_code":"222",
       "currency_symbol":"UM",
+      "currency_decimals":"2",
       "flag":"MR.png",
       "continent":"Africa"
    },
@@ -2573,6 +2707,7 @@
       "eea":false,
       "calling_code":"230",
       "currency_symbol":"\u20a8",
+      "currency_decimals":"2",
       "flag":"MU.png",
       "continent":"Africa"
    },
@@ -2592,6 +2727,7 @@
       "eea":false,
       "calling_code":"52",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"MX.png",
       "continent":"America"
    },
@@ -2611,6 +2747,7 @@
       "eea":false,
       "calling_code":"377",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"MC.png",
       "continent":"Europe"
    },
@@ -2630,6 +2767,7 @@
       "eea":false,
       "calling_code":"976",
       "currency_symbol":"\u20ae",
+      "currency_decimals":"2",
       "flag":"MN.png",
       "continent":"Asia"
    },
@@ -2649,6 +2787,7 @@
       "eea":false,
       "calling_code":"373",
       "currency_symbol":"MDL",
+      "currency_decimals":"2",
       "flag":"MD.png",
       "continent":"Europe"
    },
@@ -2685,6 +2824,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"MS.png",
       "continent":"America"
    },
@@ -2704,6 +2844,7 @@
       "eea":false,
       "calling_code":"212",
       "currency_symbol":"MAD",
+      "currency_decimals":"2",
       "flag":"MA.png",
       "continent":"Africa"
    },
@@ -2723,6 +2864,7 @@
       "eea":false,
       "calling_code":"258",
       "currency_symbol":"MT",
+      "currency_decimals":"2",
       "flag":"MZ.png",
       "continent":"Africa"
    },
@@ -2742,6 +2884,7 @@
       "eea":false,
       "calling_code":"968",
       "currency_symbol":"\ufdfc",
+      "currency_decimals":"3",
       "flag":"OM.png",
       "continent":"Asia"
    },
@@ -2761,6 +2904,7 @@
       "eea":false,
       "calling_code":"264",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"NA.png",
       "continent":"Africa"
    },
@@ -2780,6 +2924,7 @@
       "eea":false,
       "calling_code":"674",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"NR.png",
       "continent":"Oceania"
    },
@@ -2799,6 +2944,7 @@
       "eea":false,
       "calling_code":"977",
       "currency_symbol":"\u20a8",
+      "currency_decimals":"2",
       "flag":"NP.png",
       "continent":"Asia"
    },
@@ -2818,6 +2964,7 @@
       "eea":true,
       "calling_code":"31",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"NL.png",
       "continent":"Europe"
    },
@@ -2854,6 +3001,7 @@
       "eea":false,
       "calling_code":"297",
       "currency_symbol":"\u0192",
+      "currency_decimals":"2",
       "flag":"AW.png",
       "continent":"America"
    },
@@ -2905,6 +3053,7 @@
       "eea":false,
       "calling_code":"687",
       "currency_symbol":"XPF",
+      "currency_decimals":"0",
       "flag":"NC.png",
       "continent":"Oceania"
    },
@@ -2924,6 +3073,7 @@
       "eea":false,
       "calling_code":"678",
       "currency_symbol":"Vt",
+      "currency_decimals":"0",
       "flag":"VU.png",
       "continent":"Oceania"
    },
@@ -2943,6 +3093,7 @@
       "eea":false,
       "calling_code":"64",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"NZ.png",
       "continent":"Oceania"
    },
@@ -2962,6 +3113,7 @@
       "eea":false,
       "calling_code":"505",
       "currency_symbol":"C$",
+      "currency_decimals":"2",
       "flag":"NI.png",
       "continent":"America"
    },
@@ -2981,6 +3133,7 @@
       "eea":false,
       "calling_code":"227",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"NE.png",
       "continent":"Africa"
    },
@@ -3000,6 +3153,7 @@
       "eea":false,
       "calling_code":"234",
       "currency_symbol":"\u20a6",
+      "currency_decimals":"2",
       "flag":"NG.png",
       "continent":"Africa"
    },
@@ -3019,6 +3173,7 @@
       "eea":false,
       "calling_code":"683",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"NU.png",
       "continent":"Oceania"
    },
@@ -3038,6 +3193,7 @@
       "eea":false,
       "calling_code":"672",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"NF.png",
       "continent":"Oceania"
    },
@@ -3057,6 +3213,7 @@
       "eea":true,
       "calling_code":"47",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"NO.png",
       "continent":"Europe"
    },
@@ -3076,6 +3233,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"MP.png",
       "continent":"Oceania"
    },
@@ -3095,6 +3253,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"UM.png",
       "continent":"America"
    },
@@ -3114,6 +3273,7 @@
       "eea":false,
       "calling_code":"691",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"FM.png",
       "continent":"Oceania"
    },
@@ -3133,6 +3293,7 @@
       "eea":false,
       "calling_code":"692",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"MH.png",
       "continent":"Oceania"
    },
@@ -3152,6 +3313,7 @@
       "eea":false,
       "calling_code":"680",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"PW.png",
       "continent":"Oceania"
    },
@@ -3171,6 +3333,7 @@
       "eea":false,
       "calling_code":"92",
       "currency_symbol":"\u20a8",
+      "currency_decimals":"2",
       "flag":"PK.png",
       "continent":"Asia"
    },
@@ -3190,6 +3353,7 @@
       "eea":false,
       "calling_code":"507",
       "currency_symbol":"B\/.",
+      "currency_decimals":"2",
       "flag":"PA.png",
       "continent":"America"
    },
@@ -3209,6 +3373,7 @@
       "eea":false,
       "calling_code":"675",
       "currency_symbol":"PGK",
+      "currency_decimals":"2",
       "flag":"PG.png",
       "continent":"Oceania"
    },
@@ -3228,6 +3393,7 @@
       "eea":false,
       "calling_code":"595",
       "currency_symbol":"Gs",
+      "currency_decimals":"0",
       "flag":"PY.png",
       "continent":"America"
    },
@@ -3247,6 +3413,7 @@
       "eea":false,
       "calling_code":"51",
       "currency_symbol":"S\/.",
+      "currency_decimals":"2",
       "flag":"PE.png",
       "continent":"America"
    },
@@ -3266,6 +3433,7 @@
       "eea":false,
       "calling_code":"63",
       "currency_symbol":"Php",
+      "currency_decimals":"2",
       "flag":"PH.png",
       "continent":"Asia"
    },
@@ -3285,6 +3453,7 @@
       "eea":false,
       "calling_code":"649",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"PN.png",
       "continent":"Oceania"
    },
@@ -3304,6 +3473,7 @@
       "eea":true,
       "calling_code":"48",
       "currency_symbol":"z\u0142",
+      "currency_decimals":"2",
       "flag":"PL.png",
       "continent":"Europe"
    },
@@ -3323,6 +3493,7 @@
       "eea":true,
       "calling_code":"351",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"PT.png",
       "continent":"Europe"
    },
@@ -3342,6 +3513,7 @@
       "eea":false,
       "calling_code":"245",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"GW.png",
       "continent":"Africa"
    },
@@ -3361,6 +3533,7 @@
       "eea":false,
       "calling_code":"670",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"TL.png",
       "continent":"Asia"
    },
@@ -3380,6 +3553,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"PR.png",
       "continent":"America"
    },
@@ -3399,6 +3573,7 @@
       "eea":false,
       "calling_code":"974",
       "currency_symbol":"\ufdfc",
+      "currency_decimals":"2",
       "flag":"QA.png",
       "continent":"Asia"
    },
@@ -3418,6 +3593,7 @@
       "eea":false,
       "calling_code":"262",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"RE.png",
       "continent":"Africa"
    },
@@ -3437,6 +3613,7 @@
       "eea":true,
       "calling_code":"40",
       "currency_symbol":"lei",
+      "currency_decimals":"2",
       "flag":"RO.png",
       "continent":"Europe"
    },
@@ -3456,6 +3633,7 @@
       "eea":false,
       "calling_code":"7",
       "currency_symbol":"\u0440\u0443\u0431",
+      "currency_decimals":"2",
       "flag":"RU.png",
       "continent":"Europe"
    },
@@ -3475,6 +3653,7 @@
       "eea":false,
       "calling_code":"250",
       "currency_symbol":"RWF",
+      "currency_decimals":"0",
       "flag":"RW.png",
       "continent":"Africa"
    },
@@ -3511,6 +3690,7 @@
       "eea":false,
       "calling_code":"290",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"SH.png",
       "continent":"Africa"
    },
@@ -3530,6 +3710,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"KN.png",
       "continent":"America"
    },
@@ -3549,6 +3730,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"AI.png",
       "continent":"America"
    },
@@ -3568,6 +3750,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"LC.png",
       "continent":"America"
    },
@@ -3604,6 +3787,7 @@
       "eea":false,
       "calling_code":"508",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"PM.png",
       "continent":"America"
    },
@@ -3623,6 +3807,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"VC.png",
       "continent":"America"
    },
@@ -3642,6 +3827,7 @@
       "eea":false,
       "calling_code":"378",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"SM.png",
       "continent":"Europe"
    },
@@ -3661,6 +3847,7 @@
       "eea":false,
       "calling_code":"239",
       "currency_symbol":"Db",
+      "currency_decimals":"2",
       "flag":"ST.png",
       "continent":"Africa"
    },
@@ -3680,6 +3867,7 @@
       "eea":false,
       "calling_code":"966",
       "currency_symbol":"\ufdfc",
+      "currency_decimals":"2",
       "flag":"SA.png",
       "continent":"Asia"
    },
@@ -3699,6 +3887,7 @@
       "eea":false,
       "calling_code":"221",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"SN.png",
       "continent":"Africa"
    },
@@ -3735,6 +3924,7 @@
       "eea":false,
       "calling_code":"248",
       "currency_symbol":"\u20a8",
+      "currency_decimals":"2",
       "flag":"SC.png",
       "continent":"Africa"
    },
@@ -3754,6 +3944,7 @@
       "eea":false,
       "calling_code":"232",
       "currency_symbol":"Le",
+      "currency_decimals":"2",
       "flag":"SL.png",
       "continent":"Africa"
    },
@@ -3773,6 +3964,7 @@
       "eea":false,
       "calling_code":"65",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"SG.png",
       "continent":"Asia"
    },
@@ -3792,6 +3984,7 @@
       "eea":true,
       "calling_code":"421",
       "currency_symbol":"Sk",
+      "currency_decimals":"2",
       "flag":"SK.png",
       "continent":"Europe"
    },
@@ -3811,6 +4004,7 @@
       "eea":false,
       "calling_code":"84",
       "currency_symbol":"\u20ab",
+      "currency_decimals":"2",
       "flag":"VN.png",
       "continent":"Asia"
    },
@@ -3830,6 +4024,7 @@
       "eea":true,
       "calling_code":"386",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"SI.png",
       "continent":"Europe"
    },
@@ -3849,6 +4044,7 @@
       "eea":false,
       "calling_code":"252",
       "currency_symbol":"S",
+      "currency_decimals":"2",
       "flag":"SO.png",
       "continent":"Africa"
    },
@@ -3868,6 +4064,7 @@
       "eea":false,
       "calling_code":"27",
       "currency_symbol":"R",
+      "currency_decimals":"2",
       "flag":"ZA.png",
       "continent":"Africa"
    },
@@ -3887,6 +4084,7 @@
       "eea":false,
       "calling_code":"263",
       "currency_symbol":"Z$",
+      "currency_decimals":"2",
       "flag":"ZW.png",
       "continent":"Africa"
    },
@@ -3906,6 +4104,7 @@
       "eea":true,
       "calling_code":"34",
       "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
       "flag":"ES.png",
       "continent":"Europe"
    },
@@ -3959,6 +4158,7 @@
       "eea":false,
       "calling_code":"212",
       "currency_symbol":"MAD",
+      "currency_decimals":"2",
       "flag":"EH.png",
       "continent":"Africa"
    },
@@ -3978,6 +4178,7 @@
       "eea":false,
       "calling_code":"597",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"SR.png",
       "continent":"America"
    },
@@ -3997,6 +4198,7 @@
       "eea":false,
       "calling_code":"47",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"SJ.png",
       "continent":"Europe"
    },
@@ -4016,6 +4218,7 @@
       "eea":false,
       "calling_code":"268",
       "currency_symbol":"SZL",
+      "currency_decimals":"2",
       "flag":"SZ.png",
       "continent":"Africa"
    },
@@ -4035,6 +4238,7 @@
       "eea":true,
       "calling_code":"46",
       "currency_symbol":"kr",
+      "currency_decimals":"2",
       "flag":"SE.png",
       "continent":"Europe"
    },
@@ -4054,6 +4258,7 @@
       "eea":true,
       "calling_code":"41",
       "currency_symbol":"CHF",
+      "currency_decimals":"2",
       "flag":"CH.png",
       "continent":"Europe"
    },
@@ -4073,6 +4278,7 @@
       "eea":false,
       "calling_code":"963",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"SY.png",
       "continent":"Asia"
    },
@@ -4092,6 +4298,7 @@
       "eea":false,
       "calling_code":"992",
       "currency_symbol":"TJS",
+      "currency_decimals":"2",
       "flag":"TJ.png",
       "continent":"Asia"
    },
@@ -4111,6 +4318,7 @@
       "eea":false,
       "calling_code":"66",
       "currency_symbol":"\u0e3f",
+      "currency_decimals":"2",
       "flag":"TH.png",
       "continent":"Asia"
    },
@@ -4130,6 +4338,7 @@
       "eea":false,
       "calling_code":"228",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"TG.png",
       "continent":"Africa"
    },
@@ -4149,6 +4358,7 @@
       "eea":false,
       "calling_code":"690",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"TK.png",
       "continent":"Oceania"
    },
@@ -4168,6 +4378,7 @@
       "eea":false,
       "calling_code":"676",
       "currency_symbol":"T$",
+      "currency_decimals":"2",
       "flag":"TO.png",
       "continent":"Oceania"
    },
@@ -4187,6 +4398,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"TT$",
+      "currency_decimals":"2",
       "flag":"TT.png",
       "continent":"America"
    },
@@ -4206,6 +4418,7 @@
       "eea":false,
       "calling_code":"971",
       "currency_symbol":"AED",
+      "currency_decimals":"2",
       "flag":"AE.png",
       "continent":"Asia"
    },
@@ -4225,6 +4438,7 @@
       "eea":false,
       "calling_code":"216",
       "currency_symbol":"TND",
+      "currency_decimals":"3",
       "flag":"TN.png",
       "continent":"Africa"
    },
@@ -4244,6 +4458,7 @@
       "eea":false,
       "calling_code":"90",
       "currency_symbol":"\u20ba",
+      "currency_decimals":"2",
       "flag":"TR.png",
       "continent":"Asia"
    },
@@ -4263,6 +4478,7 @@
       "eea":false,
       "calling_code":"993",
       "currency_symbol":"m",
+      "currency_decimals":"2",
       "flag":"TM.png",
       "continent":"Asia"
    },
@@ -4282,6 +4498,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"TC.png",
       "continent":"America"
    },
@@ -4301,6 +4518,7 @@
       "eea":false,
       "calling_code":"688",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"TV.png",
       "continent":"Oceania"
    },
@@ -4320,6 +4538,7 @@
       "eea":false,
       "calling_code":"256",
       "currency_symbol":"UGX",
+      "currency_decimals":"0",
       "flag":"UG.png",
       "continent":"Africa"
    },
@@ -4339,6 +4558,7 @@
       "eea":false,
       "calling_code":"380",
       "currency_symbol":"\u20b4",
+      "currency_decimals":"2",
       "flag":"UA.png",
       "continent":"Europe"
    },
@@ -4358,6 +4578,7 @@
       "eea":false,
       "calling_code":"389",
       "currency_symbol":"\u0434\u0435\u043d",
+      "currency_decimals":"2",
       "flag":"MK.png",
       "continent":"Europe"
    },
@@ -4377,6 +4598,7 @@
       "eea":false,
       "calling_code":"20",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"EG.png",
       "continent":"Africa"
    },
@@ -4396,6 +4618,7 @@
       "eea":true,
       "calling_code":"44",
       "currency_symbol":"\u00a3",
+      "currency_decimals":"2",
       "flag":"GB.png",
       "continent":"Europe"
    },
@@ -4466,6 +4689,7 @@
       "eea":false,
       "calling_code":"255",
       "currency_symbol":"TZS",
+      "currency_decimals":"2",
       "flag":"TZ.png",
       "continent":"Africa"
    },
@@ -4485,6 +4709,7 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
+      "currency_decimals":"2",
       "flag":"US.png",
       "continent":"America"
    },
@@ -4504,6 +4729,7 @@
       "eea":false,
       "calling_code":"226",
       "currency_symbol":"XOF",
+      "currency_decimals":"0",
       "flag":"BF.png",
       "continent":"Africa"
    },
@@ -4523,6 +4749,7 @@
       "eea":false,
       "calling_code":"598",
       "currency_symbol":"$U",
+      "currency_decimals":"0",
       "flag":"UY.png",
       "continent":"America"
    },
@@ -4542,6 +4769,7 @@
       "eea":false,
       "calling_code":"998",
       "currency_symbol":"\u043b\u0432",
+      "currency_decimals":"2",
       "flag":"UZ.png",
       "continent":"Asia"
    },
@@ -4561,6 +4789,7 @@
       "eea":false,
       "calling_code":"58",
       "currency_symbol":"Bs",
+      "currency_decimals":"2",
       "flag":"VE.png",
       "continent":"America"
    },
@@ -4580,6 +4809,7 @@
       "eea":false,
       "calling_code":"681",
       "currency_symbol":"XPF",
+      "currency_decimals":"0",
       "flag":"WF.png",
       "continent":"Oceania"
    },
@@ -4599,6 +4829,7 @@
       "eea":false,
       "calling_code":"685",
       "currency_symbol":"WS$",
+      "currency_decimals":"2",
       "flag":"WS.png",
       "continent":"Oceania"
    },
@@ -4618,6 +4849,7 @@
       "eea":false,
       "calling_code":"967",
       "currency_symbol":"\ufdfc",
+      "currency_decimals":"2",
       "flag":"YE.png",
       "continent":"Asia"
    },
@@ -4637,6 +4869,7 @@
       "eea":false,
       "calling_code":"260",
       "currency_symbol":"ZK",
+      "currency_decimals":"2",
       "flag":"ZM.png",
       "continent":"Africa"
    }
