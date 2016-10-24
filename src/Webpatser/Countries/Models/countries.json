@@ -33,7 +33,7 @@
       "sub-region-code":"039",
       "eea":false,
       "calling_code":"355",
-      "currency_symbol":"Lek",
+      "currency_symbol":"&#76;&#101;&#107;",
       "currency_decimals":"2",
       "flag":"AL.png"
    },
@@ -71,7 +71,7 @@
       "sub-region-code":"015",
       "eea":false,
       "calling_code":"213",
-      "currency_symbol":"DZD",
+      "currency_symbol":"&#1583;&#1580;",
       "currency_decimals":"2",
       "flag":"DZ.png"
    },
@@ -90,7 +90,7 @@
       "sub-region-code":"061",
       "eea":false,
       "calling_code":"1",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"AS.png"
    },
@@ -109,7 +109,7 @@
       "sub-region-code":"039",
       "eea":false,
       "calling_code":"376",
-      "currency_symbol":"\u20ac",
+      "currency_symbol":"&#8364;",
       "currency_decimals":"2",
       "flag":"AD.png"
    },
@@ -128,7 +128,7 @@
       "sub-region-code":"017",
       "eea":false,
       "calling_code":"244",
-      "currency_symbol":"Kz",
+      "currency_symbol":"&#75;&#122;",
       "currency_decimals":"2",
       "flag":"AO.png"
    },
@@ -147,7 +147,7 @@
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"AG.png"
    },
@@ -166,7 +166,7 @@
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"994",
-      "currency_symbol":"\u043c\u0430\u043d",
+      "currency_symbol":"&#1084;&#1072;&#1085;",
       "currency_decimals":"2",
       "flag":"AZ.png"
    },
@@ -185,7 +185,7 @@
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"54",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"AR.png"
    },
@@ -204,7 +204,7 @@
       "sub-region-code":"053",
       "eea":false,
       "calling_code":"61",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"AU.png"
    },
@@ -223,7 +223,7 @@
       "sub-region-code":"155",
       "eea":true,
       "calling_code":"43",
-      "currency_symbol":"\u20ac",
+      "currency_symbol":"&#8364;",
       "currency_decimals":"2",
       "flag":"AT.png"
    },
@@ -242,7 +242,7 @@
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"BS.png"
    },
@@ -261,7 +261,7 @@
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"973",
-      "currency_symbol":"BHD",
+      "currency_symbol":".&#1583;.&#1576;",
       "currency_decimals":"3",
       "flag":"BH.png"
    },
@@ -280,7 +280,7 @@
       "sub-region-code":"034",
       "eea":false,
       "calling_code":"880",
-      "currency_symbol":"BDT",
+      "currency_symbol":"&#2547;",
       "currency_decimals":"2",
       "flag":"BD.png"
    },
@@ -318,7 +318,7 @@
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"BB.png"
    },
@@ -337,7 +337,7 @@
       "sub-region-code":"155",
       "eea":true,
       "calling_code":"32",
-      "currency_symbol":"\u20ac",
+      "currency_symbol":"&#8364;",
       "currency_decimals":"2",
       "flag":"BE.png"
    },
@@ -356,7 +356,7 @@
       "sub-region-code":"021",
       "eea":false,
       "calling_code":"1",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"BM.png"
    },
@@ -375,7 +375,7 @@
       "sub-region-code":"034",
       "eea":false,
       "calling_code":"975",
-      "currency_symbol":"BTN",
+      "currency_symbol":"&#78;&#117;&#46;",
       "currency_decimals":"2",
       "flag":"BT.png"
    },
@@ -394,7 +394,7 @@
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"591",
-      "currency_symbol":"$b",
+      "currency_symbol":"&#36;&#98;",
       "currency_decimals":"2",
       "flag":"BO.png"
    },
@@ -413,7 +413,7 @@
       "sub-region-code":"039",
       "eea":false,
       "calling_code":"387",
-      "currency_symbol":"KM",
+      "currency_symbol":"&#75;&#77;",
       "currency_decimals":"2",
       "flag":"BA.png"
    },
