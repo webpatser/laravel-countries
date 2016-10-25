@@ -432,7 +432,7 @@
       "sub-region-code":"018",
       "eea":false,
       "calling_code":"267",
-      "currency_symbol":"P",
+      "currency_symbol":"&#80;",
       "currency_decimals":"2",
       "flag":"BW.png"
    },
@@ -470,7 +470,7 @@
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"55",
-      "currency_symbol":"R$",
+      "currency_symbol":"&#82;&#36;",
       "currency_decimals":"2",
       "flag":"BR.png"
    },
@@ -489,7 +489,7 @@
       "sub-region-code":"013",
       "eea":false,
       "calling_code":"501",
-      "currency_symbol":"BZ$",
+      "currency_symbol":"&#66;&#90;&#36;",
       "currency_decimals":"2",
       "flag":"BZ.png"
    },
@@ -508,7 +508,7 @@
       "sub-region-code":"",
       "eea":false,
       "calling_code":"246",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"IO.png"
    },
@@ -527,7 +527,7 @@
       "sub-region-code":"054",
       "eea":false,
       "calling_code":"677",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"SB.png"
    },
@@ -546,7 +546,7 @@
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"VG.png"
    },
@@ -565,7 +565,7 @@
       "sub-region-code":"035",
       "eea":false,
       "calling_code":"673",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"BN.png"
    },
@@ -584,7 +584,7 @@
       "sub-region-code":"151",
       "eea":true,
       "calling_code":"359",
-      "currency_symbol":"\u043b\u0432",
+      "currency_symbol":"&#1083;&#1074;",
       "currency_decimals":"2",
       "flag":"BG.png"
    },
@@ -603,7 +603,7 @@
       "sub-region-code":"035",
       "eea":false,
       "calling_code":"95",
-      "currency_symbol":"K",
+      "currency_symbol":"&#75;",
       "currency_decimals":"2",
       "flag":"MM.png"
    },
@@ -622,7 +622,7 @@
       "sub-region-code":"014",
       "eea":false,
       "calling_code":"257",
-      "currency_symbol":"BIF",
+      "currency_symbol":"&#70;&#66;&#117;",
       "currency_decimals":"0",
       "flag":"BI.png"
    },
@@ -641,7 +641,7 @@
       "sub-region-code":"151",
       "eea":false,
       "calling_code":"375",
-      "currency_symbol":"p.",
+      "currency_symbol":"&#112;&#46;",
       "currency_decimals":"2",
       "flag":"BY.png"
    },
@@ -660,7 +660,7 @@
       "sub-region-code":"035",
       "eea":false,
       "calling_code":"855",
-      "currency_symbol":"\u17db",
+      "currency_symbol":"&#6107;",
       "currency_decimals":"2",
       "flag":"KH.png"
    },
@@ -679,7 +679,7 @@
       "sub-region-code":"017",
       "eea":false,
       "calling_code":"237",
-      "currency_symbol":"FCF",
+      "currency_symbol":"&#70;&#67;&#70;&#65;",
       "currency_decimals":"0",
       "flag":"CM.png"
    },
@@ -698,7 +698,7 @@
       "sub-region-code":"021",
       "eea":false,
       "calling_code":"1",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"CA.png"
    },
@@ -717,7 +717,7 @@
       "sub-region-code":"011",
       "eea":false,
       "calling_code":"238",
-      "currency_symbol":"CVE",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"CV.png"
    },
@@ -736,7 +736,7 @@
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"KY.png"
    },
@@ -755,7 +755,7 @@
       "sub-region-code":"017",
       "eea":false,
       "calling_code":"236",
-      "currency_symbol":"CFA",
+      "currency_symbol":"&#70;&#67;&#70;&#65;",
       "currency_decimals":"0",
       "flag":"CF.png"
    },
@@ -774,7 +774,7 @@
       "sub-region-code":"034",
       "eea":false,
       "calling_code":"94",
-      "currency_symbol":"\u20a8",
+      "currency_symbol":"&#8360;",
       "currency_decimals":"2",
       "flag":"LK.png"
    },
@@ -793,7 +793,7 @@
       "sub-region-code":"017",
       "eea":false,
       "calling_code":"235",
-      "currency_symbol":"XAF",
+      "currency_symbol":"&#70;&#67;&#70;&#65;",
       "currency_decimals":"0",
       "flag":"TD.png"
    },
@@ -812,7 +812,7 @@
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"56",
-      "currency_symbol":"CLP",
+      "currency_symbol":"&#36;",
       "currency_decimals":"0",
       "flag":"CL.png"
    },
@@ -831,7 +831,7 @@
       "sub-region-code":"030",
       "eea":false,
       "calling_code":"86",
-      "currency_symbol":"\u00a5",
+      "currency_symbol":"&#165;",
       "currency_decimals":"2",
       "flag":"CN.png"
    },
@@ -850,7 +850,7 @@
       "sub-region-code":"030",
       "eea":false,
       "calling_code":"886",
-      "currency_symbol":"NT$",
+      "currency_symbol":"&#78;&#84;&#36;",
       "currency_decimals":"2",
       "flag":"TW.png"
    },
@@ -869,7 +869,7 @@
       "sub-region-code":"",
       "eea":false,
       "calling_code":"61",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"CX.png"
    },
@@ -888,7 +888,7 @@
       "sub-region-code":"",
       "eea":false,
       "calling_code":"61",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"CC.png"
    },
@@ -907,7 +907,7 @@
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"57",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"CO.png"
    },
@@ -926,7 +926,7 @@
       "sub-region-code":"014",
       "eea":false,
       "calling_code":"269",
-      "currency_symbol":"KMF",
+      "currency_symbol":"&#67;&#70;",
       "currency_decimals":"0",
       "flag":"KM.png"
    },
@@ -945,7 +945,7 @@
       "sub-region-code":"014",
       "eea":false,
       "calling_code":"262",
-      "currency_symbol":"\u20ac",
+      "currency_symbol":"&#8364;",
       "currency_decimals":"2",
       "flag":"YT.png"
    },
@@ -964,7 +964,7 @@
       "sub-region-code":"017",
       "eea":false,
       "calling_code":"242",
-      "currency_symbol":"FCF",
+      "currency_symbol":"&#70;&#67;&#70;&#65;",
       "currency_decimals":"0",
       "flag":"CG.png"
    },
@@ -983,7 +983,7 @@
       "sub-region-code":"017",
       "eea":false,
       "calling_code":"243",
-      "currency_symbol":"CDF",
+      "currency_symbol":"&#70;&#67;",
       "currency_decimals":"2",
       "flag":"CD.png"
    },
@@ -1002,7 +1002,7 @@
       "sub-region-code":"061",
       "eea":false,
       "calling_code":"682",
-      "currency_symbol":"$",
+      "currency_symbol":"&#36;",
       "currency_decimals":"2",
       "flag":"CK.png"
    },
@@ -1021,7 +1021,7 @@
       "sub-region-code":"013",
       "eea":false,
       "calling_code":"506",
-      "currency_symbol":"\u20a1",
+      "currency_symbol":"&#8353;",
       "currency_decimals":"2",
       "flag":"CR.png"
    },
