@@ -110,21 +110,22 @@ class Countries extends Model {
 	    //Return the countries
 		return $countries;
 	}
-	
-	/**
-	 * Returns a list of countries suitable to use with a select element in Laravelcollective\html
-	 * 
-	 * @param string sort
-	 * 
-	 * @return array
-	 */
-	public function getListForSelect($sort = null)
-	{
-		foreach ($this->getList('name') as $key => $value) {
-			$countries[$key] = $value['name'];
-		}
 
-		//return the array
-		return $countries;
-	}
+    /**
+     * Returns a list of countries suitable to use with a select element in Laravelcollective\html
+     * Will show the value and sort by the column specified in the display attribute
+     *
+     * @param string display
+     *
+     * @return array
+     */
+    public function getListForSelect($display = 'name')
+    {
+        foreach ($this->getList($display) as $key => $value) {
+            $countries[$key] = $value[$display];
+        }
+
+        //return the array
+        return $countries;
+    }
 }
