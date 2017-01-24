@@ -69,11 +69,10 @@ class CountriesServiceProvider extends ServiceProvider {
      */
     protected function registerCommands()
     {
-        $this->app['command.countries.migration'] = $this->app->share(function($app)
-        {
+        $this->app->singleton('command.countries.migration', function ($app) {
             return new MigrationCommand($app);
         });
-
+        
         $this->commands('command.countries.migration');
     }
 
