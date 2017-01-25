@@ -1,8 +1,6 @@
 <?php
 
-return array(
-
-
+return [
  /*
   |--------------------------------------------------------------------------
   | Database settings
@@ -12,5 +10,4 @@ return array(
   |
   */
   'table_name' => 'countries',
-
-);
+];

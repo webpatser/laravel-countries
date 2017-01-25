@@ -18,8 +18,6 @@ class CharifyCountriesTable extends Migration {
                 DB::statement("ALTER TABLE " . DB::getTablePrefix() . \Config::get('countries.table_name') . " MODIFY sub_region_code CHAR(3) NOT NULL DEFAULT ''");
             });
         }
-	
-
 	/**
 	 * Reverse the migrations.
 	 *
