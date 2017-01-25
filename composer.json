@@ -1,7 +1,6 @@
 {
 	"name" : "webpatser/laravel-countries",
 	"description" : "Laravel Countries is a bundle for Laravel, providing Almost ISO 3166_2, 3166_3, currency, Capital and more for all countries.",
-	"type" : "laravel-library",
 	"authors" : [{
 			"name" : "Christoph Kempen",
 			"email" : "christoph@downsized.nl",
