@@ -72,9 +72,9 @@ class Countries extends Model {
 	{
 	    //Get the countries list
 	    $countries = $this->getCountries();
-	    
+
 	    //Sorting
-	    $validSorts = array(
+	    $validSorts = [
 	        'capital', 
 	        'citizenship',
 	        'country-code',
@@ -90,9 +90,9 @@ class Countries extends Model {
 	        'eea',
 	        'calling_code',
 	        'currency_symbol',
-	        'flag'
-        );
-	    
+	        'flag',
+        ];
+
 	    if (!is_null($sort) && in_array($sort, $validSorts)){
 	        uasort($countries, function($a, $b) use ($sort) {
 	            if (!isset($a[$sort]) && !isset($b[$sort])){
@@ -106,7 +106,7 @@ class Countries extends Model {
 	            } 
 	        });
 	    }
-	    
+
 	    //Return the countries
 		return $countries;
 	}

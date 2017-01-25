@@ -1,9 +1,8 @@
 <?php 
+
 namespace Webpatser\Countries;
 
 use Illuminate\Console\Command;
-use Symfony\Component\Console\Input\InputOption;
-use Symfony\Component\Console\Input\InputArgument;
 
 class MigrationCommand extends Command {
 
@@ -42,7 +41,7 @@ class MigrationCommand extends Command {
     {
         $this->line('');
         $this->info('The migration process will create a migration file and a seeder for the countries list');
-        
+
         $this->line('');
 
         if ( $this->confirm("Proceed with the migration creation? [Yes|no]") )
@@ -53,11 +52,11 @@ class MigrationCommand extends Command {
             if( $this->createMigration( 'countries' ) )
             {
                 $this->line('');
-                
-                $this->call('optimize', array());
-                
+
+                $this->call('optimize', []);
+
                 $this->line('');
-                
+
                 $this->info( "Migration successfully created!" );
             }
             else{
@@ -78,7 +77,7 @@ class MigrationCommand extends Command {
      */
     protected function getOptions()
     {
-        return array();
+        return [];
     }
 
     /**
@@ -91,21 +90,21 @@ class MigrationCommand extends Command {
     {
         //Create the migration
         $app = app();
-        $migrationFiles = array(
+        $migrationFiles = [
             $this->laravel->path."/../database/migrations/*_setup_countries_table.php" => 'countries::generators.migration',
-            $this->laravel->path."/../database/migrations/*_charify_countries_table.php" => 'countries::generators.char_migration'
-        );
+            $this->laravel->path."/../database/migrations/*_charify_countries_table.php" => 'countries::generators.char_migration',
+        ];
 
         $seconds = 0;
 
         foreach ($migrationFiles as $migrationFile => $outputFile) {            
             if (sizeof(glob($migrationFile)) == 0) {
                 $migrationFile = str_replace('*', date('Y_m_d_His', strtotime('+' . $seconds . ' seconds')), $migrationFile);
-                
+
                 $fs = fopen($migrationFile, 'x');
                 if ($fs) {
                     $output = "<?php\n\n" .$app['view']->make($outputFile)->with('table', 'countries')->render();
-                    
+
                     fwrite($fs, $output);
                     fclose($fs);
                 } else {
@@ -115,12 +114,11 @@ class MigrationCommand extends Command {
                 $seconds++;
             }
         }
-        
-        
+
         //Create the seeder
         $seeder_file = $this->laravel->path."/../database/seeds/CountriesSeeder.php";
         $output = "<?php\n\n" .$app['view']->make('countries::generators.seeder')->render();
-        
+
         if (!file_exists( $seeder_file )) {
             $fs = fopen($seeder_file, 'x');
             if ($fs) {
@@ -130,7 +128,7 @@ class MigrationCommand extends Command {
                 return false;
             }
         }
-        
+
         return true;
     }
 

@@ -6,9 +6,7 @@ use Illuminate\Support\ServiceProvider;
 
 /**
  * CountryListServiceProvider
- *
- */ 
-
+ */
 class CountriesServiceProvider extends ServiceProvider {
 
     /**
@@ -23,6 +21,7 @@ class CountriesServiceProvider extends ServiceProvider {
     *
     * @return void
     */
+
     public function boot()
     {
         // The publication files to publish
@@ -32,12 +31,8 @@ class CountriesServiceProvider extends ServiceProvider {
         $this->mergeConfigFrom(
             __DIR__ . '/../../config/config.php', 'countries'
         );
-        /*$this->app['config']['database.connections'] = array_merge(
-            $this->app['config']['database.connections'],
-            \Config::get('career.library.database.connections')
-        );*/
     }
-        
+
     /**
      * Register everything.
      *
@@ -72,7 +67,7 @@ class CountriesServiceProvider extends ServiceProvider {
         $this->app->singleton('command.countries.migration', function ($app) {
             return new MigrationCommand($app);
         });
-        
+
         $this->commands('command.countries.migration');
     }
 
@@ -83,6 +78,7 @@ class CountriesServiceProvider extends ServiceProvider {
      */
     public function provides()
     {
-        return array('countries');
+        return ['countries'];
     }
 }
+
