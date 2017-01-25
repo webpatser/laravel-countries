@@ -88,7 +88,9 @@ class Countries extends Model {
 	        'region-code',
 	        'sub-region-code',
 	        'eea',
-	        'calling_code'
+	        'calling_code',
+	        'currency_symbol',
+	        'flag'
         );
 	    
 	    if (!is_null($sort) && in_array($sort, $validSorts)){
@@ -108,4 +110,22 @@ class Countries extends Model {
 	    //Return the countries
 		return $countries;
 	}
+
+    /**
+     * Returns a list of countries suitable to use with a select element in Laravelcollective\html
+     * Will show the value and sort by the column specified in the display attribute
+     *
+     * @param string display
+     *
+     * @return array
+     */
+    public function getListForSelect($display = 'name')
+    {
+        foreach ($this->getList($display) as $key => $value) {
+            $countries[$key] = $value[$display];
+        }
+
+        //return the array
+        return $countries;
+    }
 }

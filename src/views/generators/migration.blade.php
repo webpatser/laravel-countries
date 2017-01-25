@@ -12,7 +12,7 @@ class SetupCountriesTable extends Migration {
 		// Creates the users table
 		Schema::create(\Config::get('countries.table_name'), function($table)
 		{
-		    $table->integer('id')->index();
+		    $table->integer('id')->unsigned()->index();
 		    $table->string('capital', 255)->nullable();
 		    $table->string('citizenship', 255)->nullable();
 		    $table->string('country_code', 3)->default('');
