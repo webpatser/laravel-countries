@@ -33,6 +33,16 @@ class MigrationCommand extends Command {
     }
 
     /**
+     * Execute the console command. (Laravel 5)
+     *
+     * @return void
+     */
+    public function handle()
+    {
+        return $this->fire();
+    }
+
+    /**
      * Execute the console command.
      *
      * @return void
