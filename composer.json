@@ -21,6 +21,16 @@
 	"license" : [
 		"MIT"
 	],
+	"extra":{
+	        "laravel":{
+	            "providers":[
+	                "Webpatser\\Countries\\CountriesServiceProvider"
+	            ],
+	            "aliases":{
+	                "Countries": "Webpatser\\Countries\\CountriesFacade"
+	            }
+        }
+    },
 	"require" : {
 		"php" : ">=5.3.0"
 	},

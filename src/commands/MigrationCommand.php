@@ -11,7 +11,7 @@ class MigrationCommand extends Command {
      *
      * @var string
      */
-    protected $name = 'countries:migration';
+    protected $signature = 'countries:migration';
 
     /**
      * The console command description.
@@ -36,6 +36,14 @@ class MigrationCommand extends Command {
      * Execute the console command.
      *
      * @return void
+     */
+    public function handle()
+    {
+        $this->fire();
+    }
+
+    /**
+     * 
      */
     public function fire()
     {
