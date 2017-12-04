@@ -55,7 +55,9 @@ class MigrationCommand extends Command
 
         $this->info("Creating migration and seeder...");
 
-        if ($this->createMigration()) {
+        try {
+
+            $this->createMigration();
 
             $this->line('');
 
@@ -67,12 +69,10 @@ class MigrationCommand extends Command
 
             $this->info("Migration successfully created!");
 
-        } else {
+        } catch (MigrationFailedException $exception) {
 
-            $this->error(
-                "Could not create migration.\n Check the write permissions".
-                " to the database/migrations directory."
-            );
+            $this->error($exception->getMessage());
+
         }
 
         $this->line('');
@@ -81,60 +81,91 @@ class MigrationCommand extends Command
     /**
      * Create the migration
      *
-     * @return bool
+     * @return void
+     * @throws \Webpatser\Countries\MigrationFailedException
      */
-    protected function createMigration(): bool
+    protected function createMigration(): void
     {
-        $migrationFiles = [
-            $this->laravel['path']."/../database/migrations/*_create_countries_table.php" => 'countries::generators.migration'
-        ];
-
         $seconds = 0;
 
-        foreach ($migrationFiles as $migrationFile => $outputFile) {
+        foreach ($this->migrationFiles() as $migrationFile => $outputFile) {
 
             if (count(glob($migrationFile)) !== 0) {
                 continue;
             }
 
-            $migrationFile = str_replace('*', date('Y_m_d_His', strtotime('+'.$seconds.' seconds')), $migrationFile);
-
-            if (!$fs = fopen($migrationFile, 'x')) {
-                return false;
-            }
-
-            $output = "<?php\n\n".$this->laravel['view']->make($outputFile)->render();
-
-            fwrite($fs, $output);
-            fclose($fs);
+            $this->addMigrationFile($this->migrationFileName($migrationFile, $seconds), $outputFile);
 
             $seconds++;
         }
 
-        return $this->addSeeder();
+        $this->addSeeder();
+    }
+
+    /**
+     * Get migration files.
+     *
+     * @return array
+     */
+    private function migrationFiles(): array
+    {
+        return [
+            $this->laravel['path']."/../database/migrations/*_create_countries_table.php" => 'countries::generators.migration'
+        ];
+    }
+
+    /**
+     * Get name of the migration file.
+     *
+     * @param  string  $migrationFile
+     * @param  int  $seconds
+     * @return string
+     */
+    private function migrationFileName(string $migrationFile, int $seconds): string
+    {
+        return str_replace('*', date('Y_m_d_His', strtotime('+'.$seconds.' seconds')), $migrationFile);
+    }
+
+    /**
+     * Add new migration file.
+     *
+     * @param  string  $migrationFile
+     * @param  string  $outputFile
+     * @return void
+     * @throws \Webpatser\Countries\MigrationFailedException
+     */
+    private function addMigrationFile(string $migrationFile, string $outputFile): void
+    {
+        if (!$fs = fopen($migrationFile, 'x')) {
+            throw new MigrationFailedException;
+        }
+
+        $output = "<?php\n\n".$this->laravel['view']->make($outputFile)->render();
+
+        fwrite($fs, $output);
+        fclose($fs);
     }
 
     /**
      * Add seeder file.
      *
-     * @return bool
+     * @return void
+     * @throws \Webpatser\Countries\MigrationFailedException
      */
-    private function addSeeder(): bool
+    private function addSeeder(): void
     {
         $seeder = $this->laravel['path']."/../database/seeds/CountriesTableSeeder.php";
         $output = "<?php\n\n".$this->laravel['view']->make('countries::generators.seeder')->render();
 
         if (file_exists($seeder)) {
-            return true;
+            throw new MigrationFailedException;
         }
 
         if (!$fs = fopen($seeder, 'x')) {
-            return false;
+            throw new MigrationFailedException;
         }
 
         fwrite($fs, $output);
         fclose($fs);
-
-        return true;
     }
 }
