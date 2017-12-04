@@ -86,7 +86,7 @@ class MigrationCommand extends Command
     protected function createMigration(): bool
     {
         $migrationFiles = [
-            $this->laravel['path']."/../database/migrations/*_setup_countries_table.php" => 'countries::generators.migration'
+            $this->laravel['path']."/../database/migrations/*_create_countries_table.php" => 'countries::generators.migration'
         ];
 
         $seconds = 0;
@@ -121,7 +121,7 @@ class MigrationCommand extends Command
      */
     private function addSeeder(): bool
     {
-        $seeder = $this->laravel['path']."/../database/seeds/CountriesSeeder.php";
+        $seeder = $this->laravel['path']."/../database/seeds/CountriesTableSeeder.php";
         $output = "<?php\n\n".$this->laravel['view']->make('countries::generators.seeder')->render();
 
         if (file_exists($seeder)) {

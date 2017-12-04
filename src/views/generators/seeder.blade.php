@@ -2,7 +2,7 @@ use Illuminate\Database\Seeder;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\DB;
 
-class CountriesSeeder extends Seeder
+class CountriesTableSeeder extends Seeder
 {
     /**
      * Run the database seeds.
@@ -19,9 +19,9 @@ class CountriesSeeder extends Seeder
     /**
      * Get collection of records.
      *
-     * @return \Illuminate\Support\Collection
+     * @return array
      */
-    private function records(): Collection
+    private function records(): array
     {
         return collect(app('countries')->getList())->map(function(array $country, int $id) {
             return [
@@ -44,6 +44,6 @@ class CountriesSeeder extends Seeder
                 'calling_code' => $country['calling_code'],
                 'flag' => $country['flag'] ?? null,
             ];
-        });
+        })->toArray();
     }
 }
