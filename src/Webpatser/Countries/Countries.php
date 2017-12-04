@@ -7,14 +7,14 @@ use Illuminate\Database\Eloquent\Model;
 class Countries extends Model
 {
     /**
-     * Path to the directory containing countries data.
+     * Array containing countries data.
      *
      * @var array
      */
     protected $countries = [];
 
     /**
-     * The table for the countries in the database, is "countries" by default.
+     * Table name - "countries" by default.
      *
      * @var string
      */
