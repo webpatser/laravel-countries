@@ -3,34 +3,20 @@
 namespace Webpatser\Countries;
 
 use Illuminate\Support\ServiceProvider;
+use Illuminate\Contracts\Foundation\Application;
 
-/**
- * CountryListServiceProvider
- */
-class CountriesServiceProvider extends ServiceProvider {
-
+class CountriesServiceProvider extends ServiceProvider
+{
     /**
-     * Indicates if loading of the provider is deferred.
+     * Bootstrap the application.
      *
-     * @var bool
+     * @return void
      */
-    protected $defer = false;
-
-    /**
-    * Bootstrap the application.
-    *
-    * @return void
-    */
-
-    public function boot()
+    public function boot(): void
     {
-        // The publication files to publish
-        $this->publishes([__DIR__ . '/../../config/config.php' => config_path('countries.php')]);
-
-        // Append the country settings
-        $this->mergeConfigFrom(
-            __DIR__ . '/../../config/config.php', 'countries'
-        );
+        $this->publishes([
+            __DIR__.'/../../config/config.php' => config_path('countries.php')
+        ]);
     }
 
     /**
@@ -38,7 +24,7 @@ class CountriesServiceProvider extends ServiceProvider {
      *
      * @return void
      */
-    public function register()
+    public function register(): void
     {
         $this->registerCountries();
         $this->registerCommands();
@@ -49,12 +35,15 @@ class CountriesServiceProvider extends ServiceProvider {
      *
      * @return void
      */
-    public function registerCountries()
+    public function registerCountries(): void
     {
-        $this->app->bind('countries', function($app)
-        {
-            return new Countries();
+        $this->app->bind('countries', function () {
+            return new Countries;
         });
+
+        $this->mergeConfigFrom(
+            __DIR__.'/../../config/config.php', 'countries'
+        );
     }
 
     /**
@@ -62,9 +51,9 @@ class CountriesServiceProvider extends ServiceProvider {
      *
      * @return void
      */
-    protected function registerCommands()
+    protected function registerCommands(): void
     {
-        $this->app->singleton('command.countries.migration', function ($app) {
+        $this->app->singleton('command.countries.migration', function (Application $app) {
             return new MigrationCommand($app);
         });
 
@@ -76,9 +65,8 @@ class CountriesServiceProvider extends ServiceProvider {
      *
      * @return array
      */
-    public function provides()
+    public function provides(): array
     {
         return ['countries'];
     }
 }
-

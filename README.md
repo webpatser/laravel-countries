@@ -45,7 +45,7 @@ Next generate the migration file:
 It will generate the `<timestamp>_setup_countries_table.php` migration and the `CountriesSeeder.php` seeder. To make sure the data is seeded insert the following code in the `seeds/DatabaseSeeder.php`
 
     //Seed the countries
-    $this->call('CountriesSeeder');
+    $this->call('CountriesTableSeeder');
     $this->command->info('Seeded the countries!'); 
 
 You may now run it with the artisan migrate command:
