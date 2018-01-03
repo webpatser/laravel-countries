@@ -53,9 +53,7 @@ class MigrationCommand extends Command {
             {
                 $this->line('');
 
-                if (version_compare(app()->version(), '5.5.0', '<')) {
-                    $this->call('optimize', []);
-                }
+                $this->call('optimize', []);
 
                 $this->line('');
 
