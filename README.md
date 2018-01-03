@@ -16,8 +16,6 @@ Add `webpatser/laravel-countries` to `composer.json`.
     
 Run `composer update` to pull down the latest version of Country List.
 
-**If you're using Laravel 5.5, you don't have to edit `app/config/app.php`.**
-
 Edit `app/config/app.php` and add the `provider` and `filter`
 
     'providers' => [
