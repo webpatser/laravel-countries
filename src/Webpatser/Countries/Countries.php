@@ -11,10 +11,10 @@ use Illuminate\Database\Eloquent\Model;
 class Countries extends Model {
 
 	/**
-	 * @var string
-	 * Path to the directory containing countries data.
+	 * @var array
+	 * Array containing countries data from JSON file.
 	 */
-	protected $countries;
+	protected $countries = [];
 
 	/**
 	 * @var string
