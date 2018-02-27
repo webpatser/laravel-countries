@@ -37,7 +37,7 @@ class MigrationCommand extends Command {
      *
      * @return void
      */
-    public function fire()
+    public function handle()
     {
         $this->line('');
         $this->info('The migration process will create a migration file and a seeder for the countries list');
