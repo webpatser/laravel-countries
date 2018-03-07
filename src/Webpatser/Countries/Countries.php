@@ -40,7 +40,7 @@ class Countries extends Model {
     protected function getCountries()
     {
         //Get the countries from the JSON file
-        if (sizeof($this->countries) == 0){
+        if (!$this->countries || sizeof($this->countries) == 0){
             $this->countries = json_decode(file_get_contents(__DIR__ . '/Models/countries.json'), true);
         }
 
