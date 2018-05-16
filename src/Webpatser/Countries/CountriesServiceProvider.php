@@ -27,6 +27,10 @@ class CountriesServiceProvider extends ServiceProvider {
         // The publication files to publish
         $this->publishes([__DIR__ . '/../../config/config.php' => config_path('countries.php')]);
 
+        $this->publishes([
+            __DIR__ . '/../../flags' => public_path('vendor/countries/flags'),
+        ], 'assets');
+
         // Append the country settings
         $this->mergeConfigFrom(
             __DIR__ . '/../../config/config.php', 'countries'
