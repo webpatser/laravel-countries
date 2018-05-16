@@ -16,8 +16,6 @@ Add `webpatser/laravel-countries` to `composer.json`.
     
 Run `composer update` to pull down the latest version of Country List.
 
-**If you're using Laravel 5.5, you don't have to edit `app/config/app.php`.**
-
 Edit `app/config/app.php` and add the `provider` and `filter`
 
     'providers' => [
@@ -40,7 +38,6 @@ You can start by publishing the configuration. This is an optional step, it cont
 Next generate the migration file:
 
     $ php artisan countries:migration
-    $ composer dump-autoload
     
 It will generate the `<timestamp>_setup_countries_table.php` migration and the `CountriesSeeder.php` seeder. To make sure the data is seeded insert the following code in the `seeds/DatabaseSeeder.php`
 

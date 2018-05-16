@@ -36,15 +36,5 @@
 	"support" : {
 		"source" : "https://github.com/webpatser/laravel-countries",
 		"issues" : "https://github.com/webpatser/laravel-countries/issues"
-	},
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Webpatser\\Countries\\CountriesServiceProvider"
-            ],
-			"aliases": {
-				"Countries": "Webpatser\\Countries\\CountriesFacade"
-			}
-        }
-    }
+	}
 }
