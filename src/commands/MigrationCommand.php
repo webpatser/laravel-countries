@@ -53,10 +53,6 @@ class MigrationCommand extends Command {
             {
                 $this->line('');
 
-                $this->call('optimize', []);
-
-                $this->line('');
-
                 $this->info( "Migration successfully created!" );
             }
             else{
