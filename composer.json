@@ -12,7 +12,7 @@
     "homepage": "https://github.com/PERLUR/laravel-countries",
     "type": "package",
     "authors": [
-     {
+        {
             "name": "Mark Stopka",
             "email": "mark.stopka@perlur.cloud"
         }
@@ -22,14 +22,9 @@
         "source": "https://github.com/PERLUR/laravel-countries"
     },
     "require": {
-        "moneyphp/money": "^3.0",
-        "ramsey/uuid": "^3.7",
         "illuminate/database": "5.7.* || 5.8.*"
     },
     "require-dev": {
-        "mockery/mockery": "^0.9.5",
-        "orchestra/testbench": "~3.4.0",
-        "orchestra/database": "~3.4.0",
         "phpunit/phpunit": "^5.2"
     },
     "autoload": {
@@ -39,5 +34,5 @@
         "classmap" : [
             "src/commands"
         ]
-    },
+    }
 }
