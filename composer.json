@@ -1,40 +1,43 @@
 {
-	"name" : "webpatser/laravel-countries",
-	"description" : "Laravel Countries is a bundle for Laravel, providing Almost ISO 3166_2, 3166_3, currency, Capital and more for all countries.",
-	"authors" : [{
-			"name" : "Christoph Kempen",
-			"email" : "christoph@downsized.nl",
-			"homepage" : "http://downsized.nl/",
-			"role" : "developer"
-		}, {
-			"name" : "Paul Kievits",
-			"role" : "developer"
-		}
-	],
-	"keywords" : [
-		"laravel",
-		"countries",
-		"iso_3166_2",
-		"iso_3166_3"
-	],
-	"homepage" : "https://github.com/webpatser/laravel-countries",
-	"license" : [
-		"MIT"
-	],
-	"require" : {
-		"php" : ">=5.3.0"
-	},
-	"autoload" : {
-		"psr-0" : {
-			"Webpatser\\Countries" : "src/"
-		},
-		"classmap" : [
-			"src/commands"
-		]
-	},
-	"minimum-stability" : "dev",
-	"support" : {
-		"source" : "https://github.com/webpatser/laravel-countries",
-		"issues" : "https://github.com/webpatser/laravel-countries/issues"
-	}
+  "name": "perlur/laravel-countries",
+    "description" : "Laravel Countries is a bundle for Laravel, providing Almost ISO 3166_2, 3166_3, currency, Capital and more for all countries.",
+
+    "license": "AGPL-3.0",
+    "keywords" : [
+        "laravel",
+        "countries",
+        "iso_3166_2",
+        "iso_3166_3"
+    ],
+    "homepage": "https://github.com/PERLUR/laravel-countries",
+    "type": "package",
+    "authors": [
+     {
+            "name": "Mark Stopka",
+            "email": "mark.stopka@perlur.cloud"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/PERLUR/laravel-countries/issues",
+        "source": "https://github.com/PERLUR/laravel-countries"
+    },
+    "require": {
+        "moneyphp/money": "^3.0",
+        "ramsey/uuid": "^3.7",
+        "illuminate/database": "5.7.* || 5.8.*"
+    },
+    "require-dev": {
+        "mockery/mockery": "^0.9.5",
+        "orchestra/testbench": "~3.4.0",
+        "orchestra/database": "~3.4.0",
+        "phpunit/phpunit": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "PERLUR\\Countries\\": "src/"
+            },
+        "classmap" : [
+            "src/commands"
+        ]
+    },
 }

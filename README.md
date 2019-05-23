@@ -1,16 +1,15 @@
 # Laravel Countries
 
-[![Total Downloads](https://poser.pugx.org/webpatser/laravel-countries/downloads.svg)](https://packagist.org/packages/webpatser/laravel-countries)
-[![Latest Stable Version](https://poser.pugx.org/webpatser/laravel-countries/v/stable.svg)](https://packagist.org/packages/webpatser/laravel-countries)
-[![Latest Unstable Version](https://poser.pugx.org/webpatser/laravel-countries/v/unstable.svg)](https://packagist.org/packages/webpatser/laravel-countries)
+[![Total Downloads](https://poser.pugx.org/perlur/laravel-countries/downloads.svg)](https://packagist.org/packages/perlur/laravel-countries)
+[![Latest Stable Version](https://poser.pugx.org/perlur/laravel-countries/v/stable.svg)](https://packagist.org/packages/perlur/laravel-countries)
+[![Latest Unstable Version](https://poser.pugx.org/webpatser/laravel-countries/v/unstable.svg)](https://packagist.org/packages/perlur/laravel-countries)
 
 Laravel Countries is a bundle for Laravel, providing Almost ISO 3166_2, 3166_3, currency, Capital and more for all countries.
 
-**Please note that version 1.4 is Laravel 5 only, older versions of Laravel should use version 1.3.4 instead**
 
 ## Installation
 
-Add `webpatser/laravel-countries` to `composer.json`.
+Add `perlur/laravel-countries` to `composer.json`.
 
     "webpatser/laravel-countries": "dev-master"
     
@@ -19,13 +18,13 @@ Run `composer update` to pull down the latest version of Country List.
 Edit `app/config/app.php` and add the `provider` and `filter`
 
     'providers' => [
-        'Webpatser\Countries\CountriesServiceProvider',
+        'PERLUR\Countries\CountriesServiceProvider',
     ]
 
 Now add the alias.
 
     'aliases' => [
-        'Countries' => 'Webpatser\Countries\CountriesFacade',
+        'Countries' => 'PERLUR\Countries\CountriesFacade',
     ]
     
 
