@@ -13,7 +13,9 @@ class CountriesSeeder extends Seeder {
         DB::table(\Config::get('countries.table_name'))->delete();
 
         //Get all of the countries
-        $countries = (new Countries())->getList();
+        //$countries = (new Countries())->getList();
+        //If the code above ends up giving you an error like - Undefined function getlist(), use the line below
+        $countries = Countries::getList();
         foreach ($countries as $countryId => $country){
             DB::table(\Config::get('countries.table_name'))->insert(array(
                 'id' => $countryId,
