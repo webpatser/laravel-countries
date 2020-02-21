@@ -4686,5 +4686,24 @@
       "currency_symbol":"ZK",
       "currency_decimals":"2",
       "flag":"ZM.png"
-   }
+   },
+   "XK":{
+      "capital":"Prishtina",
+      "citizenship":"Kosovar",
+      "country-code":"XK",
+      "currency":"euro",
+      "currency_code":"EUR",
+      "currency_sub_unit":"cent",
+      "full_name":"Kosovo",
+      "iso_3166_2":"XK",
+      "iso_3166_3":"XKS",
+      "name":"Kosovo",
+      "region-code":null,
+      "sub-region-code":null,
+      "eea":false,
+      "calling_code":"383",
+      "currency_symbol":"\u20ac",
+      "currency_decimals":"2",
+      "flag":"XK.png"
+   },
 }
