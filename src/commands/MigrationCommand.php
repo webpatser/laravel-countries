@@ -113,6 +113,13 @@ class MigrationCommand extends Command {
 
         //Create the seeder
         $seeder_file = $this->laravel->path."/../database/seeds/CountriesSeeder.php";
+        
+        $laravel_major_version = (int) app()->version();
+
+        if($laravel_major_version >= 8){
+            $seeder_file = $this->laravel->path."/../database/seeders/CountriesSeeder.php";
+        }
+        
         $output = "<?php\n\n" .$app['view']->make('countries::generators.seeder')->render();
 
         if (!file_exists( $seeder_file )) {
