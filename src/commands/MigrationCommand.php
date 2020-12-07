@@ -57,7 +57,7 @@ class MigrationCommand extends Command {
             }
             else{
                 $this->error(
-                    "Coudn't create migration.\n Check the write permissions".
+                    "Couldn't create migration.\n Check the write permissions".
                     " within the app/database/migrations directory."
                 );
             }
@@ -113,7 +113,13 @@ class MigrationCommand extends Command {
 
         //Create the seeder
         $seeder_file = $this->laravel->path."/../database/seeds/CountriesSeeder.php";
-        $output = "<?php\n\n" .$app['view']->make('countries::generators.seeder')->render();
+	    $laravel_major_version = (int) app()->version();
+
+	    if($laravel_major_version >= 8){
+		    $seeder_file = $this->laravel->path."/../database/seeders/CountriesSeeder.php";
+	    }
+
+	    $output = "<?php\n\n" .$app['view']->make('countries::generators.seeder')->render();
 
         if (!file_exists( $seeder_file )) {
             $fs = fopen($seeder_file, 'x');
