@@ -4424,7 +4424,7 @@
       "name":"United Kingdom",
       "region-code":"150",
       "sub-region-code":"154",
-      "eea":true,
+      "eea":false,
       "calling_code":"44",
       "currency_symbol":"\u00a3",
       "currency_decimals":"2",
