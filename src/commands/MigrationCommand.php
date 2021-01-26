@@ -112,15 +112,31 @@ class MigrationCommand extends Command {
         }
 
         //Create the seeder
-        $seeder_file = $this->laravel->path."/../database/seeds/CountriesSeeder.php";
+        $seeder_directory = $this->laravel->path."/../database/seeds";
+
+        $seeder_file = $seeder_directory."/CountriesSeeder.php";
         
         $laravel_major_version = (int) app()->version();
 
+        $output = "<?php\n\n" .$app['view']->make('countries::generators.seeder')->render();
+
         if($laravel_major_version >= 8){
-            $seeder_file = $this->laravel->path."/../database/seeders/CountriesSeeder.php";
+
+            $old_seeder_directory = $seeder_directory;
+
+            $seeder_directory = $this->laravel->path."/../database/seeders";
+
+            $seeder_file = $seeder_directory."/CountriesSeeder.php";
+
+            if(!is_dir($seeder_directory)){
+                /* Directory does not exist, rename seeds folder to seeders. */
+                rename($old_seeder_directory, $seeder_directory);
+            }
+
+            $output = "<?php\n\n" .$app['view']->make('countries::generators.seeder=>8')->render();
         }
         
-        $output = "<?php\n\n" .$app['view']->make('countries::generators.seeder')->render();
+        
 
         if (!file_exists( $seeder_file )) {
             $fs = fopen($seeder_file, 'x');
