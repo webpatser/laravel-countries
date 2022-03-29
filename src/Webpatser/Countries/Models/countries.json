@@ -1557,9 +1557,10 @@
    "275":{
       "citizenship":"Palestinian",
       "country-code":"275",
+      "full_name":"State of Palestine",
       "iso_3166_2":"PS",
       "iso_3166_3":"PSE",
-      "name":"Palestinian Territory, Occupied",
+      "name":"Palestine",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
