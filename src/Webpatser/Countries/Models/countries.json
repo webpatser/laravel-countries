@@ -1400,7 +1400,8 @@
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
-      "calling_code":"358"
+      "calling_code":"358",
+      "flag":"AX.png"
    },
    "250":{
       "capital":"Paris",
