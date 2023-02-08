@@ -1400,7 +1400,9 @@
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
-      "calling_code":"358"
+      "calling_code":"358",
+      "currency_symbol":"\u20ac",
+      "currency_decimals":"2"
    },
    "250":{
       "capital":"Paris",
@@ -2875,7 +2877,9 @@
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
-      "calling_code":"599"
+      "calling_code":"599",
+      "currency_symbol":"\u0192",
+      "currency_decimals":"2"
    },
    "533":{
       "capital":"Oranjestad",
@@ -2910,7 +2914,9 @@
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
-      "calling_code":"721"
+      "calling_code":"721",
+      "currency_symbol":"\u0192",
+      "currency_decimals":"2"
    },
    "535":{
       "citizenship":"of Bonaire, Sint Eustatius and Saba",
@@ -3529,7 +3535,9 @@
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
-      "calling_code":"590"
+      "calling_code":"590",
+      "currency_symbol":"\u20ac",
+      "currency_decimals":"2"
    },
    "654":{
       "capital":"Jamestown",
@@ -3621,7 +3629,9 @@
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
-      "calling_code":"590"
+      "calling_code":"590",
+      "currency_symbol":"\u20ac",
+      "currency_decimals":"2"
    },
    "666":{
       "capital":"Saint-Pierre",
@@ -3751,7 +3761,9 @@
       "region-code":"150",
       "sub-region-code":"039",
       "eea":false,
-      "calling_code":"381"
+      "calling_code":"381",
+      "currency_symbol":"\u0434\u0438\u043d",
+      "currency_decimals":"2"
    },
    "690":{
       "capital":"Victoria",
@@ -3957,7 +3969,9 @@
       "region-code":"002",
       "sub-region-code":"015",
       "eea":false,
-      "calling_code":"211"
+      "calling_code":"211",
+      "currency_symbol":"\u00a3",
+      "currency_decimals":"2"
    },
    "729":{
       "capital":"Khartoum",
@@ -3973,7 +3987,9 @@
       "region-code":"002",
       "sub-region-code":"015",
       "eea":false,
-      "calling_code":"249"
+      "calling_code":"249",
+      "currency_symbol":"\u00a3",
+      "currency_decimals":"2"
    },
    "732":{
       "capital":"Al aaiun",
@@ -4445,7 +4461,9 @@
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
-      "calling_code":"44"
+      "calling_code":"44",
+      "currency_symbol":"\u00a3",
+      "currency_decimals":"2"
    },
    "832":{
       "capital":"St Helier",
@@ -4461,7 +4479,9 @@
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
-      "calling_code":"44"
+      "calling_code":"44",
+      "currency_symbol":"\u00a3",
+      "currency_decimals":"2"
    },
    "833":{
       "capital":"Douglas",
@@ -4477,7 +4497,9 @@
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
-      "calling_code":"44"
+      "calling_code":"44",
+      "currency_symbol":"\u00a3",
+      "currency_decimals":"2"
    },
    "834":{
       "capital":"Dodoma (TZ1)",
