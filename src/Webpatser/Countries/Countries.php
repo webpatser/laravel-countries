@@ -26,8 +26,9 @@ class Countries extends Model {
      *
      * @return void
      */
-    public function __construct()
+    public function __construct(array $attributes = [])
     {
+        parent::__construct($attributes);
         $this->table = \Config::get('countries.table_name');
     }
     
