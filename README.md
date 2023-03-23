@@ -33,7 +33,7 @@ Now add the alias.
 
 You can start by publishing the configuration. This is an optional step, it contains the table name and does not need to be altered. If the default name `countries` suits you, leave it. Otherwise run the following command
 
-    $ php artisan vendor:publish
+    $ php artisan vendor:publish --provider="Webpatser\Countries\CountriesServiceProvider"
 
 Next generate the migration file:
 
