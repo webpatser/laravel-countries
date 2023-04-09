@@ -595,7 +595,7 @@
       "currency":"kyat",
       "currency_code":"MMK",
       "currency_sub_unit":"pya",
-      "full_name":"Union of Myanmar\/",
+      "full_name":"Republic of the Union of Myanmar",
       "iso_3166_2":"MM",
       "iso_3166_3":"MMR",
       "name":"Myanmar",
@@ -709,7 +709,7 @@
       "currency":"Cape Verde escudo",
       "currency_code":"CVE",
       "currency_sub_unit":"centavo",
-      "full_name":"Republic of Cape Verde",
+      "full_name":"Republic of Cabo Verde",
       "iso_3166_2":"CV",
       "iso_3166_3":"CPV",
       "name":"Cape Verde",
@@ -1400,7 +1400,9 @@
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
-      "calling_code":"358"
+      "calling_code":"358",
+      "currency_symbol":"\u20ac",
+      "currency_decimals":"2"
    },
    "250":{
       "capital":"Paris",
@@ -2355,7 +2357,7 @@
       "currency":"Libyan dinar",
       "currency_code":"LYD",
       "currency_sub_unit":"dirham",
-      "full_name":"Socialist People\u2019s Libyan Arab Jamahiriya",
+      "full_name":"State of Libya",
       "iso_3166_2":"LY",
       "iso_3166_3":"LBY",
       "name":"Libya",
@@ -2875,7 +2877,9 @@
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
-      "calling_code":"599"
+      "calling_code":"599",
+      "currency_symbol":"\u0192",
+      "currency_decimals":"2"
    },
    "533":{
       "capital":"Oranjestad",
@@ -2910,7 +2914,9 @@
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
-      "calling_code":"721"
+      "calling_code":"721",
+      "currency_symbol":"\u0192",
+      "currency_decimals":"2"
    },
    "535":{
       "citizenship":"of Bonaire, Sint Eustatius and Saba",
@@ -3529,7 +3535,9 @@
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
-      "calling_code":"590"
+      "calling_code":"590",
+      "currency_symbol":"\u20ac",
+      "currency_decimals":"2"
    },
    "654":{
       "capital":"Jamestown",
@@ -3621,7 +3629,9 @@
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
-      "calling_code":"590"
+      "calling_code":"590",
+      "currency_symbol":"\u20ac",
+      "currency_decimals":"2"
    },
    "666":{
       "capital":"Saint-Pierre",
@@ -3751,7 +3761,9 @@
       "region-code":"150",
       "sub-region-code":"039",
       "eea":false,
-      "calling_code":"381"
+      "calling_code":"381",
+      "currency_symbol":"\u0434\u0438\u043d",
+      "currency_decimals":"2"
    },
    "690":{
       "capital":"Victoria",
@@ -3957,7 +3969,9 @@
       "region-code":"002",
       "sub-region-code":"015",
       "eea":false,
-      "calling_code":"211"
+      "calling_code":"211",
+      "currency_symbol":"\u00a3",
+      "currency_decimals":"2"
    },
    "729":{
       "capital":"Khartoum",
@@ -3973,7 +3987,9 @@
       "region-code":"002",
       "sub-region-code":"015",
       "eea":false,
-      "calling_code":"249"
+      "calling_code":"249",
+      "currency_symbol":"\u00a3",
+      "currency_decimals":"2"
    },
    "732":{
       "capital":"Al aaiun",
@@ -4039,10 +4055,10 @@
       "currency":"lilangeni",
       "currency_code":"SZL",
       "currency_sub_unit":"cent",
-      "full_name":"Kingdom of Swaziland",
+      "full_name":"Kingdom of Eswatini",
       "iso_3166_2":"SZ",
       "iso_3166_3":"SWZ",
-      "name":"Swaziland",
+      "name":"Eswatini",
       "region-code":"002",
       "sub-region-code":"018",
       "eea":false,
@@ -4376,15 +4392,15 @@
    },
    "807":{
       "capital":"Skopje",
-      "citizenship":"of the former Yugoslav Republic of Macedonia",
+      "citizenship":"Macedonian",
       "country-code":"807",
       "currency":"denar (pl. denars)",
       "currency_code":"MKD",
       "currency_sub_unit":"deni (inv.)",
-      "full_name":"the former Yugoslav Republic of Macedonia",
+      "full_name":"Republic of North Macedonia",
       "iso_3166_2":"MK",
       "iso_3166_3":"MKD",
-      "name":"Macedonia, the former Yugoslav Republic of",
+      "name":"North Macedonia",
       "region-code":"150",
       "sub-region-code":"039",
       "eea":false,
@@ -4425,7 +4441,7 @@
       "name":"United Kingdom",
       "region-code":"150",
       "sub-region-code":"154",
-      "eea":true,
+      "eea":false,
       "calling_code":"44",
       "currency_symbol":"\u00a3",
       "currency_decimals":"2",
@@ -4445,7 +4461,9 @@
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
-      "calling_code":"44"
+      "calling_code":"44",
+      "currency_symbol":"\u00a3",
+      "currency_decimals":"2"
    },
    "832":{
       "capital":"St Helier",
@@ -4461,7 +4479,9 @@
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
-      "calling_code":"44"
+      "calling_code":"44",
+      "currency_symbol":"\u00a3",
+      "currency_decimals":"2"
    },
    "833":{
       "capital":"Douglas",
@@ -4477,7 +4497,9 @@
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
-      "calling_code":"44"
+      "calling_code":"44",
+      "currency_symbol":"\u00a3",
+      "currency_decimals":"2"
    },
    "834":{
       "capital":"Dodoma (TZ1)",
