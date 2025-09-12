@@ -1,0 +1,3876 @@
+{
+  "AD": {
+    "name": "Principality of Andorra",
+    "capital": "Andorra la Vella",
+    "iso_3166_2": "AD",
+    "iso_3166_3": "AND",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "376",
+    "region": "europe",
+    "languages": [
+      "ca"
+    ],
+    "flag": "🇦🇩"
+  },
+  "AE": {
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "iso_3166_2": "AE",
+    "iso_3166_3": "ARE",
+    "currency_code": "AED",
+    "currency_name": "United Arab Emirates dirham",
+    "currency_symbol": "د.إ",
+    "calling_code": "971",
+    "region": "asia",
+    "languages": [
+      "ar"
+    ],
+    "flag": "🇦🇪"
+  },
+  "AF": {
+    "name": "Islamic Emirate of Afghanistan",
+    "capital": "Kabul",
+    "iso_3166_2": "AF",
+    "iso_3166_3": "AFG",
+    "currency_code": "AFN",
+    "currency_name": "Afghan Afghani",
+    "currency_symbol": "؋",
+    "calling_code": "93",
+    "region": "asia",
+    "languages": [
+      "ps",
+      "uz",
+      "tk"
+    ],
+    "flag": "🇦🇫"
+  },
+  "AG": {
+    "name": "Antigua and Barbuda",
+    "capital": "St. John\\",
+    "iso_3166_2": "AG",
+    "iso_3166_3": "ATG",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "currency_symbol": "$",
+    "calling_code": "+1-268",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇦🇬"
+  },
+  "AI": {
+    "name": "Anguilla",
+    "capital": "The Valley",
+    "iso_3166_2": "AI",
+    "iso_3166_3": "AIA",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "currency_symbol": "$",
+    "calling_code": "+1-264",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇦🇮"
+  },
+  "AL": {
+    "name": "Republic of Albania",
+    "capital": "Tirana",
+    "iso_3166_2": "AL",
+    "iso_3166_3": "ALB",
+    "currency_code": "ALL",
+    "currency_name": "Albanian lek",
+    "currency_symbol": "L",
+    "calling_code": "355",
+    "region": "europe",
+    "languages": [
+      "sq"
+    ],
+    "flag": "🇦🇱"
+  },
+  "AM": {
+    "name": "Republic of Armenia",
+    "capital": "Yerevan",
+    "iso_3166_2": "AM",
+    "iso_3166_3": "ARM",
+    "currency_code": "AMD",
+    "currency_name": "Armenian dram",
+    "currency_symbol": "֏",
+    "calling_code": "374",
+    "region": "asia",
+    "languages": [
+      "hy"
+    ],
+    "flag": "🇦🇲"
+  },
+  "AO": {
+    "name": "Republic of Angola",
+    "capital": "Luanda",
+    "iso_3166_2": "AO",
+    "iso_3166_3": "AGO",
+    "currency_code": "AOA",
+    "currency_name": "Angolan kwanza",
+    "currency_symbol": "Kz",
+    "calling_code": "244",
+    "region": "africa",
+    "languages": [
+      "pt"
+    ],
+    "flag": "🇦🇴"
+  },
+  "AQ": {
+    "name": "Antarctica",
+    "iso_3166_2": "AQ",
+    "iso_3166_3": "ATA",
+    "region": "oceania",
+    "languages": [],
+    "capital": "",
+    "currency_code": "",
+    "currency_name": "",
+    "currency_symbol": "",
+    "calling_code": "",
+    "flag": "🇦🇶"
+  },
+  "AR": {
+    "name": "Argentine Republic",
+    "capital": "Buenos Aires",
+    "iso_3166_2": "AR",
+    "iso_3166_3": "ARG",
+    "currency_code": "ARS",
+    "currency_name": "Argentine Peso",
+    "currency_symbol": "$",
+    "calling_code": "54",
+    "region": "americas",
+    "languages": [
+      "es-AR"
+    ],
+    "flag": "🇦🇷"
+  },
+  "AS": {
+    "name": "American Samoa",
+    "capital": "Pago Pago",
+    "iso_3166_2": "AS",
+    "iso_3166_3": "ASM",
+    "currency_code": "USD",
+    "currency_name": "United States Dollar",
+    "currency_symbol": "$",
+    "calling_code": "+1-684",
+    "region": "oceania",
+    "languages": [
+      "en",
+      "sm"
+    ],
+    "flag": "🇦🇸"
+  },
+  "AT": {
+    "name": "Republic of Austria",
+    "capital": "Vienna",
+    "iso_3166_2": "AT",
+    "iso_3166_3": "AUT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "43",
+    "region": "europe",
+    "languages": [
+      "de"
+    ],
+    "flag": "🇦🇹"
+  },
+  "AU": {
+    "name": "Commonwealth of Australia",
+    "capital": "Canberra",
+    "iso_3166_2": "AU",
+    "iso_3166_3": "AUS",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "currency_symbol": "$",
+    "calling_code": "61",
+    "region": "oceania",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇦🇺"
+  },
+  "AW": {
+    "name": "Aruba",
+    "capital": "Oranjestad",
+    "iso_3166_2": "AW",
+    "iso_3166_3": "ABW",
+    "currency_code": "AWG",
+    "currency_name": "Aruban florin",
+    "currency_symbol": "ƒ",
+    "calling_code": "297",
+    "region": "americas",
+    "languages": [
+      "nl",
+      "pa"
+    ],
+    "flag": "🇦🇼"
+  },
+  "AX": {
+    "name": "Åland Islands",
+    "capital": "Mariehamn",
+    "iso_3166_2": "AX",
+    "iso_3166_3": "ALA",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "+358 18",
+    "region": "europe",
+    "languages": [
+      "sv"
+    ],
+    "flag": "🇦🇽"
+  },
+  "AZ": {
+    "name": "Republic of Azerbaijan",
+    "capital": "Baku",
+    "iso_3166_2": "AZ",
+    "iso_3166_3": "AZE",
+    "currency_code": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "₼",
+    "calling_code": "994",
+    "region": "asia",
+    "languages": [
+      "az"
+    ],
+    "flag": "🇦🇿"
+  },
+  "BA": {
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "iso_3166_2": "BA",
+    "iso_3166_3": "BIH",
+    "currency_code": "BAM",
+    "currency_name": "Bosnia and Herzegovina convertible mark",
+    "currency_symbol": "KM",
+    "calling_code": "387",
+    "region": "europe",
+    "languages": [
+      "bs",
+      "hr",
+      "sr"
+    ],
+    "flag": "🇧🇦"
+  },
+  "BB": {
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "iso_3166_2": "BB",
+    "iso_3166_3": "BRB",
+    "currency_code": "BBD",
+    "currency_name": "Barbadian dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-246",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇧🇧"
+  },
+  "BD": {
+    "name": "People's Republic of Bangladesh",
+    "capital": "Dhaka",
+    "iso_3166_2": "BD",
+    "iso_3166_3": "BGD",
+    "currency_code": "BDT",
+    "currency_name": "Bangladeshi taka",
+    "currency_symbol": "৳",
+    "calling_code": "880",
+    "region": "asia",
+    "languages": [
+      "bn"
+    ],
+    "flag": "🇧🇩"
+  },
+  "BE": {
+    "name": "Kingdom of Belgium",
+    "capital": "Brussels",
+    "iso_3166_2": "BE",
+    "iso_3166_3": "BEL",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "32",
+    "region": "europe",
+    "languages": [
+      "nl",
+      "fr",
+      "de"
+    ],
+    "flag": "🇧🇪"
+  },
+  "BF": {
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "iso_3166_2": "BF",
+    "iso_3166_3": "BFA",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "calling_code": "226",
+    "region": "africa",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇧🇫"
+  },
+  "BG": {
+    "name": "Republic of Bulgaria",
+    "capital": "Sofia",
+    "iso_3166_2": "BG",
+    "iso_3166_3": "BGR",
+    "currency_code": "BGN",
+    "currency_name": "Bulgarian lev",
+    "currency_symbol": "лв",
+    "calling_code": "359",
+    "region": "europe",
+    "languages": [
+      "bg"
+    ],
+    "flag": "🇧🇬"
+  },
+  "BH": {
+    "name": "Kingdom of Bahrain",
+    "capital": "Manama",
+    "iso_3166_2": "BH",
+    "iso_3166_3": "BHR",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini dinar",
+    "currency_symbol": "BD",
+    "calling_code": "973",
+    "region": "asia",
+    "languages": [
+      "ar"
+    ],
+    "flag": "🇧🇭"
+  },
+  "BI": {
+    "name": "Republic of Burundi",
+    "capital": "Gitega",
+    "iso_3166_2": "BI",
+    "iso_3166_3": "BDI",
+    "currency_code": "BIF",
+    "currency_name": "Burundian franc",
+    "currency_symbol": "FBu",
+    "calling_code": "257",
+    "region": "africa",
+    "languages": [
+      "rn",
+      "fr",
+      "en",
+      "sw"
+    ],
+    "flag": "🇧🇮"
+  },
+  "BJ": {
+    "name": "Republic of Benin",
+    "capital": "Porto-Novo",
+    "iso_3166_2": "BJ",
+    "iso_3166_3": "BEN",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "calling_code": "229",
+    "region": "africa",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇧🇯"
+  },
+  "BL": {
+    "name": "Collectivity of Saint Barthélemy",
+    "capital": "Gustavia",
+    "iso_3166_2": "BL",
+    "iso_3166_3": "BLM",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "590",
+    "region": "americas",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇧🇱"
+  },
+  "BM": {
+    "name": "Bermuda",
+    "capital": "Hamilton",
+    "iso_3166_2": "BM",
+    "iso_3166_3": "BMU",
+    "currency_code": "BMD",
+    "currency_name": "Bermudian dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-441",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇧🇲"
+  },
+  "BN": {
+    "name": "Nation of Brunei, Abode of Peace",
+    "capital": "Bandar Seri Begawan",
+    "iso_3166_2": "BN",
+    "iso_3166_3": "BRN",
+    "currency_code": "BND",
+    "currency_name": "Brunei dollar",
+    "currency_symbol": "$",
+    "calling_code": "673",
+    "region": "asia",
+    "languages": [
+      "ms"
+    ],
+    "flag": "🇧🇳"
+  },
+  "BO": {
+    "name": "Plurinational State of Bolivia",
+    "capital": "Sucre",
+    "iso_3166_2": "BO",
+    "iso_3166_3": "BOL",
+    "currency_code": "BOB",
+    "currency_name": "Boliviano",
+    "currency_symbol": "Bs",
+    "calling_code": "591",
+    "region": "americas",
+    "languages": [
+      "es",
+      "qu",
+      "ay",
+      "gn"
+    ],
+    "flag": "🇧🇴"
+  },
+  "BQ": {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "capital": "Kralendijk",
+    "iso_3166_2": "BQ",
+    "iso_3166_3": "BES",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "currency_symbol": "$",
+    "calling_code": "599",
+    "region": "americas",
+    "languages": [
+      "nl",
+      "en",
+      "pap"
+    ],
+    "flag": "🇧🇶"
+  },
+  "BR": {
+    "name": "Federative Republic of Brazil",
+    "capital": "Brasília",
+    "iso_3166_2": "BR",
+    "iso_3166_3": "BRA",
+    "currency_code": "BRL",
+    "currency_name": "Brazilian real",
+    "currency_symbol": "R$",
+    "calling_code": "55",
+    "region": "americas",
+    "languages": [
+      "pt"
+    ],
+    "flag": "🇧🇷"
+  },
+  "BS": {
+    "name": "Commonwealth of the Bahamas",
+    "capital": "Nassau",
+    "iso_3166_2": "BS",
+    "iso_3166_3": "BHS",
+    "currency_code": "BSD",
+    "currency_name": "Bahamian dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-242",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇧🇸"
+  },
+  "BT": {
+    "name": "Kingdom of Bhutan",
+    "capital": "Thimphu",
+    "iso_3166_2": "BT",
+    "iso_3166_3": "BTN",
+    "currency_code": "BTN",
+    "currency_name": "Bhutanese ngultrum",
+    "currency_symbol": "Nu.",
+    "calling_code": "975",
+    "region": "asia",
+    "languages": [
+      "dz"
+    ],
+    "flag": "🇧🇹"
+  },
+  "BV": {
+    "name": "Bouvet Island",
+    "iso_3166_2": "BV",
+    "iso_3166_3": "BVT",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian krone",
+    "currency_symbol": "kr",
+    "region": "oceania",
+    "languages": [],
+    "capital": "",
+    "calling_code": "",
+    "flag": "🇧🇻"
+  },
+  "BW": {
+    "name": "Republic of Botswana",
+    "capital": "Gaborone",
+    "iso_3166_2": "BW",
+    "iso_3166_3": "BWA",
+    "currency_code": "BWP",
+    "currency_name": "Botswana pula",
+    "currency_symbol": "P",
+    "calling_code": "267",
+    "region": "africa",
+    "languages": [
+      "en",
+      "tn"
+    ],
+    "flag": "🇧🇼"
+  },
+  "BY": {
+    "name": "Republic of Belarus",
+    "capital": "Minsk",
+    "iso_3166_2": "BY",
+    "iso_3166_3": "BLR",
+    "currency_code": "BYN",
+    "currency_name": "Belarusian ruble",
+    "currency_symbol": "Br",
+    "calling_code": "375",
+    "region": "europe",
+    "languages": [
+      "be",
+      "ru"
+    ],
+    "flag": "🇧🇾"
+  },
+  "BZ": {
+    "name": "Belize",
+    "capital": "Belmopan",
+    "iso_3166_2": "BZ",
+    "iso_3166_3": "BLZ",
+    "currency_code": "BZD",
+    "currency_name": "Belize dollar",
+    "currency_symbol": "BZ$",
+    "calling_code": "501",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇧🇿"
+  },
+  "CA": {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "iso_3166_2": "CA",
+    "iso_3166_3": "CAN",
+    "currency_code": "CAD",
+    "currency_name": "Canadian dollar",
+    "currency_symbol": "$",
+    "calling_code": "1",
+    "region": "americas",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "flag": "🇨🇦"
+  },
+  "CC": {
+    "name": "Territory of the Cocos (Keeling) Islands",
+    "capital": "West Island",
+    "iso_3166_2": "CC",
+    "iso_3166_3": "CCK",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "calling_code": "+61",
+    "region": "oceania",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇨🇨"
+  },
+  "CD": {
+    "name": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "iso_3166_2": "CD",
+    "iso_3166_3": "COD",
+    "currency_code": "CDF",
+    "currency_name": "Congolese franc",
+    "currency_symbol": "FC",
+    "calling_code": "243",
+    "region": "africa",
+    "languages": [
+      "fr",
+      "ln",
+      "kg",
+      "sw",
+      "lu"
+    ],
+    "flag": "🇨🇩"
+  },
+  "CF": {
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "iso_3166_2": "CF",
+    "iso_3166_3": "CAF",
+    "currency_code": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "calling_code": "236",
+    "region": "africa",
+    "languages": [
+      "fr",
+      "sg"
+    ],
+    "flag": "🇨🇫"
+  },
+  "CG": {
+    "name": "Republic of the Congo",
+    "capital": "Brazzaville",
+    "iso_3166_2": "CG",
+    "iso_3166_3": "COG",
+    "currency_code": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "calling_code": "242",
+    "region": "africa",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇨🇬"
+  },
+  "CH": {
+    "name": "Swiss Confederation",
+    "capital": "Bern",
+    "iso_3166_2": "CH",
+    "iso_3166_3": "CHE",
+    "currency_code": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "Fr.",
+    "calling_code": "41",
+    "region": "europe",
+    "languages": [
+      "de",
+      "fr",
+      "it",
+      "rm"
+    ],
+    "flag": "🇨🇭"
+  },
+  "CI": {
+    "name": "Republic of Côte d\\",
+    "capital": "Yamoussoukro",
+    "iso_3166_2": "CI",
+    "iso_3166_3": "CIV",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "calling_code": "225",
+    "region": "africa",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇨🇮"
+  },
+  "CK": {
+    "name": "Cook Islands",
+    "capital": "Avarua",
+    "iso_3166_2": "CK",
+    "iso_3166_3": "COK",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "calling_code": "682",
+    "region": "oceania",
+    "languages": [
+      "en",
+      "rar"
+    ],
+    "flag": "🇨🇰"
+  },
+  "CL": {
+    "name": "Republic of Chile",
+    "capital": "Santiago",
+    "iso_3166_2": "CL",
+    "iso_3166_3": "CHL",
+    "currency_code": "CLP",
+    "currency_name": "Chilean peso",
+    "currency_symbol": "$",
+    "calling_code": "56",
+    "region": "americas",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇨🇱"
+  },
+  "CM": {
+    "name": "Republic of Cameroon",
+    "capital": "Yaoundé",
+    "iso_3166_2": "CM",
+    "iso_3166_3": "CMR",
+    "currency_code": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "calling_code": "237",
+    "region": "africa",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "flag": "🇨🇲"
+  },
+  "CN": {
+    "name": "People's Republic of China",
+    "capital": "Beijing",
+    "iso_3166_2": "CN",
+    "iso_3166_3": "CHN",
+    "currency_code": "CNY",
+    "currency_name": "Renminbi (Yuan)",
+    "currency_symbol": "¥",
+    "calling_code": "86",
+    "region": "asia",
+    "languages": [
+      "zh"
+    ],
+    "flag": "🇨🇳"
+  },
+  "CO": {
+    "name": "Republic of Colombia",
+    "capital": "Bogotá",
+    "iso_3166_2": "CO",
+    "iso_3166_3": "COL",
+    "currency_code": "COP",
+    "currency_name": "Colombian peso",
+    "currency_symbol": "$",
+    "calling_code": "57",
+    "region": "americas",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇨🇴"
+  },
+  "CR": {
+    "name": "Republic of Costa Rica",
+    "capital": "San José",
+    "iso_3166_2": "CR",
+    "iso_3166_3": "CRI",
+    "currency_code": "CRC",
+    "currency_name": "Costa Rican colón",
+    "currency_symbol": "₡",
+    "calling_code": "506",
+    "region": "americas",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇨🇷"
+  },
+  "CU": {
+    "name": "Republic of Cuba",
+    "capital": "Havana",
+    "iso_3166_2": "CU",
+    "iso_3166_3": "CUB",
+    "currency_code": "CUP",
+    "currency_name": "Cuban peso",
+    "currency_symbol": "$",
+    "calling_code": "53",
+    "region": "americas",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇨🇺"
+  },
+  "CV": {
+    "name": "Republic of Cabo Verde",
+    "capital": "Praia",
+    "iso_3166_2": "CV",
+    "iso_3166_3": "CPV",
+    "currency_code": "CVE",
+    "currency_name": "Cape Verdean escudo",
+    "currency_symbol": "Esc",
+    "calling_code": "238",
+    "region": "africa",
+    "languages": [
+      "pt"
+    ],
+    "flag": "🇨🇻"
+  },
+  "CW": {
+    "name": "Curaçao",
+    "capital": "Willemstad",
+    "iso_3166_2": "CW",
+    "iso_3166_3": "CUW",
+    "currency_code": "ANG",
+    "currency_name": "Netherlands Antillean Guilder",
+    "currency_symbol": "ƒ",
+    "calling_code": "599",
+    "region": "americas",
+    "languages": [
+      "nl",
+      "pap",
+      "en"
+    ],
+    "flag": "🇨🇼"
+  },
+  "CX": {
+    "name": "Territory of Christmas Island",
+    "capital": "Flying Fish Cove",
+    "iso_3166_2": "CX",
+    "iso_3166_3": "CXR",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "calling_code": "61",
+    "region": "oceania",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇨🇽"
+  },
+  "CY": {
+    "name": "Republic of Cyprus",
+    "capital": "Nicosia",
+    "iso_3166_2": "CY",
+    "iso_3166_3": "CYP",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "357",
+    "region": "europe",
+    "languages": [
+      "el",
+      "tr"
+    ],
+    "flag": "🇨🇾"
+  },
+  "CZ": {
+    "name": "Czech Republic",
+    "capital": "Prague",
+    "iso_3166_2": "CZ",
+    "iso_3166_3": "CZE",
+    "currency_code": "CZK",
+    "currency_name": "Czech koruna",
+    "currency_symbol": "Kč",
+    "calling_code": "420",
+    "region": "europe",
+    "languages": [
+      "cs"
+    ],
+    "flag": "🇨🇿"
+  },
+  "DE": {
+    "name": "Federal Republic of Germany",
+    "capital": "Berlin",
+    "iso_3166_2": "DE",
+    "iso_3166_3": "DEU",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "49",
+    "region": "europe",
+    "languages": [
+      "de"
+    ],
+    "flag": "🇩🇪"
+  },
+  "DJ": {
+    "name": "Republic of Djibouti",
+    "capital": "Djibouti City",
+    "iso_3166_2": "DJ",
+    "iso_3166_3": "DJI",
+    "currency_code": "DJF",
+    "currency_name": "Djiboutian franc",
+    "currency_symbol": "Fdj",
+    "calling_code": "253",
+    "region": "africa",
+    "languages": [
+      "fr",
+      "ar"
+    ],
+    "flag": "🇩🇯"
+  },
+  "DK": {
+    "name": "Kingdom of Denmark",
+    "capital": "Copenhagen",
+    "iso_3166_2": "DK",
+    "iso_3166_3": "DNK",
+    "currency_code": "DKK",
+    "currency_name": "Danish krone",
+    "currency_symbol": "kr",
+    "calling_code": "45",
+    "region": "europe",
+    "languages": [
+      "da"
+    ],
+    "flag": "🇩🇰"
+  },
+  "DM": {
+    "name": "Commonwealth of Dominica",
+    "capital": "Roseau",
+    "iso_3166_2": "DM",
+    "iso_3166_3": "DMA",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-767",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇩🇲"
+  },
+  "DO": {
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "iso_3166_2": "DO",
+    "iso_3166_3": "DOM",
+    "currency_code": "DOP",
+    "currency_name": "Dominican peso",
+    "currency_symbol": "RD$",
+    "calling_code": "1-809, 1-829, 1-849",
+    "region": "americas",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇩🇴"
+  },
+  "DZ": {
+    "name": "People's Democratic Republic of Algeria",
+    "capital": "Algiers",
+    "iso_3166_2": "DZ",
+    "iso_3166_3": "DZA",
+    "currency_code": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "calling_code": "213",
+    "region": "africa",
+    "languages": [
+      "ar",
+      "ber"
+    ],
+    "flag": "🇩🇿"
+  },
+  "EC": {
+    "name": "Republic of Ecuador",
+    "capital": "Quito",
+    "iso_3166_2": "EC",
+    "iso_3166_3": "ECU",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "calling_code": "593",
+    "region": "americas",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇪🇨"
+  },
+  "EE": {
+    "name": "Republic of Estonia",
+    "capital": "Tallinn",
+    "iso_3166_2": "EE",
+    "iso_3166_3": "EST",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "372",
+    "region": "europe",
+    "languages": [
+      "et"
+    ],
+    "flag": "🇪🇪"
+  },
+  "EG": {
+    "name": "Arab Republic of Egypt",
+    "capital": "Cairo",
+    "iso_3166_2": "EG",
+    "iso_3166_3": "EGY",
+    "currency_code": "EGP",
+    "currency_name": "Egyptian pound",
+    "currency_symbol": "£",
+    "calling_code": "20",
+    "region": "africa",
+    "languages": [
+      "ar"
+    ],
+    "flag": "🇪🇬"
+  },
+  "EH": {
+    "name": "Sahrawi Arab Democratic Republic",
+    "capital": "El Aaiún",
+    "iso_3166_2": "EH",
+    "iso_3166_3": "ESH",
+    "currency_code": "MAD",
+    "currency_name": "Moroccan dirham",
+    "currency_symbol": "د.م.",
+    "calling_code": "212",
+    "region": "africa",
+    "languages": [
+      "ar",
+      "es"
+    ],
+    "flag": "🇪🇭"
+  },
+  "ER": {
+    "name": "State of Eritrea",
+    "capital": "Asmara",
+    "iso_3166_2": "ER",
+    "iso_3166_3": "ERI",
+    "currency_code": "ERN",
+    "currency_name": "Eritrean nakfa",
+    "currency_symbol": "Nfk",
+    "calling_code": "291",
+    "region": "africa",
+    "languages": [
+      "ti",
+      "ar",
+      "en"
+    ],
+    "flag": "🇪🇷"
+  },
+  "ES": {
+    "name": "Kingdom of Spain",
+    "capital": "Madrid",
+    "iso_3166_2": "ES",
+    "iso_3166_3": "ESP",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "34",
+    "region": "europe",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇪🇸"
+  },
+  "ET": {
+    "name": "Federal Democratic Republic of Ethiopia",
+    "capital": "Addis Ababa",
+    "iso_3166_2": "ET",
+    "iso_3166_3": "ETH",
+    "currency_code": "ETB",
+    "currency_name": "Ethiopian birr",
+    "currency_symbol": "ብር",
+    "calling_code": "251",
+    "region": "africa",
+    "languages": [
+      "am",
+      "om",
+      "en"
+    ],
+    "flag": "🇪🇹"
+  },
+  "FI": {
+    "name": "Republic of Finland",
+    "capital": "Helsinki",
+    "iso_3166_2": "FI",
+    "iso_3166_3": "FIN",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "358",
+    "region": "europe",
+    "languages": [
+      "fi",
+      "sv"
+    ],
+    "flag": "🇫🇮"
+  },
+  "FJ": {
+    "name": "Republic of Fiji",
+    "capital": "Suva",
+    "iso_3166_2": "FJ",
+    "iso_3166_3": "FJI",
+    "currency_code": "FJD",
+    "currency_name": "Fijian dollar",
+    "currency_symbol": "$",
+    "calling_code": "679",
+    "region": "oceania",
+    "languages": [
+      "en",
+      "fj",
+      "hif"
+    ],
+    "flag": "🇫🇯"
+  },
+  "FK": {
+    "name": "Falkland Islands",
+    "capital": "Stanley",
+    "iso_3166_2": "FK",
+    "iso_3166_3": "FLK",
+    "currency_code": "FKP",
+    "currency_name": "Falkland Islands pound",
+    "currency_symbol": "£",
+    "calling_code": "500",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇫🇰"
+  },
+  "FM": {
+    "name": "Federated States of Micronesia",
+    "capital": "Palikir",
+    "iso_3166_2": "FM",
+    "iso_3166_3": "FSM",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "calling_code": "691",
+    "region": "oceania",
+    "languages": [
+      "en",
+      "chk",
+      "pon",
+      "kos",
+      "yap"
+    ],
+    "flag": "🇫🇲"
+  },
+  "FO": {
+    "name": "Faroe Islands",
+    "capital": "Tórshavn",
+    "iso_3166_2": "FO",
+    "iso_3166_3": "FRO",
+    "currency_code": "DKK",
+    "currency_name": "Danish krone",
+    "currency_symbol": "kr",
+    "calling_code": "298",
+    "region": "europe",
+    "languages": [
+      "fo",
+      "da"
+    ],
+    "flag": "🇫🇴"
+  },
+  "FR": {
+    "name": "French Republic",
+    "capital": "Paris",
+    "iso_3166_2": "FR",
+    "iso_3166_3": "FRA",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "33",
+    "region": "europe",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇫🇷"
+  },
+  "GA": {
+    "name": "Gabonese Republic",
+    "capital": "Libreville",
+    "iso_3166_2": "GA",
+    "iso_3166_3": "GAB",
+    "currency_code": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "calling_code": "241",
+    "region": "africa",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇬🇦"
+  },
+  "GB": {
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "capital": "London",
+    "iso_3166_2": "GB",
+    "iso_3166_3": "GBR",
+    "currency_code": "GBP",
+    "currency_name": "Pound sterling",
+    "currency_symbol": "£",
+    "calling_code": "44",
+    "region": "europe",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇬🇧"
+  },
+  "GD": {
+    "name": "Grenada",
+    "capital": "St. George\\",
+    "iso_3166_2": "GD",
+    "iso_3166_3": "GRD",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-473",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇬🇩"
+  },
+  "GE": {
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "iso_3166_2": "GE",
+    "iso_3166_3": "GEO",
+    "currency_code": "GEL",
+    "currency_name": "Georgian lari",
+    "currency_symbol": "₾",
+    "calling_code": "995",
+    "region": "asia",
+    "languages": [
+      "ka"
+    ],
+    "flag": "🇬🇪"
+  },
+  "GF": {
+    "name": "French Guiana",
+    "capital": "Cayenne",
+    "iso_3166_2": "GF",
+    "iso_3166_3": "GUF",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "594",
+    "region": "americas",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇬🇫"
+  },
+  "GG": {
+    "name": "Bailiwick of Guernsey",
+    "capital": "St. Peter Port",
+    "iso_3166_2": "GG",
+    "iso_3166_3": "GGY",
+    "currency_code": "GGP",
+    "currency_name": "Guernsey pound",
+    "currency_symbol": "£",
+    "calling_code": "44-1481",
+    "region": "europe",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "flag": "🇬🇬"
+  },
+  "GH": {
+    "name": "Republic of Ghana",
+    "capital": "Accra",
+    "iso_3166_2": "GH",
+    "iso_3166_3": "GHA",
+    "currency_code": "GHS",
+    "currency_name": "Ghanaian cedi",
+    "currency_symbol": "GH₵",
+    "calling_code": "233",
+    "region": "africa",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇬🇭"
+  },
+  "GI": {
+    "name": "Gibraltar",
+    "capital": "Gibraltar",
+    "iso_3166_2": "GI",
+    "iso_3166_3": "GIB",
+    "currency_code": "GIP",
+    "currency_name": "Gibraltar pound",
+    "currency_symbol": "£",
+    "calling_code": "350",
+    "region": "europe",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇬🇮"
+  },
+  "GL": {
+    "name": "Greenland",
+    "capital": "Nuuk",
+    "iso_3166_2": "GL",
+    "iso_3166_3": "GRL",
+    "currency_code": "DKK",
+    "currency_name": "Danish krone",
+    "currency_symbol": "kr",
+    "calling_code": "299",
+    "region": "americas",
+    "languages": [
+      "kl",
+      "da"
+    ],
+    "flag": "🇬🇱"
+  },
+  "GM": {
+    "name": "Republic of the Gambia",
+    "capital": "Banjul",
+    "iso_3166_2": "GM",
+    "iso_3166_3": "GMB",
+    "currency_code": "GMD",
+    "currency_name": "Gambian dalasi",
+    "currency_symbol": "D",
+    "calling_code": "220",
+    "region": "africa",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇬🇲"
+  },
+  "GN": {
+    "name": "Republic of Guinea",
+    "capital": "Conakry",
+    "iso_3166_2": "GN",
+    "iso_3166_3": "GIN",
+    "currency_code": "GNF",
+    "currency_name": "Guinean franc",
+    "currency_symbol": "FG",
+    "calling_code": "224",
+    "region": "africa",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇬🇳"
+  },
+  "GP": {
+    "name": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "iso_3166_2": "GP",
+    "iso_3166_3": "GLP",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "590",
+    "region": "americas",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇬🇵"
+  },
+  "GQ": {
+    "name": "Republic of Equatorial Guinea",
+    "capital": "Malabo",
+    "iso_3166_2": "GQ",
+    "iso_3166_3": "GNQ",
+    "currency_code": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "calling_code": "240",
+    "region": "africa",
+    "languages": [
+      "es",
+      "fr",
+      "pt"
+    ],
+    "flag": "🇬🇶"
+  },
+  "GR": {
+    "name": "Hellenic Republic",
+    "capital": "Athens",
+    "iso_3166_2": "GR",
+    "iso_3166_3": "GRC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "30",
+    "region": "europe",
+    "languages": [
+      "el"
+    ],
+    "flag": "🇬🇷"
+  },
+  "GS": {
+    "name": "South Georgia and the South Sandwich Islands",
+    "capital": "King Edward Point",
+    "iso_3166_2": "GS",
+    "iso_3166_3": "SGS",
+    "currency_code": "GBP",
+    "currency_name": "Pound sterling",
+    "currency_symbol": "£",
+    "calling_code": "500",
+    "region": "oceania",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇬🇸"
+  },
+  "GT": {
+    "name": "Republic of Guatemala",
+    "capital": "Guatemala City",
+    "iso_3166_2": "GT",
+    "iso_3166_3": "GTM",
+    "currency_code": "GTQ",
+    "currency_name": "Guatemalan quetzal",
+    "currency_symbol": "Q",
+    "calling_code": "502",
+    "region": "americas",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇬🇹"
+  },
+  "GU": {
+    "name": "Guam",
+    "capital": "Hagåtña",
+    "iso_3166_2": "GU",
+    "iso_3166_3": "GUM",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-671",
+    "region": "oceania",
+    "languages": [
+      "en",
+      "ch"
+    ],
+    "flag": "🇬🇺"
+  },
+  "GW": {
+    "name": "Republic of Guinea-Bissau",
+    "capital": "Bissau",
+    "iso_3166_2": "GW",
+    "iso_3166_3": "GNB",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "calling_code": "245",
+    "region": "africa",
+    "languages": [
+      "pt"
+    ],
+    "flag": "🇬🇼"
+  },
+  "GY": {
+    "name": "Co-operative Republic of Guyana",
+    "capital": "Georgetown",
+    "iso_3166_2": "GY",
+    "iso_3166_3": "GUY",
+    "currency_code": "GYD",
+    "currency_name": "Guyanese dollar",
+    "currency_symbol": "$",
+    "calling_code": "592",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇬🇾"
+  },
+  "HK": {
+    "name": "Hong Kong Special Administrative Region of the People\\",
+    "iso_3166_2": "HK",
+    "iso_3166_3": "HKG",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong dollar",
+    "currency_symbol": "$",
+    "calling_code": "852",
+    "region": "asia",
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "capital": "",
+    "flag": "🇭🇰"
+  },
+  "HM": {
+    "name": "Heard Island and McDonald Islands",
+    "iso_3166_2": "HM",
+    "iso_3166_3": "HMD",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "calling_code": "672",
+    "region": "oceania",
+    "languages": [
+      "en"
+    ],
+    "capital": "",
+    "flag": "🇭🇲"
+  },
+  "HN": {
+    "name": "Republic of Honduras",
+    "capital": "Tegucigalpa",
+    "iso_3166_2": "HN",
+    "iso_3166_3": "HND",
+    "currency_code": "HNL",
+    "currency_name": "Honduran lempira",
+    "currency_symbol": "L",
+    "calling_code": "504",
+    "region": "americas",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇭🇳"
+  },
+  "HR": {
+    "name": "Republic of Croatia",
+    "capital": "Zagreb",
+    "iso_3166_2": "HR",
+    "iso_3166_3": "HRV",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "385",
+    "region": "europe",
+    "languages": [
+      "hr"
+    ],
+    "flag": "🇭🇷"
+  },
+  "HT": {
+    "name": "Republic of Haiti",
+    "capital": "Port-au-Prince",
+    "iso_3166_2": "HT",
+    "iso_3166_3": "HTI",
+    "currency_code": "HTG",
+    "currency_name": "Haitian gourde",
+    "currency_symbol": "G",
+    "calling_code": "509",
+    "region": "americas",
+    "languages": [
+      "fr",
+      "ht"
+    ],
+    "flag": "🇭🇹"
+  },
+  "HU": {
+    "name": "Hungary",
+    "capital": "Budapest",
+    "iso_3166_2": "HU",
+    "iso_3166_3": "HUN",
+    "currency_code": "HUF",
+    "currency_name": "Hungarian forint",
+    "currency_symbol": "Ft",
+    "calling_code": "36",
+    "region": "europe",
+    "languages": [
+      "hu"
+    ],
+    "flag": "🇭🇺"
+  },
+  "ID": {
+    "name": "Republic of Indonesia",
+    "capital": "Jakarta",
+    "iso_3166_2": "ID",
+    "iso_3166_3": "IDN",
+    "currency_code": "IDR",
+    "currency_name": "Indonesian rupiah",
+    "currency_symbol": "Rp",
+    "calling_code": "62",
+    "region": "asia",
+    "languages": [
+      "id"
+    ],
+    "flag": "🇮🇩"
+  },
+  "IE": {
+    "name": "Republic of Ireland",
+    "capital": "Dublin",
+    "iso_3166_2": "IE",
+    "iso_3166_3": "IRL",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "353",
+    "region": "europe",
+    "languages": [
+      "en",
+      "ga"
+    ],
+    "flag": "🇮🇪"
+  },
+  "IL": {
+    "name": "State of Israel",
+    "capital": "Jerusalem",
+    "iso_3166_2": "IL",
+    "iso_3166_3": "ISR",
+    "currency_code": "ILS",
+    "currency_name": "Israeli new shekel",
+    "currency_symbol": "₪",
+    "calling_code": "972",
+    "region": "asia",
+    "languages": [
+      "he",
+      "ar"
+    ],
+    "flag": "🇮🇱"
+  },
+  "IM": {
+    "name": "Isle of Man",
+    "capital": "Douglas",
+    "iso_3166_2": "IM",
+    "iso_3166_3": "IMN",
+    "currency_code": "IMP",
+    "currency_name": "Manx pound",
+    "currency_symbol": "£",
+    "calling_code": "44-1624",
+    "region": "europe",
+    "languages": [
+      "en",
+      "gv"
+    ],
+    "flag": "🇮🇲"
+  },
+  "IN": {
+    "name": "Republic of India",
+    "capital": "New Delhi",
+    "iso_3166_2": "IN",
+    "iso_3166_3": "IND",
+    "currency_code": "INR",
+    "currency_name": "Indian rupee",
+    "currency_symbol": "₹",
+    "calling_code": "91",
+    "region": "asia",
+    "languages": [
+      "hi",
+      "en"
+    ],
+    "flag": "🇮🇳"
+  },
+  "IO": {
+    "name": "British Indian Ocean Territory",
+    "iso_3166_2": "IO",
+    "iso_3166_3": "IOT",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "calling_code": "246",
+    "region": "oceania",
+    "languages": [
+      "en"
+    ],
+    "capital": "",
+    "flag": "🇮🇴"
+  },
+  "IQ": {
+    "name": "Republic of Iraq",
+    "capital": "Baghdad",
+    "iso_3166_2": "IQ",
+    "iso_3166_3": "IRQ",
+    "currency_code": "IQD",
+    "currency_name": "Iraqi dinar",
+    "currency_symbol": "ع.د",
+    "calling_code": "964",
+    "region": "asia",
+    "languages": [
+      "ar",
+      "ku"
+    ],
+    "flag": "🇮🇶"
+  },
+  "IR": {
+    "name": "Islamic Republic of Iran",
+    "capital": "Tehran",
+    "iso_3166_2": "IR",
+    "iso_3166_3": "IRN",
+    "currency_code": "IRR",
+    "currency_name": "Iranian rial",
+    "currency_symbol": "﷼",
+    "calling_code": "98",
+    "region": "asia",
+    "languages": [
+      "fa"
+    ],
+    "flag": "🇮🇷"
+  },
+  "IS": {
+    "name": "Iceland",
+    "capital": "Reykjavík",
+    "iso_3166_2": "IS",
+    "iso_3166_3": "ISL",
+    "currency_code": "ISK",
+    "currency_name": "Icelandic króna",
+    "currency_symbol": "kr",
+    "calling_code": "354",
+    "region": "europe",
+    "languages": [
+      "is"
+    ],
+    "flag": "🇮🇸"
+  },
+  "IT": {
+    "name": "Italian Republic",
+    "capital": "Rome",
+    "iso_3166_2": "IT",
+    "iso_3166_3": "ITA",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "39",
+    "region": "europe",
+    "languages": [
+      "it"
+    ],
+    "flag": "🇮🇹"
+  },
+  "JE": {
+    "name": "Bailiwick of Jersey",
+    "capital": "Saint Helier",
+    "iso_3166_2": "JE",
+    "iso_3166_3": "JEY",
+    "currency_code": "JEP",
+    "currency_name": "Jersey pound",
+    "currency_symbol": "£",
+    "calling_code": "44-1534",
+    "region": "europe",
+    "languages": [
+      "en",
+      "fr",
+      "nrf"
+    ],
+    "flag": "🇯🇪"
+  },
+  "JM": {
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "iso_3166_2": "JM",
+    "iso_3166_3": "JAM",
+    "currency_code": "JMD",
+    "currency_name": "Jamaican dollar",
+    "currency_symbol": "J$",
+    "calling_code": "1-876",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇯🇲"
+  },
+  "JO": {
+    "name": "Hashemite Kingdom of Jordan",
+    "capital": "Amman",
+    "iso_3166_2": "JO",
+    "iso_3166_3": "JOR",
+    "currency_code": "JOD",
+    "currency_name": "Jordanian dinar",
+    "currency_symbol": "د.ا",
+    "calling_code": "962",
+    "region": "asia",
+    "languages": [
+      "ar"
+    ],
+    "flag": "🇯🇴"
+  },
+  "JP": {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "iso_3166_2": "JP",
+    "iso_3166_3": "JPN",
+    "currency_code": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "calling_code": "81",
+    "region": "asia",
+    "languages": [
+      "ja"
+    ],
+    "flag": "🇯🇵"
+  },
+  "KE": {
+    "name": "Republic of Kenya",
+    "capital": "Nairobi",
+    "iso_3166_2": "KE",
+    "iso_3166_3": "KEN",
+    "currency_code": "KES",
+    "currency_name": "Kenyan shilling",
+    "currency_symbol": "KSh",
+    "calling_code": "254",
+    "region": "africa",
+    "languages": [
+      "sw",
+      "en"
+    ],
+    "flag": "🇰🇪"
+  },
+  "KG": {
+    "name": "Kyrgyz Republic",
+    "capital": "Bishkek",
+    "iso_3166_2": "KG",
+    "iso_3166_3": "KGZ",
+    "currency_code": "KGS",
+    "currency_name": "Kyrgyzstani som",
+    "currency_symbol": "с",
+    "calling_code": "996",
+    "region": "asia",
+    "languages": [
+      "ky",
+      "ru"
+    ],
+    "flag": "🇰🇬"
+  },
+  "KH": {
+    "name": "Kingdom of Cambodia",
+    "capital": "Phnom Penh",
+    "iso_3166_2": "KH",
+    "iso_3166_3": "KHM",
+    "currency_code": "KHR",
+    "currency_name": "Cambodian riel",
+    "currency_symbol": "៛",
+    "calling_code": "855",
+    "region": "asia",
+    "languages": [
+      "km"
+    ],
+    "flag": "🇰🇭"
+  },
+  "KI": {
+    "name": "Independent and Sovereign Republic of Kiribati",
+    "capital": "South Tarawa",
+    "iso_3166_2": "KI",
+    "iso_3166_3": "KIR",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "calling_code": "686",
+    "region": "oceania",
+    "languages": [
+      "en",
+      "gil"
+    ],
+    "flag": "🇰🇮"
+  },
+  "KM": {
+    "name": "Union of the Comoros",
+    "capital": "Moroni",
+    "iso_3166_2": "KM",
+    "iso_3166_3": "COM",
+    "currency_code": "KMF",
+    "currency_name": "Comorian franc",
+    "currency_symbol": "CF",
+    "calling_code": "269",
+    "region": "africa",
+    "languages": [
+      "ar",
+      "fr",
+      "swb"
+    ],
+    "flag": "🇰🇲"
+  },
+  "KN": {
+    "name": "Federation of Saint Christopher and Nevis",
+    "capital": "Basseterre",
+    "iso_3166_2": "KN",
+    "iso_3166_3": "KNA",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-869",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇰🇳"
+  },
+  "KP": {
+    "name": "Democratic People\\",
+    "capital": "Pyongyang",
+    "iso_3166_2": "KP",
+    "iso_3166_3": "PRK",
+    "currency_code": "KPW",
+    "currency_name": "North Korean won",
+    "currency_symbol": "₩",
+    "calling_code": "850",
+    "region": "asia",
+    "languages": [
+      "ko"
+    ],
+    "flag": "🇰🇵"
+  },
+  "KR": {
+    "name": "Republic of Korea",
+    "capital": "Seoul",
+    "iso_3166_2": "KR",
+    "iso_3166_3": "KOR",
+    "currency_code": "KRW",
+    "currency_name": "South Korean won",
+    "currency_symbol": "₩",
+    "calling_code": "82",
+    "region": "asia",
+    "languages": [
+      "ko"
+    ],
+    "flag": "🇰🇷"
+  },
+  "KW": {
+    "name": "State of Kuwait",
+    "capital": "Kuwait City",
+    "iso_3166_2": "KW",
+    "iso_3166_3": "KWT",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti dinar",
+    "currency_symbol": "د.ك",
+    "calling_code": "965",
+    "region": "asia",
+    "languages": [
+      "ar"
+    ],
+    "flag": "🇰🇼"
+  },
+  "KY": {
+    "name": "Cayman Islands",
+    "capital": "George Town",
+    "iso_3166_2": "KY",
+    "iso_3166_3": "CYM",
+    "currency_code": "KYD",
+    "currency_name": "Cayman Islands dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-345",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇰🇾"
+  },
+  "KZ": {
+    "name": "Republic of Kazakhstan",
+    "capital": "Astana",
+    "iso_3166_2": "KZ",
+    "iso_3166_3": "KAZ",
+    "currency_code": "KZT",
+    "currency_name": "Kazakhstani tenge",
+    "currency_symbol": "₸",
+    "calling_code": "7",
+    "region": "asia",
+    "languages": [
+      "kk",
+      "ru"
+    ],
+    "flag": "🇰🇿"
+  },
+  "LA": {
+    "name": "Lao People's Democratic Republic",
+    "capital": "Vientiane",
+    "iso_3166_2": "LA",
+    "iso_3166_3": "LAO",
+    "currency_code": "LAK",
+    "currency_name": "Lao kip",
+    "currency_symbol": "₭",
+    "calling_code": "856",
+    "region": "asia",
+    "languages": [
+      "lo"
+    ],
+    "flag": "🇱🇦"
+  },
+  "LB": {
+    "name": "Lebanese Republic",
+    "capital": "Beirut",
+    "iso_3166_2": "LB",
+    "iso_3166_3": "LBN",
+    "currency_code": "LBP",
+    "currency_name": "Lebanese pound",
+    "currency_symbol": "ل.ل",
+    "calling_code": "961",
+    "region": "asia",
+    "languages": [
+      "ar",
+      "fr"
+    ],
+    "flag": "🇱🇧"
+  },
+  "LC": {
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "iso_3166_2": "LC",
+    "iso_3166_3": "LCA",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-758",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇱🇨"
+  },
+  "LI": {
+    "name": "Principality of Liechtenstein",
+    "capital": "Vaduz",
+    "iso_3166_2": "LI",
+    "iso_3166_3": "LIE",
+    "currency_code": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "CHF",
+    "calling_code": "423",
+    "region": "europe",
+    "languages": [
+      "de"
+    ],
+    "flag": "🇱🇮"
+  },
+  "LK": {
+    "name": "Democratic Socialist Republic of Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "iso_3166_2": "LK",
+    "iso_3166_3": "LKA",
+    "currency_code": "LKR",
+    "currency_name": "Sri Lankan rupee",
+    "currency_symbol": "Rs",
+    "calling_code": "94",
+    "region": "asia",
+    "languages": [
+      "si",
+      "ta"
+    ],
+    "flag": "🇱🇰"
+  },
+  "LR": {
+    "name": "Republic of Liberia",
+    "capital": "Monrovia",
+    "iso_3166_2": "LR",
+    "iso_3166_3": "LBR",
+    "currency_code": "LRD",
+    "currency_name": "Liberian dollar",
+    "currency_symbol": "$",
+    "calling_code": "231",
+    "region": "africa",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇱🇷"
+  },
+  "LS": {
+    "name": "Kingdom of Lesotho",
+    "capital": "Maseru",
+    "iso_3166_2": "LS",
+    "iso_3166_3": "LSO",
+    "currency_code": "LSL",
+    "currency_name": "Lesotho loti",
+    "currency_symbol": "L",
+    "calling_code": "266",
+    "region": "africa",
+    "languages": [
+      "en",
+      "st"
+    ],
+    "flag": "🇱🇸"
+  },
+  "LT": {
+    "name": "Republic of Lithuania",
+    "capital": "Vilnius",
+    "iso_3166_2": "LT",
+    "iso_3166_3": "LTU",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "370",
+    "region": "europe",
+    "languages": [
+      "lt"
+    ],
+    "flag": "🇱🇹"
+  },
+  "LU": {
+    "name": "Grand Duchy of Luxembourg",
+    "capital": "Luxembourg City",
+    "iso_3166_2": "LU",
+    "iso_3166_3": "LUX",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "352",
+    "region": "europe",
+    "languages": [
+      "lb",
+      "fr",
+      "de"
+    ],
+    "flag": "🇱🇺"
+  },
+  "LV": {
+    "name": "Republic of Latvia",
+    "capital": "Riga",
+    "iso_3166_2": "LV",
+    "iso_3166_3": "LVA",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "371",
+    "region": "europe",
+    "languages": [
+      "lv"
+    ],
+    "flag": "🇱🇻"
+  },
+  "LY": {
+    "name": "State of Libya",
+    "capital": "Tripoli",
+    "iso_3166_2": "LY",
+    "iso_3166_3": "LBY",
+    "currency_code": "LYD",
+    "currency_name": "Libyan dinar",
+    "currency_symbol": "ل.د",
+    "calling_code": "218",
+    "region": "africa",
+    "languages": [
+      "ar"
+    ],
+    "flag": "🇱🇾"
+  },
+  "MA": {
+    "name": "Kingdom of Morocco",
+    "capital": "Rabat",
+    "iso_3166_2": "MA",
+    "iso_3166_3": "MAR",
+    "currency_code": "MAD",
+    "currency_name": "Moroccan dirham",
+    "currency_symbol": "د.م.",
+    "calling_code": "212",
+    "region": "africa",
+    "languages": [
+      "ar",
+      "ber"
+    ],
+    "flag": "🇲🇦"
+  },
+  "MC": {
+    "name": "Principality of Monaco",
+    "capital": "Monaco",
+    "iso_3166_2": "MC",
+    "iso_3166_3": "MCO",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "377",
+    "region": "europe",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇲🇨"
+  },
+  "MD": {
+    "name": "Republic of Moldova",
+    "capital": "Chișinău",
+    "iso_3166_2": "MD",
+    "iso_3166_3": "MDA",
+    "currency_code": "MDL",
+    "currency_name": "Moldovan leu",
+    "currency_symbol": "L",
+    "calling_code": "373",
+    "region": "europe",
+    "languages": [
+      "ro"
+    ],
+    "flag": "🇲🇩"
+  },
+  "ME": {
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "iso_3166_2": "ME",
+    "iso_3166_3": "MNE",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "382",
+    "region": "europe",
+    "languages": [
+      "sr",
+      "me",
+      "bs",
+      "sq",
+      "hr"
+    ],
+    "flag": "🇲🇪"
+  },
+  "MF": {
+    "name": "Saint Martin",
+    "capital": "Marigot",
+    "iso_3166_2": "MF",
+    "iso_3166_3": "MAF",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "590",
+    "region": "americas",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇲🇫"
+  },
+  "MG": {
+    "name": "Republic of Madagascar",
+    "capital": "Antananarivo",
+    "iso_3166_2": "MG",
+    "iso_3166_3": "MDG",
+    "currency_code": "MGA",
+    "currency_name": "Malagasy ariary",
+    "currency_symbol": "Ar",
+    "calling_code": "261",
+    "region": "africa",
+    "languages": [
+      "mg",
+      "fr"
+    ],
+    "flag": "🇲🇬"
+  },
+  "MH": {
+    "name": "Republic of the Marshall Islands",
+    "capital": "Majuro",
+    "iso_3166_2": "MH",
+    "iso_3166_3": "MHL",
+    "currency_code": "USD",
+    "currency_name": "United States Dollar",
+    "currency_symbol": "$",
+    "calling_code": "692",
+    "region": "oceania",
+    "languages": [
+      "mh",
+      "en"
+    ],
+    "flag": "🇲🇭"
+  },
+  "MK": {
+    "name": "Republic of Macedonia",
+    "capital": "Skopje",
+    "iso_3166_2": "MK",
+    "iso_3166_3": "MKD",
+    "currency_code": "MKD",
+    "currency_name": "Macedonian denar",
+    "currency_symbol": "ден",
+    "calling_code": "389",
+    "region": "europe",
+    "languages": [
+      "mk",
+      "sq"
+    ],
+    "flag": "🇲🇰"
+  },
+  "ML": {
+    "name": "Republic of Mali",
+    "capital": "Bamako",
+    "iso_3166_2": "ML",
+    "iso_3166_3": "MLI",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "calling_code": "223",
+    "region": "africa",
+    "languages": [
+      "fr",
+      "bm"
+    ],
+    "flag": "🇲🇱"
+  },
+  "MM": {
+    "name": "Republic of the Union of Myanmar",
+    "capital": "Naypyidaw",
+    "iso_3166_2": "MM",
+    "iso_3166_3": "MMR",
+    "currency_code": "MMK",
+    "currency_name": "Myanmar kyat",
+    "currency_symbol": "K",
+    "calling_code": "95",
+    "region": "asia",
+    "languages": [
+      "my"
+    ],
+    "flag": "🇲🇲"
+  },
+  "MN": {
+    "name": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "iso_3166_2": "MN",
+    "iso_3166_3": "MNG",
+    "currency_code": "MNT",
+    "currency_name": "Mongolian tögrög",
+    "currency_symbol": "₮",
+    "calling_code": "976",
+    "region": "asia",
+    "languages": [
+      "mn"
+    ],
+    "flag": "🇲🇳"
+  },
+  "MO": {
+    "name": "Macao Special Administrative Region of the People\\",
+    "capital": "Macau",
+    "iso_3166_2": "MO",
+    "iso_3166_3": "MAC",
+    "currency_code": "MOP",
+    "currency_name": "Macanese pataca",
+    "currency_symbol": "MOP$",
+    "calling_code": "853",
+    "region": "asia",
+    "languages": [
+      "zh",
+      "pt"
+    ],
+    "flag": "🇲🇴"
+  },
+  "MP": {
+    "name": "Commonwealth of the Northern Mariana Islands",
+    "capital": "Saipan",
+    "iso_3166_2": "MP",
+    "iso_3166_3": "MNP",
+    "currency_code": "USD",
+    "currency_name": "United States Dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-670",
+    "region": "oceania",
+    "languages": [
+      "en",
+      "ch",
+      "tl"
+    ],
+    "flag": "🇲🇵"
+  },
+  "MQ": {
+    "name": "Martinique",
+    "capital": "Fort-de-France",
+    "iso_3166_2": "MQ",
+    "iso_3166_3": "MTQ",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "596",
+    "region": "americas",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇲🇶"
+  },
+  "MR": {
+    "name": "Islamic Republic of Mauritania",
+    "capital": "Nouakchott",
+    "iso_3166_2": "MR",
+    "iso_3166_3": "MRT",
+    "currency_code": "MRU",
+    "currency_name": "Mauritanian ouguiya",
+    "currency_symbol": "UM",
+    "calling_code": "222",
+    "region": "africa",
+    "languages": [
+      "ar",
+      "fr"
+    ],
+    "flag": "🇲🇷"
+  },
+  "MS": {
+    "name": "Montserrat",
+    "capital": "Plymouth (de jure), Brades (de facto)",
+    "iso_3166_2": "MS",
+    "iso_3166_3": "MSR",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-664",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇲🇸"
+  },
+  "MT": {
+    "name": "Republic of Malta",
+    "capital": "Valletta",
+    "iso_3166_2": "MT",
+    "iso_3166_3": "MLT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "356",
+    "region": "europe",
+    "languages": [
+      "mt",
+      "en"
+    ],
+    "flag": "🇲🇹"
+  },
+  "MU": {
+    "name": "Republic of Mauritius",
+    "capital": "Port Louis",
+    "iso_3166_2": "MU",
+    "iso_3166_3": "MUS",
+    "currency_code": "MUR",
+    "currency_name": "Mauritian rupee",
+    "currency_symbol": "₨",
+    "calling_code": "230",
+    "region": "africa",
+    "languages": [
+      "en",
+      "fr",
+      "mfe"
+    ],
+    "flag": "🇲🇺"
+  },
+  "MV": {
+    "name": "Republic of the Maldives",
+    "capital": "Malé",
+    "iso_3166_2": "MV",
+    "iso_3166_3": "MDV",
+    "currency_code": "MVR",
+    "currency_name": "Maldivian rufiyaa",
+    "currency_symbol": "Rf",
+    "calling_code": "960",
+    "region": "asia",
+    "languages": [
+      "dv"
+    ],
+    "flag": "🇲🇻"
+  },
+  "MW": {
+    "name": "Republic of Malawi",
+    "capital": "Lilongwe",
+    "iso_3166_2": "MW",
+    "iso_3166_3": "MWI",
+    "currency_code": "MWK",
+    "currency_name": "Malawian kwacha",
+    "currency_symbol": "MK",
+    "calling_code": "265",
+    "region": "africa",
+    "languages": [
+      "en",
+      "ny"
+    ],
+    "flag": "🇲🇼"
+  },
+  "MX": {
+    "name": "United Mexican States",
+    "capital": "Mexico City",
+    "iso_3166_2": "MX",
+    "iso_3166_3": "MEX",
+    "currency_code": "MXN",
+    "currency_name": "Mexican peso",
+    "currency_symbol": "$",
+    "calling_code": "52",
+    "region": "americas",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇲🇽"
+  },
+  "MY": {
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "iso_3166_2": "MY",
+    "iso_3166_3": "MYS",
+    "currency_code": "MYR",
+    "currency_name": "Malaysian ringgit",
+    "currency_symbol": "RM",
+    "calling_code": "60",
+    "region": "asia",
+    "languages": [
+      "ms"
+    ],
+    "flag": "🇲🇾"
+  },
+  "MZ": {
+    "name": "Republic of Mozambique",
+    "capital": "Maputo",
+    "iso_3166_2": "MZ",
+    "iso_3166_3": "MOZ",
+    "currency_code": "MZN",
+    "currency_name": "Mozambican metical",
+    "currency_symbol": "MT",
+    "calling_code": "258",
+    "region": "africa",
+    "languages": [
+      "pt"
+    ],
+    "flag": "🇲🇿"
+  },
+  "NA": {
+    "name": "Republic of Namibia",
+    "capital": "Windhoek",
+    "iso_3166_2": "NA",
+    "iso_3166_3": "NAM",
+    "currency_code": "NAD",
+    "currency_name": "Namibian dollar",
+    "currency_symbol": "$",
+    "calling_code": "264",
+    "region": "africa",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇳🇦"
+  },
+  "NC": {
+    "name": "New Caledonia",
+    "capital": "Nouméa",
+    "iso_3166_2": "NC",
+    "iso_3166_3": "NCL",
+    "currency_code": "XPF",
+    "currency_name": "CFP franc",
+    "currency_symbol": "₣",
+    "calling_code": "687",
+    "region": "oceania",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇳🇨"
+  },
+  "NE": {
+    "name": "Republic of Niger",
+    "capital": "Niamey",
+    "iso_3166_2": "NE",
+    "iso_3166_3": "NER",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "₣",
+    "calling_code": "227",
+    "region": "africa",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇳🇪"
+  },
+  "NF": {
+    "name": "Territory of Norfolk Island",
+    "capital": "Kingston",
+    "iso_3166_2": "NF",
+    "iso_3166_3": "NFK",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "calling_code": "672",
+    "region": "oceania",
+    "languages": [
+      "en",
+      "pih"
+    ],
+    "flag": "🇳🇫"
+  },
+  "NG": {
+    "name": "Federal Republic of Nigeria",
+    "capital": "Abuja",
+    "iso_3166_2": "NG",
+    "iso_3166_3": "NGA",
+    "currency_code": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "calling_code": "234",
+    "region": "africa",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇳🇬"
+  },
+  "NI": {
+    "name": "Republic of Nicaragua",
+    "capital": "Managua",
+    "iso_3166_2": "NI",
+    "iso_3166_3": "NIC",
+    "currency_code": "NIO",
+    "currency_name": "Nicaraguan córdoba",
+    "currency_symbol": "C$",
+    "calling_code": "505",
+    "region": "americas",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇳🇮"
+  },
+  "NL": {
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "iso_3166_2": "NL",
+    "iso_3166_3": "NLD",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "31",
+    "region": "europe",
+    "languages": [
+      "nl"
+    ],
+    "flag": "🇳🇱"
+  },
+  "NO": {
+    "name": "Kingdom of Norway",
+    "capital": "Oslo",
+    "iso_3166_2": "NO",
+    "iso_3166_3": "NOR",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian krone",
+    "currency_symbol": "kr",
+    "calling_code": "47",
+    "region": "europe",
+    "languages": [
+      "no",
+      "nn",
+      "se"
+    ],
+    "flag": "🇳🇴"
+  },
+  "NP": {
+    "name": "Federal Democratic Republic of Nepal",
+    "capital": "Kathmandu",
+    "iso_3166_2": "NP",
+    "iso_3166_3": "NPL",
+    "currency_code": "NPR",
+    "currency_name": "Nepalese rupee",
+    "currency_symbol": "₨",
+    "calling_code": "977",
+    "region": "asia",
+    "languages": [
+      "ne"
+    ],
+    "flag": "🇳🇵"
+  },
+  "NR": {
+    "name": "Republic of Nauru",
+    "capital": "No official capital, government offices in Yaren",
+    "iso_3166_2": "NR",
+    "iso_3166_3": "NRU",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "calling_code": "674",
+    "region": "oceania",
+    "languages": [
+      "na",
+      "en"
+    ],
+    "flag": "🇳🇷"
+  },
+  "NU": {
+    "name": "Niue",
+    "capital": "Alofi",
+    "iso_3166_2": "NU",
+    "iso_3166_3": "NIU",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "calling_code": "683",
+    "region": "oceania",
+    "languages": [
+      "niu",
+      "en"
+    ],
+    "flag": "🇳🇺"
+  },
+  "NZ": {
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "iso_3166_2": "NZ",
+    "iso_3166_3": "NZL",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "calling_code": "64",
+    "region": "oceania",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "flag": "🇳🇿"
+  },
+  "OM": {
+    "name": "Sultanate of Oman",
+    "capital": "Muscat",
+    "iso_3166_2": "OM",
+    "iso_3166_3": "OMN",
+    "currency_code": "OMR",
+    "currency_name": "Omani rial",
+    "currency_symbol": "ر.ع.",
+    "calling_code": "968",
+    "region": "asia",
+    "languages": [
+      "ar"
+    ],
+    "flag": "🇴🇲"
+  },
+  "PA": {
+    "name": "Republic of Panama",
+    "capital": "Panama City",
+    "iso_3166_2": "PA",
+    "iso_3166_3": "PAN",
+    "currency_code": "PAB",
+    "currency_name": "Panamanian balboa",
+    "currency_symbol": "B\/.",
+    "calling_code": "507",
+    "region": "americas",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇵🇦"
+  },
+  "PE": {
+    "name": "Republic of Peru",
+    "capital": "Lima",
+    "iso_3166_2": "PE",
+    "iso_3166_3": "PER",
+    "currency_code": "PEN",
+    "currency_name": "Sol",
+    "currency_symbol": "S\/.",
+    "calling_code": "51",
+    "region": "americas",
+    "languages": [
+      "es",
+      "qu",
+      "ay"
+    ],
+    "flag": "🇵🇪"
+  },
+  "PF": {
+    "name": "French Polynesia",
+    "capital": "Papeete",
+    "iso_3166_2": "PF",
+    "iso_3166_3": "PYF",
+    "currency_code": "XPF",
+    "currency_name": "CFP franc",
+    "currency_symbol": "₣",
+    "calling_code": "689",
+    "region": "oceania",
+    "languages": [
+      "fr",
+      "ty"
+    ],
+    "flag": "🇵🇫"
+  },
+  "PG": {
+    "name": "Independent State of Papua New Guinea",
+    "capital": "Port Moresby",
+    "iso_3166_2": "PG",
+    "iso_3166_3": "PNG",
+    "currency_code": "PGK",
+    "currency_name": "Papua New Guinean kina",
+    "currency_symbol": "K",
+    "calling_code": "675",
+    "region": "oceania",
+    "languages": [
+      "en",
+      "tpi",
+      "ho"
+    ],
+    "flag": "🇵🇬"
+  },
+  "PH": {
+    "name": "Republic of the Philippines",
+    "capital": "Manila",
+    "iso_3166_2": "PH",
+    "iso_3166_3": "PHL",
+    "currency_code": "PHP",
+    "currency_name": "Philippine peso",
+    "currency_symbol": "₱",
+    "calling_code": "63",
+    "region": "asia",
+    "languages": [
+      "fil",
+      "en"
+    ],
+    "flag": "🇵🇭"
+  },
+  "PK": {
+    "name": "Islamic Republic of Pakistan",
+    "capital": "Islamabad",
+    "iso_3166_2": "PK",
+    "iso_3166_3": "PAK",
+    "currency_code": "PKR",
+    "currency_name": "Pakistani rupee",
+    "currency_symbol": "₨",
+    "calling_code": "92",
+    "region": "asia",
+    "languages": [
+      "ur",
+      "en"
+    ],
+    "flag": "🇵🇰"
+  },
+  "PL": {
+    "name": "Republic of Poland",
+    "capital": "Warsaw",
+    "iso_3166_2": "PL",
+    "iso_3166_3": "POL",
+    "currency_code": "PLN",
+    "currency_name": "Polish złoty",
+    "currency_symbol": "zł",
+    "calling_code": "48",
+    "region": "europe",
+    "languages": [
+      "pl"
+    ],
+    "flag": "🇵🇱"
+  },
+  "PM": {
+    "name": "Saint Pierre and Miquelon",
+    "capital": "Saint-Pierre",
+    "iso_3166_2": "PM",
+    "iso_3166_3": "SPM",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "508",
+    "region": "americas",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇵🇲"
+  },
+  "PN": {
+    "name": "Pitcairn Group of Islands",
+    "capital": "Adamstown",
+    "iso_3166_2": "PN",
+    "iso_3166_3": "PCN",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "calling_code": "64",
+    "region": "oceania",
+    "languages": [
+      "en",
+      "pih"
+    ],
+    "flag": "🇵🇳"
+  },
+  "PR": {
+    "name": "Commonwealth of Puerto Rico",
+    "capital": "San Juan",
+    "iso_3166_2": "PR",
+    "iso_3166_3": "PRI",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-787, 1-939",
+    "region": "americas",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "flag": "🇵🇷"
+  },
+  "PS": {
+    "name": "State of Palestine",
+    "capital": "East Jerusalem",
+    "iso_3166_2": "PS",
+    "iso_3166_3": "PSE",
+    "currency_code": "ILS",
+    "currency_name": "Israeli new shekel",
+    "currency_symbol": "₪",
+    "calling_code": "970",
+    "region": "asia",
+    "languages": [
+      "ar"
+    ],
+    "flag": "🇵🇸"
+  },
+  "PT": {
+    "name": "Portuguese Republic",
+    "capital": "Lisbon",
+    "iso_3166_2": "PT",
+    "iso_3166_3": "PRT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "351",
+    "region": "europe",
+    "languages": [
+      "pt"
+    ],
+    "flag": "🇵🇹"
+  },
+  "PW": {
+    "name": "Republic of Palau",
+    "capital": "Ngerulmud",
+    "iso_3166_2": "PW",
+    "iso_3166_3": "PLW",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "calling_code": "680",
+    "region": "oceania",
+    "languages": [
+      "en",
+      "pau"
+    ],
+    "flag": "🇵🇼"
+  },
+  "PY": {
+    "name": "Republic of Paraguay",
+    "capital": "Asunción",
+    "iso_3166_2": "PY",
+    "iso_3166_3": "PRY",
+    "currency_code": "PYG",
+    "currency_name": "Paraguayan guaraní",
+    "currency_symbol": "₲",
+    "calling_code": "595",
+    "region": "americas",
+    "languages": [
+      "es",
+      "gn"
+    ],
+    "flag": "🇵🇾"
+  },
+  "QA": {
+    "name": "State of Qatar",
+    "capital": "Doha",
+    "iso_3166_2": "QA",
+    "iso_3166_3": "QAT",
+    "currency_code": "QAR",
+    "currency_name": "Qatari riyal",
+    "currency_symbol": "﷼",
+    "calling_code": "974",
+    "region": "asia",
+    "languages": [
+      "ar"
+    ],
+    "flag": "🇶🇦"
+  },
+  "RE": {
+    "name": "Réunion Island",
+    "capital": "Saint-Denis",
+    "iso_3166_2": "RE",
+    "iso_3166_3": "REU",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "262",
+    "region": "africa",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇷🇪"
+  },
+  "RO": {
+    "name": "Romania",
+    "capital": "Bucharest",
+    "iso_3166_2": "RO",
+    "iso_3166_3": "ROU",
+    "currency_code": "RON",
+    "currency_name": "Romanian leu",
+    "currency_symbol": "lei",
+    "calling_code": "40",
+    "region": "europe",
+    "languages": [
+      "ro"
+    ],
+    "flag": "🇷🇴"
+  },
+  "RS": {
+    "name": "Republic of Serbia",
+    "capital": "Belgrade",
+    "iso_3166_2": "RS",
+    "iso_3166_3": "SRB",
+    "currency_code": "RSD",
+    "currency_name": "Serbian dinar",
+    "currency_symbol": "дин.",
+    "calling_code": "381",
+    "region": "europe",
+    "languages": [
+      "sr"
+    ],
+    "flag": "🇷🇸"
+  },
+  "RU": {
+    "name": "Russian Federation",
+    "capital": "Moscow",
+    "iso_3166_2": "RU",
+    "iso_3166_3": "RUS",
+    "currency_code": "RUB",
+    "currency_name": "Russian ruble",
+    "currency_symbol": "₽",
+    "calling_code": "7",
+    "region": "europe",
+    "languages": [
+      "ru"
+    ],
+    "flag": "🇷🇺"
+  },
+  "RW": {
+    "name": "Republic of Rwanda",
+    "capital": "Kigali",
+    "iso_3166_2": "RW",
+    "iso_3166_3": "RWA",
+    "currency_code": "RWF",
+    "currency_name": "Rwandan franc",
+    "currency_symbol": "FRw",
+    "calling_code": "250",
+    "region": "africa",
+    "languages": [
+      "rw",
+      "fr",
+      "en"
+    ],
+    "flag": "🇷🇼"
+  },
+  "SA": {
+    "name": "Kingdom of Saudi Arabia",
+    "capital": "Riyadh",
+    "iso_3166_2": "SA",
+    "iso_3166_3": "SAU",
+    "currency_code": "SAR",
+    "currency_name": "Saudi riyal",
+    "currency_symbol": "﷼",
+    "calling_code": "966",
+    "region": "asia",
+    "languages": [
+      "ar"
+    ],
+    "flag": "🇸🇦"
+  },
+  "SB": {
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "iso_3166_2": "SB",
+    "iso_3166_3": "SLB",
+    "currency_code": "SBD",
+    "currency_name": "Solomon Islands dollar",
+    "currency_symbol": "$",
+    "calling_code": "677",
+    "region": "oceania",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇸🇧"
+  },
+  "SC": {
+    "name": "Republic of Seychelles",
+    "capital": "Victoria",
+    "iso_3166_2": "SC",
+    "iso_3166_3": "SYC",
+    "currency_code": "SCR",
+    "currency_name": "Seychellois rupee",
+    "currency_symbol": "₨",
+    "calling_code": "248",
+    "region": "africa",
+    "languages": [
+      "fr",
+      "en",
+      "crs"
+    ],
+    "flag": "🇸🇨"
+  },
+  "SD": {
+    "name": "Republic of the Sudan",
+    "capital": "Khartoum",
+    "iso_3166_2": "SD",
+    "iso_3166_3": "SDN",
+    "currency_code": "SDG",
+    "currency_name": "Sudanese pound",
+    "currency_symbol": "£",
+    "calling_code": "249",
+    "region": "africa",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "flag": "🇸🇩"
+  },
+  "SE": {
+    "name": "Kingdom of Sweden",
+    "capital": "Stockholm",
+    "iso_3166_2": "SE",
+    "iso_3166_3": "SWE",
+    "currency_code": "SEK",
+    "currency_name": "Swedish krona",
+    "currency_symbol": "kr",
+    "calling_code": "46",
+    "region": "europe",
+    "languages": [
+      "sv"
+    ],
+    "flag": "🇸🇪"
+  },
+  "SG": {
+    "name": "Republic of Singapore",
+    "capital": "Singapore",
+    "iso_3166_2": "SG",
+    "iso_3166_3": "SGP",
+    "currency_code": "SGD",
+    "currency_name": "Singapore dollar",
+    "currency_symbol": "$",
+    "calling_code": "65",
+    "region": "asia",
+    "languages": [
+      "en",
+      "zh",
+      "ms",
+      "ta"
+    ],
+    "flag": "🇸🇬"
+  },
+  "SH": {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "capital": "Jamestown",
+    "iso_3166_2": "SH",
+    "iso_3166_3": "SHN",
+    "currency_code": "SHP",
+    "currency_name": "Saint Helena pound",
+    "currency_symbol": "£",
+    "calling_code": "290",
+    "region": "africa",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇸🇭"
+  },
+  "SI": {
+    "name": "Republic of Slovenia",
+    "capital": "Ljubljana",
+    "iso_3166_2": "SI",
+    "iso_3166_3": "SVN",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "386",
+    "region": "europe",
+    "languages": [
+      "sl"
+    ],
+    "flag": "🇸🇮"
+  },
+  "SJ": {
+    "name": "Svalbard og Jan Mayen",
+    "capital": "Longyearbyen",
+    "iso_3166_2": "SJ",
+    "iso_3166_3": "SJM",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian krone",
+    "currency_symbol": "kr",
+    "calling_code": "47",
+    "region": "europe",
+    "languages": [
+      "no"
+    ],
+    "flag": "🇸🇯"
+  },
+  "SK": {
+    "name": "Slovak Republic",
+    "capital": "Bratislava",
+    "iso_3166_2": "SK",
+    "iso_3166_3": "SVK",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "421",
+    "region": "europe",
+    "languages": [
+      "sk"
+    ],
+    "flag": "🇸🇰"
+  },
+  "SL": {
+    "name": "Republic of Sierra Leone",
+    "capital": "Freetown",
+    "iso_3166_2": "SL",
+    "iso_3166_3": "SLE",
+    "currency_code": "SLE",
+    "currency_name": "Sierra Leonean leone",
+    "currency_symbol": "Le",
+    "calling_code": "232",
+    "region": "africa",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇸🇱"
+  },
+  "SM": {
+    "name": "Most Serene Republic of San Marino",
+    "capital": "San Marino",
+    "iso_3166_2": "SM",
+    "iso_3166_3": "SMR",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "378",
+    "region": "europe",
+    "languages": [
+      "it"
+    ],
+    "flag": "🇸🇲"
+  },
+  "SN": {
+    "name": "Republic of Senegal",
+    "capital": "Dakar",
+    "iso_3166_2": "SN",
+    "iso_3166_3": "SEN",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "calling_code": "221",
+    "region": "africa",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇸🇳"
+  },
+  "SO": {
+    "name": "Federal Republic of Somalia",
+    "capital": "Mogadishu",
+    "iso_3166_2": "SO",
+    "iso_3166_3": "SOM",
+    "currency_code": "SOS",
+    "currency_name": "Somali shilling",
+    "currency_symbol": "Sh",
+    "calling_code": "252",
+    "region": "africa",
+    "languages": [
+      "so",
+      "ar"
+    ],
+    "flag": "🇸🇴"
+  },
+  "SR": {
+    "name": "Republic of Suriname",
+    "capital": "Paramaribo",
+    "iso_3166_2": "SR",
+    "iso_3166_3": "SUR",
+    "currency_code": "SRD",
+    "currency_name": "Surinamese dollar",
+    "currency_symbol": "$",
+    "calling_code": "597",
+    "region": "americas",
+    "languages": [
+      "nl"
+    ],
+    "flag": "🇸🇷"
+  },
+  "SS": {
+    "name": "Republic of South Sudan",
+    "capital": "Juba",
+    "iso_3166_2": "SS",
+    "iso_3166_3": "SSD",
+    "currency_code": "SSP",
+    "currency_name": "South Sudanese Pound",
+    "currency_symbol": "£",
+    "calling_code": "211",
+    "region": "africa",
+    "languages": [
+      "en",
+      "ar"
+    ],
+    "flag": "🇸🇸"
+  },
+  "ST": {
+    "name": "Democratic Republic of São Tomé and Príncipe",
+    "capital": "São Tomé",
+    "iso_3166_2": "ST",
+    "iso_3166_3": "STP",
+    "currency_code": "STN",
+    "currency_name": "São Tomé and Príncipe dobra",
+    "currency_symbol": "Db",
+    "calling_code": "239",
+    "region": "africa",
+    "languages": [
+      "pt"
+    ],
+    "flag": "🇸🇹"
+  },
+  "SV": {
+    "name": "Republic of El Salvador",
+    "capital": "San Salvador",
+    "iso_3166_2": "SV",
+    "iso_3166_3": "SLV",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "calling_code": "503",
+    "region": "americas",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇸🇻"
+  },
+  "SX": {
+    "name": "Sint Maarten",
+    "capital": "Philipsburg",
+    "iso_3166_2": "SX",
+    "iso_3166_3": "SXM",
+    "currency_code": "ANG",
+    "currency_name": "Netherlands Antillean Guilder",
+    "currency_symbol": "ƒ",
+    "calling_code": "1721",
+    "region": "americas",
+    "languages": [
+      "nl",
+      "en"
+    ],
+    "flag": "🇸🇽"
+  },
+  "SY": {
+    "name": "Syrian Arab Republic",
+    "capital": "Damascus",
+    "iso_3166_2": "SY",
+    "iso_3166_3": "SYR",
+    "currency_code": "SYP",
+    "currency_name": "Syrian pound",
+    "currency_symbol": "£",
+    "calling_code": "963",
+    "region": "asia",
+    "languages": [
+      "ar"
+    ],
+    "flag": "🇸🇾"
+  },
+  "SZ": {
+    "name": "Kingdom of Swaziland",
+    "capital": "Mbabane",
+    "iso_3166_2": "SZ",
+    "iso_3166_3": "SWZ",
+    "currency_code": "SZL",
+    "currency_name": "Swazi lilangeni",
+    "currency_symbol": "L",
+    "calling_code": "268",
+    "region": "africa",
+    "languages": [
+      "en",
+      "ss"
+    ],
+    "flag": "🇸🇿"
+  },
+  "TC": {
+    "name": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "iso_3166_2": "TC",
+    "iso_3166_3": "TCA",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-649",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇹🇨"
+  },
+  "TD": {
+    "name": "Republic of Chad",
+    "capital": "N\\",
+    "iso_3166_2": "TD",
+    "iso_3166_3": "TCD",
+    "currency_code": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "calling_code": "235",
+    "region": "africa",
+    "languages": [
+      "fr",
+      "ar"
+    ],
+    "flag": "🇹🇩"
+  },
+  "TF": {
+    "name": "Territory of the French Southern and Antarctic Lands",
+    "capital": "Port-aux-Français",
+    "iso_3166_2": "TF",
+    "iso_3166_3": "ATF",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "region": "oceania",
+    "languages": [
+      "fr"
+    ],
+    "calling_code": "",
+    "flag": "🇹🇫"
+  },
+  "TG": {
+    "name": "Togolese Republic",
+    "capital": "Lomé",
+    "iso_3166_2": "TG",
+    "iso_3166_3": "TGO",
+    "currency_code": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "calling_code": "228",
+    "region": "africa",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇹🇬"
+  },
+  "TH": {
+    "name": "Kingdom of Thailand",
+    "capital": "Bangkok",
+    "iso_3166_2": "TH",
+    "iso_3166_3": "THA",
+    "currency_code": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "calling_code": "66",
+    "region": "asia",
+    "languages": [
+      "th"
+    ],
+    "flag": "🇹🇭"
+  },
+  "TJ": {
+    "name": "Republic of Tajikistan",
+    "capital": "Dushanbe",
+    "iso_3166_2": "TJ",
+    "iso_3166_3": "TJK",
+    "currency_code": "TJS",
+    "currency_name": "Tajikistani somoni",
+    "currency_symbol": "SM",
+    "calling_code": "992",
+    "region": "asia",
+    "languages": [
+      "tg"
+    ],
+    "flag": "🇹🇯"
+  },
+  "TK": {
+    "name": "Tokelau",
+    "iso_3166_2": "TK",
+    "iso_3166_3": "TKL",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "calling_code": "690",
+    "region": "oceania",
+    "languages": [
+      "tkl",
+      "en"
+    ],
+    "capital": "",
+    "flag": "🇹🇰"
+  },
+  "TL": {
+    "name": "Democratic Republic of Timor-Leste",
+    "capital": "Dili",
+    "iso_3166_2": "TL",
+    "iso_3166_3": "TLS",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "calling_code": "670",
+    "region": "asia",
+    "languages": [
+      "pt",
+      "tet"
+    ],
+    "flag": "🇹🇱"
+  },
+  "TM": {
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "iso_3166_2": "TM",
+    "iso_3166_3": "TKM",
+    "currency_code": "TMT",
+    "currency_name": "Turkmenistani manat",
+    "currency_symbol": "m",
+    "calling_code": "993",
+    "region": "asia",
+    "languages": [
+      "tk"
+    ],
+    "flag": "🇹🇲"
+  },
+  "TN": {
+    "name": "Tunisian Republic",
+    "capital": "Tunis",
+    "iso_3166_2": "TN",
+    "iso_3166_3": "TUN",
+    "currency_code": "TND",
+    "currency_name": "Tunisian dinar",
+    "currency_symbol": "د.ت",
+    "calling_code": "216",
+    "region": "africa",
+    "languages": [
+      "ar"
+    ],
+    "flag": "🇹🇳"
+  },
+  "TO": {
+    "name": "Kingdom of Tonga",
+    "capital": "Nukuʻalofa",
+    "iso_3166_2": "TO",
+    "iso_3166_3": "TON",
+    "currency_code": "TOP",
+    "currency_name": "Tongan paʻanga",
+    "currency_symbol": "T$",
+    "calling_code": "676",
+    "region": "oceania",
+    "languages": [
+      "to",
+      "en"
+    ],
+    "flag": "🇹🇴"
+  },
+  "TR": {
+    "name": "Republic of Turkey",
+    "capital": "Ankara",
+    "iso_3166_2": "TR",
+    "iso_3166_3": "TUR",
+    "currency_code": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "calling_code": "90",
+    "region": "asia",
+    "languages": [
+      "tr"
+    ],
+    "flag": "🇹🇷"
+  },
+  "TT": {
+    "name": "Republic of Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "iso_3166_2": "TT",
+    "iso_3166_3": "TTO",
+    "currency_code": "TTD",
+    "currency_name": "Trinidad and Tobago dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-868",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇹🇹"
+  },
+  "TV": {
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "iso_3166_2": "TV",
+    "iso_3166_3": "TUV",
+    "currency_code": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "calling_code": "688",
+    "region": "oceania",
+    "languages": [
+      "tv",
+      "en"
+    ],
+    "flag": "🇹🇻"
+  },
+  "TW": {
+    "name": "Republic of China (Taiwan)",
+    "capital": "Taipei",
+    "iso_3166_2": "TW",
+    "iso_3166_3": "TWN",
+    "currency_code": "TWD",
+    "currency_name": "New Taiwan dollar",
+    "currency_symbol": "NT$",
+    "calling_code": "886",
+    "region": "asia",
+    "languages": [
+      "zh",
+      "zh-tw"
+    ],
+    "flag": "🇹🇼"
+  },
+  "TZ": {
+    "name": "United Republic of Tanzania",
+    "capital": "Dodoma",
+    "iso_3166_2": "TZ",
+    "iso_3166_3": "TZA",
+    "currency_code": "TZS",
+    "currency_name": "Tanzanian shilling",
+    "currency_symbol": "TSh",
+    "calling_code": "255",
+    "region": "africa",
+    "languages": [
+      "sw",
+      "en"
+    ],
+    "flag": "🇹🇿"
+  },
+  "UA": {
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "iso_3166_2": "UA",
+    "iso_3166_3": "UKR",
+    "currency_code": "UAH",
+    "currency_name": "Ukrainian hryvnia",
+    "currency_symbol": "₴",
+    "calling_code": "380",
+    "region": "europe",
+    "languages": [
+      "uk"
+    ],
+    "flag": "🇺🇦"
+  },
+  "UG": {
+    "name": "Republic of Uganda",
+    "capital": "Kampala",
+    "iso_3166_2": "UG",
+    "iso_3166_3": "UGA",
+    "currency_code": "UGX",
+    "currency_name": "Ugandan shilling",
+    "currency_symbol": "USh",
+    "calling_code": "256",
+    "region": "africa",
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "flag": "🇺🇬"
+  },
+  "UM": {
+    "name": "United States Minor Outlying Islands",
+    "iso_3166_2": "UM",
+    "iso_3166_3": "UMI",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "region": "oceania",
+    "languages": [
+      "en"
+    ],
+    "capital": "",
+    "calling_code": "",
+    "flag": "🇺🇲"
+  },
+  "US": {
+    "name": "United States of America",
+    "capital": "Washington, D.C.",
+    "iso_3166_2": "US",
+    "iso_3166_3": "USA",
+    "currency_code": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "calling_code": "1",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇺🇸"
+  },
+  "UY": {
+    "name": "Oriental Republic of Uruguay",
+    "capital": "Montevideo",
+    "iso_3166_2": "UY",
+    "iso_3166_3": "URY",
+    "currency_code": "UYU",
+    "currency_name": "Uruguayan peso",
+    "currency_symbol": "$U",
+    "calling_code": "598",
+    "region": "americas",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇺🇾"
+  },
+  "UZ": {
+    "name": "Republic of Uzbekistan",
+    "capital": "Tashkent",
+    "iso_3166_2": "UZ",
+    "iso_3166_3": "UZB",
+    "currency_code": "UZS",
+    "currency_name": "Uzbekistani soʻm",
+    "currency_symbol": "soʻm",
+    "calling_code": "998",
+    "region": "asia",
+    "languages": [
+      "uz",
+      "ru"
+    ],
+    "flag": "🇺🇿"
+  },
+  "VA": {
+    "name": "Vatican City State",
+    "capital": "Vatican City",
+    "iso_3166_2": "VA",
+    "iso_3166_3": "VAT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "379",
+    "region": "europe",
+    "languages": [
+      "la",
+      "it"
+    ],
+    "flag": "🇻🇦"
+  },
+  "VC": {
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "iso_3166_2": "VC",
+    "iso_3166_3": "VCT",
+    "currency_code": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-784",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇻🇨"
+  },
+  "VE": {
+    "name": "Bolivarian Republic of Venezuela",
+    "capital": "Caracas",
+    "iso_3166_2": "VE",
+    "iso_3166_3": "VEN",
+    "currency_code": "VES",
+    "currency_name": "Bolívar Soberano",
+    "currency_symbol": "Bs.",
+    "calling_code": "58",
+    "region": "americas",
+    "languages": [
+      "es"
+    ],
+    "flag": "🇻🇪"
+  },
+  "VG": {
+    "name": "Virgin Islands",
+    "capital": "Road Town",
+    "iso_3166_2": "VG",
+    "iso_3166_3": "VGB",
+    "currency_code": "USD",
+    "currency_name": "United States Dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-284",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇻🇬"
+  },
+  "VI": {
+    "name": "Virgin Islands of the United States",
+    "capital": "Charlotte Amalie",
+    "iso_3166_2": "VI",
+    "iso_3166_3": "VIR",
+    "currency_code": "USD",
+    "currency_name": "United States Dollar",
+    "currency_symbol": "$",
+    "calling_code": "1-340",
+    "region": "americas",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇻🇮"
+  },
+  "VN": {
+    "name": "Socialist Republic of Vietnam",
+    "capital": "Hanoi",
+    "iso_3166_2": "VN",
+    "iso_3166_3": "VNM",
+    "currency_code": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "calling_code": "84",
+    "region": "asia",
+    "languages": [
+      "vi"
+    ],
+    "flag": "🇻🇳"
+  },
+  "VU": {
+    "name": "Republic of Vanuatu",
+    "capital": "Port Vila",
+    "iso_3166_2": "VU",
+    "iso_3166_3": "VUT",
+    "currency_code": "VUV",
+    "currency_name": "Vanuatu vatu",
+    "currency_symbol": "VT",
+    "calling_code": "678",
+    "region": "oceania",
+    "languages": [
+      "bi",
+      "en",
+      "fr"
+    ],
+    "flag": "🇻🇺"
+  },
+  "WF": {
+    "name": "Territory of the Wallis and Futuna Islands",
+    "capital": "Mata-Utu",
+    "iso_3166_2": "WF",
+    "iso_3166_3": "WLF",
+    "currency_code": "XPF",
+    "currency_name": "CFP franc",
+    "currency_symbol": "₣",
+    "calling_code": "681",
+    "region": "oceania",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇼🇫"
+  },
+  "WS": {
+    "name": "Independent State of Samoa",
+    "capital": "Apia",
+    "iso_3166_2": "WS",
+    "iso_3166_3": "WSM",
+    "currency_code": "WST",
+    "currency_name": "Samoan tālā",
+    "currency_symbol": "WS$",
+    "calling_code": "685",
+    "region": "oceania",
+    "languages": [
+      "sm",
+      "en"
+    ],
+    "flag": "🇼🇸"
+  },
+  "YE": {
+    "name": "Republic of Yemen",
+    "capital": "Sana\\",
+    "iso_3166_2": "YE",
+    "iso_3166_3": "YEM",
+    "currency_code": "YER",
+    "currency_name": "Yemeni rial",
+    "currency_symbol": "﷼",
+    "calling_code": "967",
+    "region": "asia",
+    "languages": [
+      "ar"
+    ],
+    "flag": "🇾🇪"
+  },
+  "YT": {
+    "name": "Department of Mayotte",
+    "capital": "Mamoudzou",
+    "iso_3166_2": "YT",
+    "iso_3166_3": "MYT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "calling_code": "262",
+    "region": "africa",
+    "languages": [
+      "fr"
+    ],
+    "flag": "🇾🇹"
+  },
+  "ZA": {
+    "name": "Republic of South Africa",
+    "capital": "Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)",
+    "iso_3166_2": "ZA",
+    "iso_3166_3": "ZAF",
+    "currency_code": "ZAR",
+    "currency_name": "South African rand",
+    "currency_symbol": "R",
+    "calling_code": "27",
+    "region": "africa",
+    "languages": [
+      "af",
+      "en",
+      "zu",
+      "xh",
+      "st",
+      "ts",
+      "tn",
+      "ss",
+      "ve",
+      "nso",
+      "nr"
+    ],
+    "flag": "🇿🇦"
+  },
+  "ZM": {
+    "name": "Republic of Zambia",
+    "capital": "Lusaka",
+    "iso_3166_2": "ZM",
+    "iso_3166_3": "ZMB",
+    "currency_code": "ZMW",
+    "currency_name": "Zambian kwacha",
+    "currency_symbol": "ZK",
+    "calling_code": "260",
+    "region": "africa",
+    "languages": [
+      "en"
+    ],
+    "flag": "🇿🇲"
+  },
+  "ZW": {
+    "name": "Republic of Zimbabwe",
+    "capital": "Harare",
+    "iso_3166_2": "ZW",
+    "iso_3166_3": "ZWE",
+    "currency_code": "ZWL",
+    "currency_name": "Zimbabwean dollar",
+    "currency_symbol": "Z$",
+    "calling_code": "263",
+    "region": "africa",
+    "languages": [
+      "en",
+      "sn",
+      "nd"
+    ],
+    "flag": "🇿🇼"
+  }
+}

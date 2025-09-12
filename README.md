@@ -1,52 +1,54 @@
 # Laravel Countries
 
-[![Total Downloads](https://poser.pugx.org/webpatser/laravel-countries/downloads.svg)](https://packagist.org/packages/webpatser/laravel-countries)
-[![Latest Stable Version](https://poser.pugx.org/webpatser/laravel-countries/v/stable.svg)](https://packagist.org/packages/webpatser/laravel-countries)
-[![Latest Unstable Version](https://poser.pugx.org/webpatser/laravel-countries/v/unstable.svg)](https://packagist.org/packages/webpatser/laravel-countries)
+[![Total Downloads](https://img.shields.io/packagist/dt/webpatser/laravel-countries.svg)](https://packagist.org/packages/webpatser/laravel-countries)
+[![PHP Version](https://img.shields.io/badge/php-^8.2-blue.svg)](https://packagist.org/packages/webpatser/laravel-countries)
+[![Laravel Version](https://img.shields.io/badge/laravel-^11.0%20%7C%20^12.0-red.svg)](https://packagist.org/packages/webpatser/laravel-countries)
+[![License](https://img.shields.io/packagist/l/webpatser/laravel-countries.svg)](https://packagist.org/packages/webpatser/laravel-countries)
 
-Laravel Countries is a bundle for Laravel, providing Almost ISO 3166_2, 3166_3, currency, Capital and more for all countries.
-
-**Please note that version 1.4 is Laravel 5 only, older versions of Laravel should use version 1.3.4 instead**
+A comprehensive Laravel package for handling countries data with all 249 countries, flags, currencies, regions, and more.
 
 ## Installation
 
-Add `webpatser/laravel-countries` to `composer.json`.
+Install via Composer:
 
-    "webpatser/laravel-countries": "dev-master"
-    
-Run `composer update` to pull down the latest version of Country List.
+```bash
+composer require webpatser/laravel-countries
+```
 
-Edit `app/config/app.php` and add the `provider` and `filter`
+Run the installation command to set up the database:
 
-    'providers' => [
-        'Webpatser\Countries\CountriesServiceProvider',
-    ]
+```bash
+php artisan countries:install
+```
 
-Now add the alias.
+## Quick Usage
 
-    'aliases' => [
-        'Countries' => 'Webpatser\Countries\CountriesFacade',
-    ]
-    
+```php
+use Webpatser\Countries\Countries;
 
-## Model
+$countries = new Countries();
+$usa = $countries->getOne('US');
+$allCountries = $countries->getList();
+$euroCountries = $countries->getByCurrency('EUR');
+```
 
-You can start by publishing the configuration. This is an optional step, it contains the table name and does not need to be altered. If the default name `countries` suits you, leave it. Otherwise run the following command
+## Features
 
-    $ php artisan vendor:publish
+- 🌍 All 249 countries with complete data
+- 🏳️ Flag emojis for every country
+- 💰 Currency information and filtering
+- 🌏 Regional grouping and filtering
+- 🔍 Search and query capabilities
+- 📋 Laravel validation rules
+- 🎨 Collection and String macros
+- 🗄️ Eloquent model support
 
-Next generate the migration file:
+## Documentation
 
-    $ php artisan countries:migration
-    
-It will generate the `<timestamp>_setup_countries_table.php` migration and the `CountriesSeeder.php` seeder. To make sure the data is seeded insert the following code in the `seeds/DatabaseSeeder.php`
+For complete documentation, examples, and API reference, visit:
 
-    //Seed the countries
-    $this->call('CountriesSeeder');
-    $this->command->info('Seeded the countries!'); 
+**[https://documentation.downsized.nl/laravel-countries](https://documentation.downsized.nl/laravel-countries)**
 
-You may now run it with the artisan migrate command:
+## License
 
-    $ php artisan migrate --seed
-    
-After running this command the filled countries table will be available
+MIT License
