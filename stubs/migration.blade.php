@@ -14,7 +14,8 @@ class SetupCountriesTable extends Migration {
 		// Creates the countries table
 		Schema::create(\Config::get('countries.table_name'), function(Blueprint $table)
 		{
-		    $table->string('iso_3166_2', 2)->primary();
+			$table->id();
+		    $table->string('iso_3166_2', 2);
 		    $table->string('name', 255);
 		    $table->string('capital', 255)->nullable();
 		    $table->string('iso_3166_3', 3);
