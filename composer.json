@@ -1,58 +1,60 @@
 {
-	"name" : "webpatser/laravel-countries",
-	"description" : "Modern Laravel Countries package providing ISO 3166-2, ISO 3166-3, currency, capital and more for all countries. Compatible with Laravel 11.x and 12.x.",
-	"authors" : [{
-			"name" : "Christoph Kempen",
-			"email" : "christoph@downsized.nl",
-			"homepage" : "https://downsized.nl/",
-			"role" : "developer"
-		}, {
-			"name" : "Paul Kievits",
-			"role" : "developer"
-		}
-	],
-	"keywords" : [
-		"laravel",
-		"countries",
-		"iso_3166_2",
-		"iso_3166_3",
-		"currency",
-		"capitals"
-	],
-	"homepage" : "https://github.com/webpatser/laravel-countries",
-	"license" : [
-		"MIT"
-	],
-	"require" : {
-		"php" : "^8.2",
-		"illuminate/support": "^11.0|^12.0",
-		"illuminate/database": "^11.0|^12.0"
-	},
-	"require-dev": {
-		"phpunit/phpunit": "^11.0"
-	},
-	"autoload" : {
-		"psr-4" : {
-			"Webpatser\\Countries\\": "src/"
-		}
-	},
-	"autoload-dev": {
-		"psr-4": {
-			"Tests\\": "tests/"
-		}
-	},
-	"support" : {
-		"source" : "https://github.com/webpatser/laravel-countries",
-		"issues" : "https://github.com/webpatser/laravel-countries/issues"
-	},
-	"extra": {
-	    "laravel": {
-		"providers": [
-		    "Webpatser\\Countries\\CountriesServiceProvider"
-		],
-		"aliases": {
-		    "Countries": "Webpatser\\Countries\\CountriesFacade"
-		}
-	    }
-	}
+    "name": "webpatser/laravel-countries",
+    "description": "Modern Laravel Countries package providing ISO 3166-2, ISO 3166-3, currency, capital and more for all countries. Compatible with Laravel 11.x and 12.x.",
+    "authors": [
+        {
+            "name": "Christoph Kempen",
+            "email": "christoph@downsized.nl",
+            "homepage": "https://downsized.nl/",
+            "role": "developer"
+        },
+        {
+            "name": "Paul Kievits",
+            "role": "developer"
+        }
+    ],
+    "keywords": [
+        "laravel",
+        "countries",
+        "iso_3166_2",
+        "iso_3166_3",
+        "currency",
+        "capitals"
+    ],
+    "homepage": "https://github.com/webpatser/laravel-countries",
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "php": "^8.2",
+        "illuminate/support": "^11.0|^12.0|^13.0",
+        "illuminate/database": "^11.0|^12.0|^13.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webpatser\\Countries\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "support": {
+        "source": "https://github.com/webpatser/laravel-countries",
+        "issues": "https://github.com/webpatser/laravel-countries/issues"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Webpatser\\Countries\\CountriesServiceProvider"
+            ],
+            "aliases": {
+                "Countries": "Webpatser\\Countries\\CountriesFacade"
+            }
+        }
+    }
 }
