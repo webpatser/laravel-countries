@@ -1,6 +1,6 @@
 {
     "name": "webpatser/laravel-countries",
-    "description": "Modern Laravel Countries package providing ISO 3166-2, ISO 3166-3, currency, capital and more for all countries. Compatible with Laravel 11.x and 12.x.",
+    "description": "Modern Laravel Countries package providing ISO 3166-2, ISO 3166-3, currency, capital and more for all countries. Compatible with Laravel 11.x, 12.x, and 13.x.",
     "authors": [
         {
             "name": "Christoph Kempen",
@@ -31,7 +31,9 @@
         "illuminate/database": "^11.0|^12.0|^13.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^11.0"
+        "orchestra/testbench": "^10.0|^11.0",
+        "pestphp/pest": "^3.0",
+        "pestphp/pest-plugin-laravel": "^3.0"
     },
     "autoload": {
         "psr-4": {
@@ -55,6 +57,11 @@
             "aliases": {
                 "Countries": "Webpatser\\Countries\\CountriesFacade"
             }
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
         }
     }
 }
