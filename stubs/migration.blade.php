@@ -21,7 +21,7 @@ class SetupCountriesTable extends Migration {
 		    $table->string('currency_code', 3)->nullable();
 		    $table->string('currency_name', 255)->nullable();
 		    $table->string('currency_symbol', 10)->nullable();
-		    $table->string('calling_code', 10)->nullable();
+		    $table->string('calling_code', 30)->nullable();
 		    $table->string('region', 50)->nullable();
 		    $table->json('languages')->nullable();
 		    $table->string('flag', 10)->nullable();
