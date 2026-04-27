@@ -1048,7 +1048,11 @@
     "calling_code": "34",
     "region": "europe",
     "languages": [
-      "es"
+      "es",
+      "ca",
+      "gl",
+      "eu",
+      "oc"
     ],
     "flag": "🇪🇸"
   },
