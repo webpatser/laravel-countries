@@ -668,7 +668,7 @@
     "flag": "🇨🇭"
   },
   "CI": {
-    "name": "Republic of Côte d\\",
+    "name": "Republic of Côte d'Ivoire",
     "capital": "Yamoussoukro",
     "iso_3166_2": "CI",
     "iso_3166_3": "CIV",
@@ -1462,7 +1462,7 @@
     "flag": "🇬🇾"
   },
   "HK": {
-    "name": "Hong Kong Special Administrative Region of the People\\",
+    "name": "Hong Kong Special Administrative Region of the People's Republic of China",
     "iso_3166_2": "HK",
     "iso_3166_3": "HKG",
     "currency_code": "HKD",
@@ -1866,7 +1866,7 @@
     "flag": "🇰🇳"
   },
   "KP": {
-    "name": "Democratic People\\",
+    "name": "Democratic People's Republic of Korea",
     "capital": "Pyongyang",
     "iso_3166_2": "KP",
     "iso_3166_3": "PRK",
@@ -2286,7 +2286,7 @@
     "flag": "🇲🇳"
   },
   "MO": {
-    "name": "Macao Special Administrative Region of the People\\",
+    "name": "Macao Special Administrative Region of the People's Republic of China",
     "capital": "Macau",
     "iso_3166_2": "MO",
     "iso_3166_3": "MAC",
