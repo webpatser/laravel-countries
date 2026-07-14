@@ -16,6 +16,7 @@ class SetupCountriesTable extends Migration {
 		{
 		    $table->string('iso_3166_2', 2)->primary();
 		    $table->string('name', 255);
+		    $table->string('full_name', 255)->nullable();
 		    $table->string('capital', 255)->nullable();
 		    $table->string('iso_3166_3', 3);
 		    $table->string('currency_code', 3)->nullable();

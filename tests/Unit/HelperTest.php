@@ -34,6 +34,13 @@ it('can look up country code from name', function () {
     expect(country_code_from_name('Netherlands'))->toBe('NL');
 });
 
+it('can look up country code from common and official names', function () {
+    expect(country_code_from_name('United States'))->toBe('US')
+        ->and(country_code_from_name('United States of America'))->toBe('US')
+        ->and(country_code_from_name('Greece'))->toBe('GR')
+        ->and(country_code_from_name('Hellenic Republic'))->toBe('GR');
+});
+
 it('can get countries by region via helper', function () {
     $european = countries_by_region('Europe');
 

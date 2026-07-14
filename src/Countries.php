@@ -197,7 +197,7 @@ class Countries extends Model
     }
 
     /**
-     * Search countries by name or capital
+     * Search countries by name, full name or capital
      *
      * @param string $query
      * @return array<string, array<string, mixed>>
@@ -209,9 +209,10 @@ class Countries extends Model
         
         return array_filter($countries, function ($country) use ($query) {
             $name = strtolower($country['name'] ?? '');
+            $fullName = strtolower($country['full_name'] ?? '');
             $capital = strtolower($country['capital'] ?? '');
-            
-            return str_contains($name, $query) || str_contains($capital, $query);
+
+            return str_contains($name, $query) || str_contains($fullName, $query) || str_contains($capital, $query);
         });
     }
 

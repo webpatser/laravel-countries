@@ -92,7 +92,8 @@ class CountryHelper
         $countries = self::getCountriesInstance()->getList();
         
         foreach ($countries as $code => $country) {
-            if (strcasecmp($country['name'], $countryName) === 0) {
+            if (strcasecmp($country['name'], $countryName) === 0
+                || strcasecmp($country['full_name'] ?? '', $countryName) === 0) {
                 return $code;
             }
         }
