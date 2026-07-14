@@ -1,6 +1,7 @@
 {
   "AD": {
-    "name": "Principality of Andorra",
+    "name": "Andorra",
+    "full_name": "Principality of Andorra",
     "capital": "Andorra la Vella",
     "iso_3166_2": "AD",
     "iso_3166_3": "AND",
@@ -16,6 +17,7 @@
   },
   "AE": {
     "name": "United Arab Emirates",
+    "full_name": "United Arab Emirates",
     "capital": "Abu Dhabi",
     "iso_3166_2": "AE",
     "iso_3166_3": "ARE",
@@ -30,7 +32,8 @@
     "flag": "🇦🇪"
   },
   "AF": {
-    "name": "Islamic Emirate of Afghanistan",
+    "name": "Afghanistan",
+    "full_name": "Islamic Emirate of Afghanistan",
     "capital": "Kabul",
     "iso_3166_2": "AF",
     "iso_3166_3": "AFG",
@@ -48,6 +51,7 @@
   },
   "AG": {
     "name": "Antigua and Barbuda",
+    "full_name": "Antigua and Barbuda",
     "capital": "St. John\\",
     "iso_3166_2": "AG",
     "iso_3166_3": "ATG",
@@ -63,6 +67,7 @@
   },
   "AI": {
     "name": "Anguilla",
+    "full_name": "Anguilla",
     "capital": "The Valley",
     "iso_3166_2": "AI",
     "iso_3166_3": "AIA",
@@ -77,7 +82,8 @@
     "flag": "🇦🇮"
   },
   "AL": {
-    "name": "Republic of Albania",
+    "name": "Albania",
+    "full_name": "Republic of Albania",
     "capital": "Tirana",
     "iso_3166_2": "AL",
     "iso_3166_3": "ALB",
@@ -92,7 +98,8 @@
     "flag": "🇦🇱"
   },
   "AM": {
-    "name": "Republic of Armenia",
+    "name": "Armenia",
+    "full_name": "Republic of Armenia",
     "capital": "Yerevan",
     "iso_3166_2": "AM",
     "iso_3166_3": "ARM",
@@ -107,7 +114,8 @@
     "flag": "🇦🇲"
   },
   "AO": {
-    "name": "Republic of Angola",
+    "name": "Angola",
+    "full_name": "Republic of Angola",
     "capital": "Luanda",
     "iso_3166_2": "AO",
     "iso_3166_3": "AGO",
@@ -123,6 +131,7 @@
   },
   "AQ": {
     "name": "Antarctica",
+    "full_name": "Antarctica",
     "iso_3166_2": "AQ",
     "iso_3166_3": "ATA",
     "region": "oceania",
@@ -135,7 +144,8 @@
     "flag": "🇦🇶"
   },
   "AR": {
-    "name": "Argentine Republic",
+    "name": "Argentina",
+    "full_name": "Argentine Republic",
     "capital": "Buenos Aires",
     "iso_3166_2": "AR",
     "iso_3166_3": "ARG",
@@ -151,6 +161,7 @@
   },
   "AS": {
     "name": "American Samoa",
+    "full_name": "Territory of American",
     "capital": "Pago Pago",
     "iso_3166_2": "AS",
     "iso_3166_3": "ASM",
@@ -166,7 +177,8 @@
     "flag": "🇦🇸"
   },
   "AT": {
-    "name": "Republic of Austria",
+    "name": "Austria",
+    "full_name": "Republic of Austria",
     "capital": "Vienna",
     "iso_3166_2": "AT",
     "iso_3166_3": "AUT",
@@ -181,7 +193,8 @@
     "flag": "🇦🇹"
   },
   "AU": {
-    "name": "Commonwealth of Australia",
+    "name": "Australia",
+    "full_name": "Commonwealth of Australia",
     "capital": "Canberra",
     "iso_3166_2": "AU",
     "iso_3166_3": "AUS",
@@ -197,6 +210,7 @@
   },
   "AW": {
     "name": "Aruba",
+    "full_name": "Aruba",
     "capital": "Oranjestad",
     "iso_3166_2": "AW",
     "iso_3166_3": "ABW",
@@ -213,6 +227,7 @@
   },
   "AX": {
     "name": "Åland Islands",
+    "full_name": "Åland Islands",
     "capital": "Mariehamn",
     "iso_3166_2": "AX",
     "iso_3166_3": "ALA",
@@ -227,7 +242,8 @@
     "flag": "🇦🇽"
   },
   "AZ": {
-    "name": "Republic of Azerbaijan",
+    "name": "Azerbaijan",
+    "full_name": "Republic of Azerbaijan",
     "capital": "Baku",
     "iso_3166_2": "AZ",
     "iso_3166_3": "AZE",
@@ -243,6 +259,7 @@
   },
   "BA": {
     "name": "Bosnia and Herzegovina",
+    "full_name": "Bosnia and Herzegovina",
     "capital": "Sarajevo",
     "iso_3166_2": "BA",
     "iso_3166_3": "BIH",
@@ -260,6 +277,7 @@
   },
   "BB": {
     "name": "Barbados",
+    "full_name": "Barbados",
     "capital": "Bridgetown",
     "iso_3166_2": "BB",
     "iso_3166_3": "BRB",
@@ -274,7 +292,8 @@
     "flag": "🇧🇧"
   },
   "BD": {
-    "name": "People's Republic of Bangladesh",
+    "name": "Bangladesh",
+    "full_name": "People's Republic of Bangladesh",
     "capital": "Dhaka",
     "iso_3166_2": "BD",
     "iso_3166_3": "BGD",
@@ -289,7 +308,8 @@
     "flag": "🇧🇩"
   },
   "BE": {
-    "name": "Kingdom of Belgium",
+    "name": "Belgium",
+    "full_name": "Kingdom of Belgium",
     "capital": "Brussels",
     "iso_3166_2": "BE",
     "iso_3166_3": "BEL",
@@ -307,6 +327,7 @@
   },
   "BF": {
     "name": "Burkina Faso",
+    "full_name": "Burkina Faso",
     "capital": "Ouagadougou",
     "iso_3166_2": "BF",
     "iso_3166_3": "BFA",
@@ -321,7 +342,8 @@
     "flag": "🇧🇫"
   },
   "BG": {
-    "name": "Republic of Bulgaria",
+    "name": "Bulgaria",
+    "full_name": "Republic of Bulgaria",
     "capital": "Sofia",
     "iso_3166_2": "BG",
     "iso_3166_3": "BGR",
@@ -336,7 +358,8 @@
     "flag": "🇧🇬"
   },
   "BH": {
-    "name": "Kingdom of Bahrain",
+    "name": "Bahrain",
+    "full_name": "Kingdom of Bahrain",
     "capital": "Manama",
     "iso_3166_2": "BH",
     "iso_3166_3": "BHR",
@@ -351,7 +374,8 @@
     "flag": "🇧🇭"
   },
   "BI": {
-    "name": "Republic of Burundi",
+    "name": "Burundi",
+    "full_name": "Republic of Burundi",
     "capital": "Gitega",
     "iso_3166_2": "BI",
     "iso_3166_3": "BDI",
@@ -369,7 +393,8 @@
     "flag": "🇧🇮"
   },
   "BJ": {
-    "name": "Republic of Benin",
+    "name": "Benin",
+    "full_name": "Republic of Benin",
     "capital": "Porto-Novo",
     "iso_3166_2": "BJ",
     "iso_3166_3": "BEN",
@@ -384,7 +409,8 @@
     "flag": "🇧🇯"
   },
   "BL": {
-    "name": "Collectivity of Saint Barthélemy",
+    "name": "Saint Barthélemy",
+    "full_name": "Collectivity of Saint Barthélemy",
     "capital": "Gustavia",
     "iso_3166_2": "BL",
     "iso_3166_3": "BLM",
@@ -400,6 +426,7 @@
   },
   "BM": {
     "name": "Bermuda",
+    "full_name": "Bermuda",
     "capital": "Hamilton",
     "iso_3166_2": "BM",
     "iso_3166_3": "BMU",
@@ -414,7 +441,8 @@
     "flag": "🇧🇲"
   },
   "BN": {
-    "name": "Nation of Brunei, Abode of Peace",
+    "name": "Brunei Darussalam",
+    "full_name": "Nation of Brunei, Abode of Peace",
     "capital": "Bandar Seri Begawan",
     "iso_3166_2": "BN",
     "iso_3166_3": "BRN",
@@ -429,7 +457,8 @@
     "flag": "🇧🇳"
   },
   "BO": {
-    "name": "Plurinational State of Bolivia",
+    "name": "Bolivia, Plurinational State of",
+    "full_name": "Plurinational State of Bolivia",
     "capital": "Sucre",
     "iso_3166_2": "BO",
     "iso_3166_3": "BOL",
@@ -448,6 +477,7 @@
   },
   "BQ": {
     "name": "Bonaire, Sint Eustatius and Saba",
+    "full_name": "Bonaire, Sint Eustatius and Saba",
     "capital": "Kralendijk",
     "iso_3166_2": "BQ",
     "iso_3166_3": "BES",
@@ -464,7 +494,8 @@
     "flag": "🇧🇶"
   },
   "BR": {
-    "name": "Federative Republic of Brazil",
+    "name": "Brazil",
+    "full_name": "Federative Republic of Brazil",
     "capital": "Brasília",
     "iso_3166_2": "BR",
     "iso_3166_3": "BRA",
@@ -479,7 +510,8 @@
     "flag": "🇧🇷"
   },
   "BS": {
-    "name": "Commonwealth of the Bahamas",
+    "name": "Bahamas",
+    "full_name": "Commonwealth of the Bahamas",
     "capital": "Nassau",
     "iso_3166_2": "BS",
     "iso_3166_3": "BHS",
@@ -494,7 +526,8 @@
     "flag": "🇧🇸"
   },
   "BT": {
-    "name": "Kingdom of Bhutan",
+    "name": "Bhutan",
+    "full_name": "Kingdom of Bhutan",
     "capital": "Thimphu",
     "iso_3166_2": "BT",
     "iso_3166_3": "BTN",
@@ -510,6 +543,7 @@
   },
   "BV": {
     "name": "Bouvet Island",
+    "full_name": "Bouvet Island",
     "iso_3166_2": "BV",
     "iso_3166_3": "BVT",
     "currency_code": "NOK",
@@ -522,7 +556,8 @@
     "flag": "🇧🇻"
   },
   "BW": {
-    "name": "Republic of Botswana",
+    "name": "Botswana",
+    "full_name": "Republic of Botswana",
     "capital": "Gaborone",
     "iso_3166_2": "BW",
     "iso_3166_3": "BWA",
@@ -538,7 +573,8 @@
     "flag": "🇧🇼"
   },
   "BY": {
-    "name": "Republic of Belarus",
+    "name": "Belarus",
+    "full_name": "Republic of Belarus",
     "capital": "Minsk",
     "iso_3166_2": "BY",
     "iso_3166_3": "BLR",
@@ -555,6 +591,7 @@
   },
   "BZ": {
     "name": "Belize",
+    "full_name": "Belize",
     "capital": "Belmopan",
     "iso_3166_2": "BZ",
     "iso_3166_3": "BLZ",
@@ -570,6 +607,7 @@
   },
   "CA": {
     "name": "Canada",
+    "full_name": "Canada",
     "capital": "Ottawa",
     "iso_3166_2": "CA",
     "iso_3166_3": "CAN",
@@ -585,7 +623,8 @@
     "flag": "🇨🇦"
   },
   "CC": {
-    "name": "Territory of the Cocos (Keeling) Islands",
+    "name": "Cocos (Keeling) Islands",
+    "full_name": "Territory of the Cocos (Keeling) Islands",
     "capital": "West Island",
     "iso_3166_2": "CC",
     "iso_3166_3": "CCK",
@@ -600,7 +639,8 @@
     "flag": "🇨🇨"
   },
   "CD": {
-    "name": "Democratic Republic of the Congo",
+    "name": "Congo, the Democratic Republic of the",
+    "full_name": "Democratic Republic of the Congo",
     "capital": "Kinshasa",
     "iso_3166_2": "CD",
     "iso_3166_3": "COD",
@@ -620,6 +660,7 @@
   },
   "CF": {
     "name": "Central African Republic",
+    "full_name": "Central African Republic",
     "capital": "Bangui",
     "iso_3166_2": "CF",
     "iso_3166_3": "CAF",
@@ -635,7 +676,8 @@
     "flag": "🇨🇫"
   },
   "CG": {
-    "name": "Republic of the Congo",
+    "name": "Congo",
+    "full_name": "Republic of the Congo",
     "capital": "Brazzaville",
     "iso_3166_2": "CG",
     "iso_3166_3": "COG",
@@ -650,7 +692,8 @@
     "flag": "🇨🇬"
   },
   "CH": {
-    "name": "Swiss Confederation",
+    "name": "Switzerland",
+    "full_name": "Swiss Confederation",
     "capital": "Bern",
     "iso_3166_2": "CH",
     "iso_3166_3": "CHE",
@@ -668,7 +711,8 @@
     "flag": "🇨🇭"
   },
   "CI": {
-    "name": "Republic of Côte d'Ivoire",
+    "name": "Côte d'Ivoire",
+    "full_name": "Republic of Côte d'Ivoire",
     "capital": "Yamoussoukro",
     "iso_3166_2": "CI",
     "iso_3166_3": "CIV",
@@ -684,6 +728,7 @@
   },
   "CK": {
     "name": "Cook Islands",
+    "full_name": "Cook Islands",
     "capital": "Avarua",
     "iso_3166_2": "CK",
     "iso_3166_3": "COK",
@@ -699,7 +744,8 @@
     "flag": "🇨🇰"
   },
   "CL": {
-    "name": "Republic of Chile",
+    "name": "Chile",
+    "full_name": "Republic of Chile",
     "capital": "Santiago",
     "iso_3166_2": "CL",
     "iso_3166_3": "CHL",
@@ -714,7 +760,8 @@
     "flag": "🇨🇱"
   },
   "CM": {
-    "name": "Republic of Cameroon",
+    "name": "Cameroon",
+    "full_name": "Republic of Cameroon",
     "capital": "Yaoundé",
     "iso_3166_2": "CM",
     "iso_3166_3": "CMR",
@@ -730,7 +777,8 @@
     "flag": "🇨🇲"
   },
   "CN": {
-    "name": "People's Republic of China",
+    "name": "China",
+    "full_name": "People's Republic of China",
     "capital": "Beijing",
     "iso_3166_2": "CN",
     "iso_3166_3": "CHN",
@@ -745,7 +793,8 @@
     "flag": "🇨🇳"
   },
   "CO": {
-    "name": "Republic of Colombia",
+    "name": "Colombia",
+    "full_name": "Republic of Colombia",
     "capital": "Bogotá",
     "iso_3166_2": "CO",
     "iso_3166_3": "COL",
@@ -760,7 +809,8 @@
     "flag": "🇨🇴"
   },
   "CR": {
-    "name": "Republic of Costa Rica",
+    "name": "Costa Rica",
+    "full_name": "Republic of Costa Rica",
     "capital": "San José",
     "iso_3166_2": "CR",
     "iso_3166_3": "CRI",
@@ -775,7 +825,8 @@
     "flag": "🇨🇷"
   },
   "CU": {
-    "name": "Republic of Cuba",
+    "name": "Cuba",
+    "full_name": "Republic of Cuba",
     "capital": "Havana",
     "iso_3166_2": "CU",
     "iso_3166_3": "CUB",
@@ -790,7 +841,8 @@
     "flag": "🇨🇺"
   },
   "CV": {
-    "name": "Republic of Cabo Verde",
+    "name": "Cape Verde",
+    "full_name": "Republic of Cabo Verde",
     "capital": "Praia",
     "iso_3166_2": "CV",
     "iso_3166_3": "CPV",
@@ -806,6 +858,7 @@
   },
   "CW": {
     "name": "Curaçao",
+    "full_name": "Curaçao",
     "capital": "Willemstad",
     "iso_3166_2": "CW",
     "iso_3166_3": "CUW",
@@ -822,7 +875,8 @@
     "flag": "🇨🇼"
   },
   "CX": {
-    "name": "Territory of Christmas Island",
+    "name": "Christmas Island",
+    "full_name": "Territory of Christmas Island",
     "capital": "Flying Fish Cove",
     "iso_3166_2": "CX",
     "iso_3166_3": "CXR",
@@ -837,7 +891,8 @@
     "flag": "🇨🇽"
   },
   "CY": {
-    "name": "Republic of Cyprus",
+    "name": "Cyprus",
+    "full_name": "Republic of Cyprus",
     "capital": "Nicosia",
     "iso_3166_2": "CY",
     "iso_3166_3": "CYP",
@@ -853,7 +908,8 @@
     "flag": "🇨🇾"
   },
   "CZ": {
-    "name": "Czech Republic",
+    "name": "Czechia",
+    "full_name": "Czech Republic",
     "capital": "Prague",
     "iso_3166_2": "CZ",
     "iso_3166_3": "CZE",
@@ -868,7 +924,8 @@
     "flag": "🇨🇿"
   },
   "DE": {
-    "name": "Federal Republic of Germany",
+    "name": "Germany",
+    "full_name": "Federal Republic of Germany",
     "capital": "Berlin",
     "iso_3166_2": "DE",
     "iso_3166_3": "DEU",
@@ -883,7 +940,8 @@
     "flag": "🇩🇪"
   },
   "DJ": {
-    "name": "Republic of Djibouti",
+    "name": "Djibouti",
+    "full_name": "Republic of Djibouti",
     "capital": "Djibouti City",
     "iso_3166_2": "DJ",
     "iso_3166_3": "DJI",
@@ -899,7 +957,8 @@
     "flag": "🇩🇯"
   },
   "DK": {
-    "name": "Kingdom of Denmark",
+    "name": "Denmark",
+    "full_name": "Kingdom of Denmark",
     "capital": "Copenhagen",
     "iso_3166_2": "DK",
     "iso_3166_3": "DNK",
@@ -914,7 +973,8 @@
     "flag": "🇩🇰"
   },
   "DM": {
-    "name": "Commonwealth of Dominica",
+    "name": "Dominica",
+    "full_name": "Commonwealth of Dominica",
     "capital": "Roseau",
     "iso_3166_2": "DM",
     "iso_3166_3": "DMA",
@@ -930,6 +990,7 @@
   },
   "DO": {
     "name": "Dominican Republic",
+    "full_name": "Dominican Republic",
     "capital": "Santo Domingo",
     "iso_3166_2": "DO",
     "iso_3166_3": "DOM",
@@ -944,7 +1005,8 @@
     "flag": "🇩🇴"
   },
   "DZ": {
-    "name": "People's Democratic Republic of Algeria",
+    "name": "Algeria",
+    "full_name": "People's Democratic Republic of Algeria",
     "capital": "Algiers",
     "iso_3166_2": "DZ",
     "iso_3166_3": "DZA",
@@ -960,7 +1022,8 @@
     "flag": "🇩🇿"
   },
   "EC": {
-    "name": "Republic of Ecuador",
+    "name": "Ecuador",
+    "full_name": "Republic of Ecuador",
     "capital": "Quito",
     "iso_3166_2": "EC",
     "iso_3166_3": "ECU",
@@ -975,7 +1038,8 @@
     "flag": "🇪🇨"
   },
   "EE": {
-    "name": "Republic of Estonia",
+    "name": "Estonia",
+    "full_name": "Republic of Estonia",
     "capital": "Tallinn",
     "iso_3166_2": "EE",
     "iso_3166_3": "EST",
@@ -990,7 +1054,8 @@
     "flag": "🇪🇪"
   },
   "EG": {
-    "name": "Arab Republic of Egypt",
+    "name": "Egypt",
+    "full_name": "Arab Republic of Egypt",
     "capital": "Cairo",
     "iso_3166_2": "EG",
     "iso_3166_3": "EGY",
@@ -1005,7 +1070,8 @@
     "flag": "🇪🇬"
   },
   "EH": {
-    "name": "Sahrawi Arab Democratic Republic",
+    "name": "Western Sahara",
+    "full_name": "Sahrawi Arab Democratic Republic",
     "capital": "El Aaiún",
     "iso_3166_2": "EH",
     "iso_3166_3": "ESH",
@@ -1021,7 +1087,8 @@
     "flag": "🇪🇭"
   },
   "ER": {
-    "name": "State of Eritrea",
+    "name": "Eritrea",
+    "full_name": "State of Eritrea",
     "capital": "Asmara",
     "iso_3166_2": "ER",
     "iso_3166_3": "ERI",
@@ -1038,7 +1105,8 @@
     "flag": "🇪🇷"
   },
   "ES": {
-    "name": "Kingdom of Spain",
+    "name": "Spain",
+    "full_name": "Kingdom of Spain",
     "capital": "Madrid",
     "iso_3166_2": "ES",
     "iso_3166_3": "ESP",
@@ -1057,7 +1125,8 @@
     "flag": "🇪🇸"
   },
   "ET": {
-    "name": "Federal Democratic Republic of Ethiopia",
+    "name": "Ethiopia",
+    "full_name": "Federal Democratic Republic of Ethiopia",
     "capital": "Addis Ababa",
     "iso_3166_2": "ET",
     "iso_3166_3": "ETH",
@@ -1074,7 +1143,8 @@
     "flag": "🇪🇹"
   },
   "FI": {
-    "name": "Republic of Finland",
+    "name": "Finland",
+    "full_name": "Republic of Finland",
     "capital": "Helsinki",
     "iso_3166_2": "FI",
     "iso_3166_3": "FIN",
@@ -1090,7 +1160,8 @@
     "flag": "🇫🇮"
   },
   "FJ": {
-    "name": "Republic of Fiji",
+    "name": "Fiji",
+    "full_name": "Republic of Fiji",
     "capital": "Suva",
     "iso_3166_2": "FJ",
     "iso_3166_3": "FJI",
@@ -1107,7 +1178,8 @@
     "flag": "🇫🇯"
   },
   "FK": {
-    "name": "Falkland Islands",
+    "name": "Falkland Islands (Malvinas)",
+    "full_name": "Falkland Islands",
     "capital": "Stanley",
     "iso_3166_2": "FK",
     "iso_3166_3": "FLK",
@@ -1122,7 +1194,8 @@
     "flag": "🇫🇰"
   },
   "FM": {
-    "name": "Federated States of Micronesia",
+    "name": "Micronesia, Federated States of",
+    "full_name": "Federated States of Micronesia",
     "capital": "Palikir",
     "iso_3166_2": "FM",
     "iso_3166_3": "FSM",
@@ -1142,6 +1215,7 @@
   },
   "FO": {
     "name": "Faroe Islands",
+    "full_name": "Faeroe Islands",
     "capital": "Tórshavn",
     "iso_3166_2": "FO",
     "iso_3166_3": "FRO",
@@ -1157,7 +1231,8 @@
     "flag": "🇫🇴"
   },
   "FR": {
-    "name": "French Republic",
+    "name": "France",
+    "full_name": "French Republic",
     "capital": "Paris",
     "iso_3166_2": "FR",
     "iso_3166_3": "FRA",
@@ -1172,7 +1247,8 @@
     "flag": "🇫🇷"
   },
   "GA": {
-    "name": "Gabonese Republic",
+    "name": "Gabon",
+    "full_name": "Gabonese Republic",
     "capital": "Libreville",
     "iso_3166_2": "GA",
     "iso_3166_3": "GAB",
@@ -1187,7 +1263,8 @@
     "flag": "🇬🇦"
   },
   "GB": {
-    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "name": "United Kingdom",
+    "full_name": "United Kingdom of Great Britain and Northern Ireland",
     "capital": "London",
     "iso_3166_2": "GB",
     "iso_3166_3": "GBR",
@@ -1203,6 +1280,7 @@
   },
   "GD": {
     "name": "Grenada",
+    "full_name": "Grenada",
     "capital": "St. George\\",
     "iso_3166_2": "GD",
     "iso_3166_3": "GRD",
@@ -1218,6 +1296,7 @@
   },
   "GE": {
     "name": "Georgia",
+    "full_name": "Georgia",
     "capital": "Tbilisi",
     "iso_3166_2": "GE",
     "iso_3166_3": "GEO",
@@ -1233,6 +1312,7 @@
   },
   "GF": {
     "name": "French Guiana",
+    "full_name": "French Guiana",
     "capital": "Cayenne",
     "iso_3166_2": "GF",
     "iso_3166_3": "GUF",
@@ -1247,7 +1327,8 @@
     "flag": "🇬🇫"
   },
   "GG": {
-    "name": "Bailiwick of Guernsey",
+    "name": "Guernsey",
+    "full_name": "Bailiwick of Guernsey",
     "capital": "St. Peter Port",
     "iso_3166_2": "GG",
     "iso_3166_3": "GGY",
@@ -1263,7 +1344,8 @@
     "flag": "🇬🇬"
   },
   "GH": {
-    "name": "Republic of Ghana",
+    "name": "Ghana",
+    "full_name": "Republic of Ghana",
     "capital": "Accra",
     "iso_3166_2": "GH",
     "iso_3166_3": "GHA",
@@ -1279,6 +1361,7 @@
   },
   "GI": {
     "name": "Gibraltar",
+    "full_name": "Gibraltar",
     "capital": "Gibraltar",
     "iso_3166_2": "GI",
     "iso_3166_3": "GIB",
@@ -1294,6 +1377,7 @@
   },
   "GL": {
     "name": "Greenland",
+    "full_name": "Greenland",
     "capital": "Nuuk",
     "iso_3166_2": "GL",
     "iso_3166_3": "GRL",
@@ -1309,7 +1393,8 @@
     "flag": "🇬🇱"
   },
   "GM": {
-    "name": "Republic of the Gambia",
+    "name": "Gambia",
+    "full_name": "Republic of the Gambia",
     "capital": "Banjul",
     "iso_3166_2": "GM",
     "iso_3166_3": "GMB",
@@ -1324,7 +1409,8 @@
     "flag": "🇬🇲"
   },
   "GN": {
-    "name": "Republic of Guinea",
+    "name": "Guinea",
+    "full_name": "Republic of Guinea",
     "capital": "Conakry",
     "iso_3166_2": "GN",
     "iso_3166_3": "GIN",
@@ -1340,6 +1426,7 @@
   },
   "GP": {
     "name": "Guadeloupe",
+    "full_name": "Guadeloupe",
     "capital": "Basse-Terre",
     "iso_3166_2": "GP",
     "iso_3166_3": "GLP",
@@ -1354,7 +1441,8 @@
     "flag": "🇬🇵"
   },
   "GQ": {
-    "name": "Republic of Equatorial Guinea",
+    "name": "Equatorial Guinea",
+    "full_name": "Republic of Equatorial Guinea",
     "capital": "Malabo",
     "iso_3166_2": "GQ",
     "iso_3166_3": "GNQ",
@@ -1371,7 +1459,8 @@
     "flag": "🇬🇶"
   },
   "GR": {
-    "name": "Hellenic Republic",
+    "name": "Greece",
+    "full_name": "Hellenic Republic",
     "capital": "Athens",
     "iso_3166_2": "GR",
     "iso_3166_3": "GRC",
@@ -1387,6 +1476,7 @@
   },
   "GS": {
     "name": "South Georgia and the South Sandwich Islands",
+    "full_name": "South Georgia and the South Sandwich Islands",
     "capital": "King Edward Point",
     "iso_3166_2": "GS",
     "iso_3166_3": "SGS",
@@ -1401,7 +1491,8 @@
     "flag": "🇬🇸"
   },
   "GT": {
-    "name": "Republic of Guatemala",
+    "name": "Guatemala",
+    "full_name": "Republic of Guatemala",
     "capital": "Guatemala City",
     "iso_3166_2": "GT",
     "iso_3166_3": "GTM",
@@ -1417,6 +1508,7 @@
   },
   "GU": {
     "name": "Guam",
+    "full_name": "Territory of Guam",
     "capital": "Hagåtña",
     "iso_3166_2": "GU",
     "iso_3166_3": "GUM",
@@ -1432,7 +1524,8 @@
     "flag": "🇬🇺"
   },
   "GW": {
-    "name": "Republic of Guinea-Bissau",
+    "name": "Guinea-Bissau",
+    "full_name": "Republic of Guinea-Bissau",
     "capital": "Bissau",
     "iso_3166_2": "GW",
     "iso_3166_3": "GNB",
@@ -1447,7 +1540,8 @@
     "flag": "🇬🇼"
   },
   "GY": {
-    "name": "Co-operative Republic of Guyana",
+    "name": "Guyana",
+    "full_name": "Co-operative Republic of Guyana",
     "capital": "Georgetown",
     "iso_3166_2": "GY",
     "iso_3166_3": "GUY",
@@ -1462,7 +1556,8 @@
     "flag": "🇬🇾"
   },
   "HK": {
-    "name": "Hong Kong Special Administrative Region of the People's Republic of China",
+    "name": "Hong Kong",
+    "full_name": "Hong Kong Special Administrative Region of the People's Republic of China",
     "iso_3166_2": "HK",
     "iso_3166_3": "HKG",
     "currency_code": "HKD",
@@ -1479,6 +1574,7 @@
   },
   "HM": {
     "name": "Heard Island and McDonald Islands",
+    "full_name": "Territory of Heard Island and McDonald Islands",
     "iso_3166_2": "HM",
     "iso_3166_3": "HMD",
     "currency_code": "AUD",
@@ -1493,7 +1589,8 @@
     "flag": "🇭🇲"
   },
   "HN": {
-    "name": "Republic of Honduras",
+    "name": "Honduras",
+    "full_name": "Republic of Honduras",
     "capital": "Tegucigalpa",
     "iso_3166_2": "HN",
     "iso_3166_3": "HND",
@@ -1508,7 +1605,8 @@
     "flag": "🇭🇳"
   },
   "HR": {
-    "name": "Republic of Croatia",
+    "name": "Croatia",
+    "full_name": "Republic of Croatia",
     "capital": "Zagreb",
     "iso_3166_2": "HR",
     "iso_3166_3": "HRV",
@@ -1523,7 +1621,8 @@
     "flag": "🇭🇷"
   },
   "HT": {
-    "name": "Republic of Haiti",
+    "name": "Haiti",
+    "full_name": "Republic of Haiti",
     "capital": "Port-au-Prince",
     "iso_3166_2": "HT",
     "iso_3166_3": "HTI",
@@ -1540,6 +1639,7 @@
   },
   "HU": {
     "name": "Hungary",
+    "full_name": "Republic of Hungary",
     "capital": "Budapest",
     "iso_3166_2": "HU",
     "iso_3166_3": "HUN",
@@ -1554,7 +1654,8 @@
     "flag": "🇭🇺"
   },
   "ID": {
-    "name": "Republic of Indonesia",
+    "name": "Indonesia",
+    "full_name": "Republic of Indonesia",
     "capital": "Jakarta",
     "iso_3166_2": "ID",
     "iso_3166_3": "IDN",
@@ -1569,7 +1670,8 @@
     "flag": "🇮🇩"
   },
   "IE": {
-    "name": "Republic of Ireland",
+    "name": "Ireland",
+    "full_name": "Republic of Ireland",
     "capital": "Dublin",
     "iso_3166_2": "IE",
     "iso_3166_3": "IRL",
@@ -1585,7 +1687,8 @@
     "flag": "🇮🇪"
   },
   "IL": {
-    "name": "State of Israel",
+    "name": "Israel",
+    "full_name": "State of Israel",
     "capital": "Jerusalem",
     "iso_3166_2": "IL",
     "iso_3166_3": "ISR",
@@ -1602,6 +1705,7 @@
   },
   "IM": {
     "name": "Isle of Man",
+    "full_name": "Isle of Man",
     "capital": "Douglas",
     "iso_3166_2": "IM",
     "iso_3166_3": "IMN",
@@ -1617,7 +1721,8 @@
     "flag": "🇮🇲"
   },
   "IN": {
-    "name": "Republic of India",
+    "name": "India",
+    "full_name": "Republic of India",
     "capital": "New Delhi",
     "iso_3166_2": "IN",
     "iso_3166_3": "IND",
@@ -1634,6 +1739,7 @@
   },
   "IO": {
     "name": "British Indian Ocean Territory",
+    "full_name": "British Indian Ocean Territory",
     "iso_3166_2": "IO",
     "iso_3166_3": "IOT",
     "currency_code": "USD",
@@ -1648,7 +1754,8 @@
     "flag": "🇮🇴"
   },
   "IQ": {
-    "name": "Republic of Iraq",
+    "name": "Iraq",
+    "full_name": "Republic of Iraq",
     "capital": "Baghdad",
     "iso_3166_2": "IQ",
     "iso_3166_3": "IRQ",
@@ -1664,7 +1771,8 @@
     "flag": "🇮🇶"
   },
   "IR": {
-    "name": "Islamic Republic of Iran",
+    "name": "Iran, Islamic Republic of",
+    "full_name": "Islamic Republic of Iran",
     "capital": "Tehran",
     "iso_3166_2": "IR",
     "iso_3166_3": "IRN",
@@ -1680,6 +1788,7 @@
   },
   "IS": {
     "name": "Iceland",
+    "full_name": "Republic of Iceland",
     "capital": "Reykjavík",
     "iso_3166_2": "IS",
     "iso_3166_3": "ISL",
@@ -1694,7 +1803,8 @@
     "flag": "🇮🇸"
   },
   "IT": {
-    "name": "Italian Republic",
+    "name": "Italy",
+    "full_name": "Italian Republic",
     "capital": "Rome",
     "iso_3166_2": "IT",
     "iso_3166_3": "ITA",
@@ -1709,7 +1819,8 @@
     "flag": "🇮🇹"
   },
   "JE": {
-    "name": "Bailiwick of Jersey",
+    "name": "Jersey",
+    "full_name": "Bailiwick of Jersey",
     "capital": "Saint Helier",
     "iso_3166_2": "JE",
     "iso_3166_3": "JEY",
@@ -1727,6 +1838,7 @@
   },
   "JM": {
     "name": "Jamaica",
+    "full_name": "Jamaica",
     "capital": "Kingston",
     "iso_3166_2": "JM",
     "iso_3166_3": "JAM",
@@ -1741,7 +1853,8 @@
     "flag": "🇯🇲"
   },
   "JO": {
-    "name": "Hashemite Kingdom of Jordan",
+    "name": "Jordan",
+    "full_name": "Hashemite Kingdom of Jordan",
     "capital": "Amman",
     "iso_3166_2": "JO",
     "iso_3166_3": "JOR",
@@ -1757,6 +1870,7 @@
   },
   "JP": {
     "name": "Japan",
+    "full_name": "Japan",
     "capital": "Tokyo",
     "iso_3166_2": "JP",
     "iso_3166_3": "JPN",
@@ -1771,7 +1885,8 @@
     "flag": "🇯🇵"
   },
   "KE": {
-    "name": "Republic of Kenya",
+    "name": "Kenya",
+    "full_name": "Republic of Kenya",
     "capital": "Nairobi",
     "iso_3166_2": "KE",
     "iso_3166_3": "KEN",
@@ -1787,7 +1902,8 @@
     "flag": "🇰🇪"
   },
   "KG": {
-    "name": "Kyrgyz Republic",
+    "name": "Kyrgyzstan",
+    "full_name": "Kyrgyz Republic",
     "capital": "Bishkek",
     "iso_3166_2": "KG",
     "iso_3166_3": "KGZ",
@@ -1803,7 +1919,8 @@
     "flag": "🇰🇬"
   },
   "KH": {
-    "name": "Kingdom of Cambodia",
+    "name": "Cambodia",
+    "full_name": "Kingdom of Cambodia",
     "capital": "Phnom Penh",
     "iso_3166_2": "KH",
     "iso_3166_3": "KHM",
@@ -1818,7 +1935,8 @@
     "flag": "🇰🇭"
   },
   "KI": {
-    "name": "Independent and Sovereign Republic of Kiribati",
+    "name": "Kiribati",
+    "full_name": "Independent and Sovereign Republic of Kiribati",
     "capital": "South Tarawa",
     "iso_3166_2": "KI",
     "iso_3166_3": "KIR",
@@ -1834,7 +1952,8 @@
     "flag": "🇰🇮"
   },
   "KM": {
-    "name": "Union of the Comoros",
+    "name": "Comoros",
+    "full_name": "Union of the Comoros",
     "capital": "Moroni",
     "iso_3166_2": "KM",
     "iso_3166_3": "COM",
@@ -1851,7 +1970,8 @@
     "flag": "🇰🇲"
   },
   "KN": {
-    "name": "Federation of Saint Christopher and Nevis",
+    "name": "Saint Kitts and Nevis",
+    "full_name": "Federation of Saint Christopher and Nevis",
     "capital": "Basseterre",
     "iso_3166_2": "KN",
     "iso_3166_3": "KNA",
@@ -1866,7 +1986,8 @@
     "flag": "🇰🇳"
   },
   "KP": {
-    "name": "Democratic People's Republic of Korea",
+    "name": "Korea, Democratic People's Republic of",
+    "full_name": "Democratic People's Republic of Korea",
     "capital": "Pyongyang",
     "iso_3166_2": "KP",
     "iso_3166_3": "PRK",
@@ -1881,7 +2002,8 @@
     "flag": "🇰🇵"
   },
   "KR": {
-    "name": "Republic of Korea",
+    "name": "Korea, Republic of",
+    "full_name": "Republic of Korea",
     "capital": "Seoul",
     "iso_3166_2": "KR",
     "iso_3166_3": "KOR",
@@ -1896,7 +2018,8 @@
     "flag": "🇰🇷"
   },
   "KW": {
-    "name": "State of Kuwait",
+    "name": "Kuwait",
+    "full_name": "State of Kuwait",
     "capital": "Kuwait City",
     "iso_3166_2": "KW",
     "iso_3166_3": "KWT",
@@ -1912,6 +2035,7 @@
   },
   "KY": {
     "name": "Cayman Islands",
+    "full_name": "Cayman Islands",
     "capital": "George Town",
     "iso_3166_2": "KY",
     "iso_3166_3": "CYM",
@@ -1926,7 +2050,8 @@
     "flag": "🇰🇾"
   },
   "KZ": {
-    "name": "Republic of Kazakhstan",
+    "name": "Kazakhstan",
+    "full_name": "Republic of Kazakhstan",
     "capital": "Astana",
     "iso_3166_2": "KZ",
     "iso_3166_3": "KAZ",
@@ -1943,6 +2068,7 @@
   },
   "LA": {
     "name": "Lao People's Democratic Republic",
+    "full_name": "Lao People's Democratic Republic",
     "capital": "Vientiane",
     "iso_3166_2": "LA",
     "iso_3166_3": "LAO",
@@ -1957,7 +2083,8 @@
     "flag": "🇱🇦"
   },
   "LB": {
-    "name": "Lebanese Republic",
+    "name": "Lebanon",
+    "full_name": "Lebanese Republic",
     "capital": "Beirut",
     "iso_3166_2": "LB",
     "iso_3166_3": "LBN",
@@ -1974,6 +2101,7 @@
   },
   "LC": {
     "name": "Saint Lucia",
+    "full_name": "Saint Lucia",
     "capital": "Castries",
     "iso_3166_2": "LC",
     "iso_3166_3": "LCA",
@@ -1988,7 +2116,8 @@
     "flag": "🇱🇨"
   },
   "LI": {
-    "name": "Principality of Liechtenstein",
+    "name": "Liechtenstein",
+    "full_name": "Principality of Liechtenstein",
     "capital": "Vaduz",
     "iso_3166_2": "LI",
     "iso_3166_3": "LIE",
@@ -2003,7 +2132,8 @@
     "flag": "🇱🇮"
   },
   "LK": {
-    "name": "Democratic Socialist Republic of Sri Lanka",
+    "name": "Sri Lanka",
+    "full_name": "Democratic Socialist Republic of Sri Lanka",
     "capital": "Sri Jayawardenepura Kotte",
     "iso_3166_2": "LK",
     "iso_3166_3": "LKA",
@@ -2019,7 +2149,8 @@
     "flag": "🇱🇰"
   },
   "LR": {
-    "name": "Republic of Liberia",
+    "name": "Liberia",
+    "full_name": "Republic of Liberia",
     "capital": "Monrovia",
     "iso_3166_2": "LR",
     "iso_3166_3": "LBR",
@@ -2034,7 +2165,8 @@
     "flag": "🇱🇷"
   },
   "LS": {
-    "name": "Kingdom of Lesotho",
+    "name": "Lesotho",
+    "full_name": "Kingdom of Lesotho",
     "capital": "Maseru",
     "iso_3166_2": "LS",
     "iso_3166_3": "LSO",
@@ -2050,7 +2182,8 @@
     "flag": "🇱🇸"
   },
   "LT": {
-    "name": "Republic of Lithuania",
+    "name": "Lithuania",
+    "full_name": "Republic of Lithuania",
     "capital": "Vilnius",
     "iso_3166_2": "LT",
     "iso_3166_3": "LTU",
@@ -2065,7 +2198,8 @@
     "flag": "🇱🇹"
   },
   "LU": {
-    "name": "Grand Duchy of Luxembourg",
+    "name": "Luxembourg",
+    "full_name": "Grand Duchy of Luxembourg",
     "capital": "Luxembourg City",
     "iso_3166_2": "LU",
     "iso_3166_3": "LUX",
@@ -2082,7 +2216,8 @@
     "flag": "🇱🇺"
   },
   "LV": {
-    "name": "Republic of Latvia",
+    "name": "Latvia",
+    "full_name": "Republic of Latvia",
     "capital": "Riga",
     "iso_3166_2": "LV",
     "iso_3166_3": "LVA",
@@ -2097,7 +2232,8 @@
     "flag": "🇱🇻"
   },
   "LY": {
-    "name": "State of Libya",
+    "name": "Libya",
+    "full_name": "State of Libya",
     "capital": "Tripoli",
     "iso_3166_2": "LY",
     "iso_3166_3": "LBY",
@@ -2112,7 +2248,8 @@
     "flag": "🇱🇾"
   },
   "MA": {
-    "name": "Kingdom of Morocco",
+    "name": "Morocco",
+    "full_name": "Kingdom of Morocco",
     "capital": "Rabat",
     "iso_3166_2": "MA",
     "iso_3166_3": "MAR",
@@ -2128,7 +2265,8 @@
     "flag": "🇲🇦"
   },
   "MC": {
-    "name": "Principality of Monaco",
+    "name": "Monaco",
+    "full_name": "Principality of Monaco",
     "capital": "Monaco",
     "iso_3166_2": "MC",
     "iso_3166_3": "MCO",
@@ -2143,7 +2281,8 @@
     "flag": "🇲🇨"
   },
   "MD": {
-    "name": "Republic of Moldova",
+    "name": "Moldova, Republic of",
+    "full_name": "Republic of Moldova",
     "capital": "Chișinău",
     "iso_3166_2": "MD",
     "iso_3166_3": "MDA",
@@ -2159,6 +2298,7 @@
   },
   "ME": {
     "name": "Montenegro",
+    "full_name": "Montenegro",
     "capital": "Podgorica",
     "iso_3166_2": "ME",
     "iso_3166_3": "MNE",
@@ -2177,7 +2317,8 @@
     "flag": "🇲🇪"
   },
   "MF": {
-    "name": "Saint Martin",
+    "name": "Saint Martin (French part)",
+    "full_name": "Saint Martin",
     "capital": "Marigot",
     "iso_3166_2": "MF",
     "iso_3166_3": "MAF",
@@ -2192,7 +2333,8 @@
     "flag": "🇲🇫"
   },
   "MG": {
-    "name": "Republic of Madagascar",
+    "name": "Madagascar",
+    "full_name": "Republic of Madagascar",
     "capital": "Antananarivo",
     "iso_3166_2": "MG",
     "iso_3166_3": "MDG",
@@ -2208,7 +2350,8 @@
     "flag": "🇲🇬"
   },
   "MH": {
-    "name": "Republic of the Marshall Islands",
+    "name": "Marshall Islands",
+    "full_name": "Republic of the Marshall Islands",
     "capital": "Majuro",
     "iso_3166_2": "MH",
     "iso_3166_3": "MHL",
@@ -2224,7 +2367,8 @@
     "flag": "🇲🇭"
   },
   "MK": {
-    "name": "Republic of Macedonia",
+    "name": "North Macedonia",
+    "full_name": "Republic of North Macedonia",
     "capital": "Skopje",
     "iso_3166_2": "MK",
     "iso_3166_3": "MKD",
@@ -2240,7 +2384,8 @@
     "flag": "🇲🇰"
   },
   "ML": {
-    "name": "Republic of Mali",
+    "name": "Mali",
+    "full_name": "Republic of Mali",
     "capital": "Bamako",
     "iso_3166_2": "ML",
     "iso_3166_3": "MLI",
@@ -2256,7 +2401,8 @@
     "flag": "🇲🇱"
   },
   "MM": {
-    "name": "Republic of the Union of Myanmar",
+    "name": "Myanmar",
+    "full_name": "Republic of the Union of Myanmar",
     "capital": "Naypyidaw",
     "iso_3166_2": "MM",
     "iso_3166_3": "MMR",
@@ -2272,6 +2418,7 @@
   },
   "MN": {
     "name": "Mongolia",
+    "full_name": "Mongolia",
     "capital": "Ulaanbaatar",
     "iso_3166_2": "MN",
     "iso_3166_3": "MNG",
@@ -2286,7 +2433,8 @@
     "flag": "🇲🇳"
   },
   "MO": {
-    "name": "Macao Special Administrative Region of the People's Republic of China",
+    "name": "Macao",
+    "full_name": "Macao Special Administrative Region of the People's Republic of China",
     "capital": "Macau",
     "iso_3166_2": "MO",
     "iso_3166_3": "MAC",
@@ -2302,7 +2450,8 @@
     "flag": "🇲🇴"
   },
   "MP": {
-    "name": "Commonwealth of the Northern Mariana Islands",
+    "name": "Northern Mariana Islands",
+    "full_name": "Commonwealth of the Northern Mariana Islands",
     "capital": "Saipan",
     "iso_3166_2": "MP",
     "iso_3166_3": "MNP",
@@ -2320,6 +2469,7 @@
   },
   "MQ": {
     "name": "Martinique",
+    "full_name": "Martinique",
     "capital": "Fort-de-France",
     "iso_3166_2": "MQ",
     "iso_3166_3": "MTQ",
@@ -2334,7 +2484,8 @@
     "flag": "🇲🇶"
   },
   "MR": {
-    "name": "Islamic Republic of Mauritania",
+    "name": "Mauritania",
+    "full_name": "Islamic Republic of Mauritania",
     "capital": "Nouakchott",
     "iso_3166_2": "MR",
     "iso_3166_3": "MRT",
@@ -2351,6 +2502,7 @@
   },
   "MS": {
     "name": "Montserrat",
+    "full_name": "Montserrat",
     "capital": "Plymouth (de jure), Brades (de facto)",
     "iso_3166_2": "MS",
     "iso_3166_3": "MSR",
@@ -2365,7 +2517,8 @@
     "flag": "🇲🇸"
   },
   "MT": {
-    "name": "Republic of Malta",
+    "name": "Malta",
+    "full_name": "Republic of Malta",
     "capital": "Valletta",
     "iso_3166_2": "MT",
     "iso_3166_3": "MLT",
@@ -2381,7 +2534,8 @@
     "flag": "🇲🇹"
   },
   "MU": {
-    "name": "Republic of Mauritius",
+    "name": "Mauritius",
+    "full_name": "Republic of Mauritius",
     "capital": "Port Louis",
     "iso_3166_2": "MU",
     "iso_3166_3": "MUS",
@@ -2398,7 +2552,8 @@
     "flag": "🇲🇺"
   },
   "MV": {
-    "name": "Republic of the Maldives",
+    "name": "Maldives",
+    "full_name": "Republic of the Maldives",
     "capital": "Malé",
     "iso_3166_2": "MV",
     "iso_3166_3": "MDV",
@@ -2413,7 +2568,8 @@
     "flag": "🇲🇻"
   },
   "MW": {
-    "name": "Republic of Malawi",
+    "name": "Malawi",
+    "full_name": "Republic of Malawi",
     "capital": "Lilongwe",
     "iso_3166_2": "MW",
     "iso_3166_3": "MWI",
@@ -2429,7 +2585,8 @@
     "flag": "🇲🇼"
   },
   "MX": {
-    "name": "United Mexican States",
+    "name": "Mexico",
+    "full_name": "United Mexican States",
     "capital": "Mexico City",
     "iso_3166_2": "MX",
     "iso_3166_3": "MEX",
@@ -2445,6 +2602,7 @@
   },
   "MY": {
     "name": "Malaysia",
+    "full_name": "Malaysia",
     "capital": "Kuala Lumpur",
     "iso_3166_2": "MY",
     "iso_3166_3": "MYS",
@@ -2459,7 +2617,8 @@
     "flag": "🇲🇾"
   },
   "MZ": {
-    "name": "Republic of Mozambique",
+    "name": "Mozambique",
+    "full_name": "Republic of Mozambique",
     "capital": "Maputo",
     "iso_3166_2": "MZ",
     "iso_3166_3": "MOZ",
@@ -2474,7 +2633,8 @@
     "flag": "🇲🇿"
   },
   "NA": {
-    "name": "Republic of Namibia",
+    "name": "Namibia",
+    "full_name": "Republic of Namibia",
     "capital": "Windhoek",
     "iso_3166_2": "NA",
     "iso_3166_3": "NAM",
@@ -2490,6 +2650,7 @@
   },
   "NC": {
     "name": "New Caledonia",
+    "full_name": "New Caledonia",
     "capital": "Nouméa",
     "iso_3166_2": "NC",
     "iso_3166_3": "NCL",
@@ -2504,7 +2665,8 @@
     "flag": "🇳🇨"
   },
   "NE": {
-    "name": "Republic of Niger",
+    "name": "Niger",
+    "full_name": "Republic of Niger",
     "capital": "Niamey",
     "iso_3166_2": "NE",
     "iso_3166_3": "NER",
@@ -2519,7 +2681,8 @@
     "flag": "🇳🇪"
   },
   "NF": {
-    "name": "Territory of Norfolk Island",
+    "name": "Norfolk Island",
+    "full_name": "Territory of Norfolk Island",
     "capital": "Kingston",
     "iso_3166_2": "NF",
     "iso_3166_3": "NFK",
@@ -2535,7 +2698,8 @@
     "flag": "🇳🇫"
   },
   "NG": {
-    "name": "Federal Republic of Nigeria",
+    "name": "Nigeria",
+    "full_name": "Federal Republic of Nigeria",
     "capital": "Abuja",
     "iso_3166_2": "NG",
     "iso_3166_3": "NGA",
@@ -2550,7 +2714,8 @@
     "flag": "🇳🇬"
   },
   "NI": {
-    "name": "Republic of Nicaragua",
+    "name": "Nicaragua",
+    "full_name": "Republic of Nicaragua",
     "capital": "Managua",
     "iso_3166_2": "NI",
     "iso_3166_3": "NIC",
@@ -2566,6 +2731,7 @@
   },
   "NL": {
     "name": "Netherlands",
+    "full_name": "Kingdom of the Netherlands",
     "capital": "Amsterdam",
     "iso_3166_2": "NL",
     "iso_3166_3": "NLD",
@@ -2580,7 +2746,8 @@
     "flag": "🇳🇱"
   },
   "NO": {
-    "name": "Kingdom of Norway",
+    "name": "Norway",
+    "full_name": "Kingdom of Norway",
     "capital": "Oslo",
     "iso_3166_2": "NO",
     "iso_3166_3": "NOR",
@@ -2597,7 +2764,8 @@
     "flag": "🇳🇴"
   },
   "NP": {
-    "name": "Federal Democratic Republic of Nepal",
+    "name": "Nepal",
+    "full_name": "Federal Democratic Republic of Nepal",
     "capital": "Kathmandu",
     "iso_3166_2": "NP",
     "iso_3166_3": "NPL",
@@ -2612,7 +2780,8 @@
     "flag": "🇳🇵"
   },
   "NR": {
-    "name": "Republic of Nauru",
+    "name": "Nauru",
+    "full_name": "Republic of Nauru",
     "capital": "No official capital, government offices in Yaren",
     "iso_3166_2": "NR",
     "iso_3166_3": "NRU",
@@ -2629,6 +2798,7 @@
   },
   "NU": {
     "name": "Niue",
+    "full_name": "Niue",
     "capital": "Alofi",
     "iso_3166_2": "NU",
     "iso_3166_3": "NIU",
@@ -2645,6 +2815,7 @@
   },
   "NZ": {
     "name": "New Zealand",
+    "full_name": "New Zealand",
     "capital": "Wellington",
     "iso_3166_2": "NZ",
     "iso_3166_3": "NZL",
@@ -2660,7 +2831,8 @@
     "flag": "🇳🇿"
   },
   "OM": {
-    "name": "Sultanate of Oman",
+    "name": "Oman",
+    "full_name": "Sultanate of Oman",
     "capital": "Muscat",
     "iso_3166_2": "OM",
     "iso_3166_3": "OMN",
@@ -2675,13 +2847,14 @@
     "flag": "🇴🇲"
   },
   "PA": {
-    "name": "Republic of Panama",
+    "name": "Panama",
+    "full_name": "Republic of Panama",
     "capital": "Panama City",
     "iso_3166_2": "PA",
     "iso_3166_3": "PAN",
     "currency_code": "PAB",
     "currency_name": "Panamanian balboa",
-    "currency_symbol": "B\/.",
+    "currency_symbol": "B/.",
     "calling_code": "507",
     "region": "americas",
     "languages": [
@@ -2690,13 +2863,14 @@
     "flag": "🇵🇦"
   },
   "PE": {
-    "name": "Republic of Peru",
+    "name": "Peru",
+    "full_name": "Republic of Peru",
     "capital": "Lima",
     "iso_3166_2": "PE",
     "iso_3166_3": "PER",
     "currency_code": "PEN",
     "currency_name": "Sol",
-    "currency_symbol": "S\/.",
+    "currency_symbol": "S/.",
     "calling_code": "51",
     "region": "americas",
     "languages": [
@@ -2708,6 +2882,7 @@
   },
   "PF": {
     "name": "French Polynesia",
+    "full_name": "French Polynesia",
     "capital": "Papeete",
     "iso_3166_2": "PF",
     "iso_3166_3": "PYF",
@@ -2723,7 +2898,8 @@
     "flag": "🇵🇫"
   },
   "PG": {
-    "name": "Independent State of Papua New Guinea",
+    "name": "Papua New Guinea",
+    "full_name": "Independent State of Papua New Guinea",
     "capital": "Port Moresby",
     "iso_3166_2": "PG",
     "iso_3166_3": "PNG",
@@ -2740,7 +2916,8 @@
     "flag": "🇵🇬"
   },
   "PH": {
-    "name": "Republic of the Philippines",
+    "name": "Philippines",
+    "full_name": "Republic of the Philippines",
     "capital": "Manila",
     "iso_3166_2": "PH",
     "iso_3166_3": "PHL",
@@ -2756,7 +2933,8 @@
     "flag": "🇵🇭"
   },
   "PK": {
-    "name": "Islamic Republic of Pakistan",
+    "name": "Pakistan",
+    "full_name": "Islamic Republic of Pakistan",
     "capital": "Islamabad",
     "iso_3166_2": "PK",
     "iso_3166_3": "PAK",
@@ -2772,7 +2950,8 @@
     "flag": "🇵🇰"
   },
   "PL": {
-    "name": "Republic of Poland",
+    "name": "Poland",
+    "full_name": "Republic of Poland",
     "capital": "Warsaw",
     "iso_3166_2": "PL",
     "iso_3166_3": "POL",
@@ -2788,6 +2967,7 @@
   },
   "PM": {
     "name": "Saint Pierre and Miquelon",
+    "full_name": "Territorial Collectivity of Saint Pierre and Miquelon",
     "capital": "Saint-Pierre",
     "iso_3166_2": "PM",
     "iso_3166_3": "SPM",
@@ -2802,7 +2982,8 @@
     "flag": "🇵🇲"
   },
   "PN": {
-    "name": "Pitcairn Group of Islands",
+    "name": "Pitcairn",
+    "full_name": "Pitcairn Group of Islands",
     "capital": "Adamstown",
     "iso_3166_2": "PN",
     "iso_3166_3": "PCN",
@@ -2818,7 +2999,8 @@
     "flag": "🇵🇳"
   },
   "PR": {
-    "name": "Commonwealth of Puerto Rico",
+    "name": "Puerto Rico",
+    "full_name": "Commonwealth of Puerto Rico",
     "capital": "San Juan",
     "iso_3166_2": "PR",
     "iso_3166_3": "PRI",
@@ -2834,7 +3016,8 @@
     "flag": "🇵🇷"
   },
   "PS": {
-    "name": "State of Palestine",
+    "name": "Palestine",
+    "full_name": "State of Palestine",
     "capital": "East Jerusalem",
     "iso_3166_2": "PS",
     "iso_3166_3": "PSE",
@@ -2849,7 +3032,8 @@
     "flag": "🇵🇸"
   },
   "PT": {
-    "name": "Portuguese Republic",
+    "name": "Portugal",
+    "full_name": "Portuguese Republic",
     "capital": "Lisbon",
     "iso_3166_2": "PT",
     "iso_3166_3": "PRT",
@@ -2864,7 +3048,8 @@
     "flag": "🇵🇹"
   },
   "PW": {
-    "name": "Republic of Palau",
+    "name": "Palau",
+    "full_name": "Republic of Palau",
     "capital": "Ngerulmud",
     "iso_3166_2": "PW",
     "iso_3166_3": "PLW",
@@ -2880,7 +3065,8 @@
     "flag": "🇵🇼"
   },
   "PY": {
-    "name": "Republic of Paraguay",
+    "name": "Paraguay",
+    "full_name": "Republic of Paraguay",
     "capital": "Asunción",
     "iso_3166_2": "PY",
     "iso_3166_3": "PRY",
@@ -2896,7 +3082,8 @@
     "flag": "🇵🇾"
   },
   "QA": {
-    "name": "State of Qatar",
+    "name": "Qatar",
+    "full_name": "State of Qatar",
     "capital": "Doha",
     "iso_3166_2": "QA",
     "iso_3166_3": "QAT",
@@ -2911,7 +3098,8 @@
     "flag": "🇶🇦"
   },
   "RE": {
-    "name": "Réunion Island",
+    "name": "Réunion",
+    "full_name": "Réunion Island",
     "capital": "Saint-Denis",
     "iso_3166_2": "RE",
     "iso_3166_3": "REU",
@@ -2927,6 +3115,7 @@
   },
   "RO": {
     "name": "Romania",
+    "full_name": "Romania",
     "capital": "Bucharest",
     "iso_3166_2": "RO",
     "iso_3166_3": "ROU",
@@ -2941,7 +3130,8 @@
     "flag": "🇷🇴"
   },
   "RS": {
-    "name": "Republic of Serbia",
+    "name": "Serbia",
+    "full_name": "Republic of Serbia",
     "capital": "Belgrade",
     "iso_3166_2": "RS",
     "iso_3166_3": "SRB",
@@ -2957,6 +3147,7 @@
   },
   "RU": {
     "name": "Russian Federation",
+    "full_name": "Russian Federation",
     "capital": "Moscow",
     "iso_3166_2": "RU",
     "iso_3166_3": "RUS",
@@ -2971,7 +3162,8 @@
     "flag": "🇷🇺"
   },
   "RW": {
-    "name": "Republic of Rwanda",
+    "name": "Rwanda",
+    "full_name": "Republic of Rwanda",
     "capital": "Kigali",
     "iso_3166_2": "RW",
     "iso_3166_3": "RWA",
@@ -2988,7 +3180,8 @@
     "flag": "🇷🇼"
   },
   "SA": {
-    "name": "Kingdom of Saudi Arabia",
+    "name": "Saudi Arabia",
+    "full_name": "Kingdom of Saudi Arabia",
     "capital": "Riyadh",
     "iso_3166_2": "SA",
     "iso_3166_3": "SAU",
@@ -3004,6 +3197,7 @@
   },
   "SB": {
     "name": "Solomon Islands",
+    "full_name": "Solomon Islands",
     "capital": "Honiara",
     "iso_3166_2": "SB",
     "iso_3166_3": "SLB",
@@ -3018,7 +3212,8 @@
     "flag": "🇸🇧"
   },
   "SC": {
-    "name": "Republic of Seychelles",
+    "name": "Seychelles",
+    "full_name": "Republic of Seychelles",
     "capital": "Victoria",
     "iso_3166_2": "SC",
     "iso_3166_3": "SYC",
@@ -3035,7 +3230,8 @@
     "flag": "🇸🇨"
   },
   "SD": {
-    "name": "Republic of the Sudan",
+    "name": "Sudan",
+    "full_name": "Republic of the Sudan",
     "capital": "Khartoum",
     "iso_3166_2": "SD",
     "iso_3166_3": "SDN",
@@ -3051,7 +3247,8 @@
     "flag": "🇸🇩"
   },
   "SE": {
-    "name": "Kingdom of Sweden",
+    "name": "Sweden",
+    "full_name": "Kingdom of Sweden",
     "capital": "Stockholm",
     "iso_3166_2": "SE",
     "iso_3166_3": "SWE",
@@ -3066,7 +3263,8 @@
     "flag": "🇸🇪"
   },
   "SG": {
-    "name": "Republic of Singapore",
+    "name": "Singapore",
+    "full_name": "Republic of Singapore",
     "capital": "Singapore",
     "iso_3166_2": "SG",
     "iso_3166_3": "SGP",
@@ -3085,6 +3283,7 @@
   },
   "SH": {
     "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "full_name": "Saint Helena, Ascension and Tristan da Cunha",
     "capital": "Jamestown",
     "iso_3166_2": "SH",
     "iso_3166_3": "SHN",
@@ -3099,7 +3298,8 @@
     "flag": "🇸🇭"
   },
   "SI": {
-    "name": "Republic of Slovenia",
+    "name": "Slovenia",
+    "full_name": "Republic of Slovenia",
     "capital": "Ljubljana",
     "iso_3166_2": "SI",
     "iso_3166_3": "SVN",
@@ -3114,7 +3314,8 @@
     "flag": "🇸🇮"
   },
   "SJ": {
-    "name": "Svalbard og Jan Mayen",
+    "name": "Svalbard and Jan Mayen",
+    "full_name": "Svalbard and Jan Mayen",
     "capital": "Longyearbyen",
     "iso_3166_2": "SJ",
     "iso_3166_3": "SJM",
@@ -3129,7 +3330,8 @@
     "flag": "🇸🇯"
   },
   "SK": {
-    "name": "Slovak Republic",
+    "name": "Slovakia",
+    "full_name": "Slovak Republic",
     "capital": "Bratislava",
     "iso_3166_2": "SK",
     "iso_3166_3": "SVK",
@@ -3144,7 +3346,8 @@
     "flag": "🇸🇰"
   },
   "SL": {
-    "name": "Republic of Sierra Leone",
+    "name": "Sierra Leone",
+    "full_name": "Republic of Sierra Leone",
     "capital": "Freetown",
     "iso_3166_2": "SL",
     "iso_3166_3": "SLE",
@@ -3159,7 +3362,8 @@
     "flag": "🇸🇱"
   },
   "SM": {
-    "name": "Most Serene Republic of San Marino",
+    "name": "San Marino",
+    "full_name": "Most Serene Republic of San Marino",
     "capital": "San Marino",
     "iso_3166_2": "SM",
     "iso_3166_3": "SMR",
@@ -3174,7 +3378,8 @@
     "flag": "🇸🇲"
   },
   "SN": {
-    "name": "Republic of Senegal",
+    "name": "Senegal",
+    "full_name": "Republic of Senegal",
     "capital": "Dakar",
     "iso_3166_2": "SN",
     "iso_3166_3": "SEN",
@@ -3189,7 +3394,8 @@
     "flag": "🇸🇳"
   },
   "SO": {
-    "name": "Federal Republic of Somalia",
+    "name": "Somalia",
+    "full_name": "Federal Republic of Somalia",
     "capital": "Mogadishu",
     "iso_3166_2": "SO",
     "iso_3166_3": "SOM",
@@ -3205,7 +3411,8 @@
     "flag": "🇸🇴"
   },
   "SR": {
-    "name": "Republic of Suriname",
+    "name": "Suriname",
+    "full_name": "Republic of Suriname",
     "capital": "Paramaribo",
     "iso_3166_2": "SR",
     "iso_3166_3": "SUR",
@@ -3220,7 +3427,8 @@
     "flag": "🇸🇷"
   },
   "SS": {
-    "name": "Republic of South Sudan",
+    "name": "South Sudan",
+    "full_name": "Republic of South Sudan",
     "capital": "Juba",
     "iso_3166_2": "SS",
     "iso_3166_3": "SSD",
@@ -3236,7 +3444,8 @@
     "flag": "🇸🇸"
   },
   "ST": {
-    "name": "Democratic Republic of São Tomé and Príncipe",
+    "name": "Sao Tome and Principe",
+    "full_name": "Democratic Republic of São Tomé and Príncipe",
     "capital": "São Tomé",
     "iso_3166_2": "ST",
     "iso_3166_3": "STP",
@@ -3251,7 +3460,8 @@
     "flag": "🇸🇹"
   },
   "SV": {
-    "name": "Republic of El Salvador",
+    "name": "El Salvador",
+    "full_name": "Republic of El Salvador",
     "capital": "San Salvador",
     "iso_3166_2": "SV",
     "iso_3166_3": "SLV",
@@ -3266,7 +3476,8 @@
     "flag": "🇸🇻"
   },
   "SX": {
-    "name": "Sint Maarten",
+    "name": "Sint Maarten (Dutch part)",
+    "full_name": "Sint Maarten",
     "capital": "Philipsburg",
     "iso_3166_2": "SX",
     "iso_3166_3": "SXM",
@@ -3283,6 +3494,7 @@
   },
   "SY": {
     "name": "Syrian Arab Republic",
+    "full_name": "Syrian Arab Republic",
     "capital": "Damascus",
     "iso_3166_2": "SY",
     "iso_3166_3": "SYR",
@@ -3297,7 +3509,8 @@
     "flag": "🇸🇾"
   },
   "SZ": {
-    "name": "Kingdom of Swaziland",
+    "name": "Eswatini",
+    "full_name": "Kingdom of Eswatini",
     "capital": "Mbabane",
     "iso_3166_2": "SZ",
     "iso_3166_3": "SWZ",
@@ -3314,6 +3527,7 @@
   },
   "TC": {
     "name": "Turks and Caicos Islands",
+    "full_name": "Turks and Caicos Islands",
     "capital": "Cockburn Town",
     "iso_3166_2": "TC",
     "iso_3166_3": "TCA",
@@ -3328,7 +3542,8 @@
     "flag": "🇹🇨"
   },
   "TD": {
-    "name": "Republic of Chad",
+    "name": "Chad",
+    "full_name": "Republic of Chad",
     "capital": "N\\",
     "iso_3166_2": "TD",
     "iso_3166_3": "TCD",
@@ -3344,7 +3559,8 @@
     "flag": "🇹🇩"
   },
   "TF": {
-    "name": "Territory of the French Southern and Antarctic Lands",
+    "name": "French Southern Territories",
+    "full_name": "Territory of the French Southern and Antarctic Lands",
     "capital": "Port-aux-Français",
     "iso_3166_2": "TF",
     "iso_3166_3": "ATF",
@@ -3359,7 +3575,8 @@
     "flag": "🇹🇫"
   },
   "TG": {
-    "name": "Togolese Republic",
+    "name": "Togo",
+    "full_name": "Togolese Republic",
     "capital": "Lomé",
     "iso_3166_2": "TG",
     "iso_3166_3": "TGO",
@@ -3374,7 +3591,8 @@
     "flag": "🇹🇬"
   },
   "TH": {
-    "name": "Kingdom of Thailand",
+    "name": "Thailand",
+    "full_name": "Kingdom of Thailand",
     "capital": "Bangkok",
     "iso_3166_2": "TH",
     "iso_3166_3": "THA",
@@ -3389,7 +3607,8 @@
     "flag": "🇹🇭"
   },
   "TJ": {
-    "name": "Republic of Tajikistan",
+    "name": "Tajikistan",
+    "full_name": "Republic of Tajikistan",
     "capital": "Dushanbe",
     "iso_3166_2": "TJ",
     "iso_3166_3": "TJK",
@@ -3405,6 +3624,7 @@
   },
   "TK": {
     "name": "Tokelau",
+    "full_name": "Tokelau",
     "iso_3166_2": "TK",
     "iso_3166_3": "TKL",
     "currency_code": "NZD",
@@ -3420,7 +3640,8 @@
     "flag": "🇹🇰"
   },
   "TL": {
-    "name": "Democratic Republic of Timor-Leste",
+    "name": "Timor-Leste",
+    "full_name": "Democratic Republic of Timor-Leste",
     "capital": "Dili",
     "iso_3166_2": "TL",
     "iso_3166_3": "TLS",
@@ -3437,6 +3658,7 @@
   },
   "TM": {
     "name": "Turkmenistan",
+    "full_name": "Turkmenistan",
     "capital": "Ashgabat",
     "iso_3166_2": "TM",
     "iso_3166_3": "TKM",
@@ -3451,7 +3673,8 @@
     "flag": "🇹🇲"
   },
   "TN": {
-    "name": "Tunisian Republic",
+    "name": "Tunisia",
+    "full_name": "Tunisian Republic",
     "capital": "Tunis",
     "iso_3166_2": "TN",
     "iso_3166_3": "TUN",
@@ -3466,7 +3689,8 @@
     "flag": "🇹🇳"
   },
   "TO": {
-    "name": "Kingdom of Tonga",
+    "name": "Tonga",
+    "full_name": "Kingdom of Tonga",
     "capital": "Nukuʻalofa",
     "iso_3166_2": "TO",
     "iso_3166_3": "TON",
@@ -3482,7 +3706,8 @@
     "flag": "🇹🇴"
   },
   "TR": {
-    "name": "Republic of Turkey",
+    "name": "Turkey",
+    "full_name": "Republic of Turkey",
     "capital": "Ankara",
     "iso_3166_2": "TR",
     "iso_3166_3": "TUR",
@@ -3497,7 +3722,8 @@
     "flag": "🇹🇷"
   },
   "TT": {
-    "name": "Republic of Trinidad and Tobago",
+    "name": "Trinidad and Tobago",
+    "full_name": "Republic of Trinidad and Tobago",
     "capital": "Port of Spain",
     "iso_3166_2": "TT",
     "iso_3166_3": "TTO",
@@ -3513,6 +3739,7 @@
   },
   "TV": {
     "name": "Tuvalu",
+    "full_name": "Tuvalu",
     "capital": "Funafuti",
     "iso_3166_2": "TV",
     "iso_3166_3": "TUV",
@@ -3528,7 +3755,8 @@
     "flag": "🇹🇻"
   },
   "TW": {
-    "name": "Republic of China (Taiwan)",
+    "name": "Taiwan, Province of China",
+    "full_name": "Republic of China (Taiwan)",
     "capital": "Taipei",
     "iso_3166_2": "TW",
     "iso_3166_3": "TWN",
@@ -3544,7 +3772,8 @@
     "flag": "🇹🇼"
   },
   "TZ": {
-    "name": "United Republic of Tanzania",
+    "name": "Tanzania, United Republic of",
+    "full_name": "United Republic of Tanzania",
     "capital": "Dodoma",
     "iso_3166_2": "TZ",
     "iso_3166_3": "TZA",
@@ -3561,6 +3790,7 @@
   },
   "UA": {
     "name": "Ukraine",
+    "full_name": "Ukraine",
     "capital": "Kyiv",
     "iso_3166_2": "UA",
     "iso_3166_3": "UKR",
@@ -3575,7 +3805,8 @@
     "flag": "🇺🇦"
   },
   "UG": {
-    "name": "Republic of Uganda",
+    "name": "Uganda",
+    "full_name": "Republic of Uganda",
     "capital": "Kampala",
     "iso_3166_2": "UG",
     "iso_3166_3": "UGA",
@@ -3592,6 +3823,7 @@
   },
   "UM": {
     "name": "United States Minor Outlying Islands",
+    "full_name": "United States Minor Outlying Islands",
     "iso_3166_2": "UM",
     "iso_3166_3": "UMI",
     "currency_code": "USD",
@@ -3606,7 +3838,8 @@
     "flag": "🇺🇲"
   },
   "US": {
-    "name": "United States of America",
+    "name": "United States",
+    "full_name": "United States of America",
     "capital": "Washington, D.C.",
     "iso_3166_2": "US",
     "iso_3166_3": "USA",
@@ -3621,7 +3854,8 @@
     "flag": "🇺🇸"
   },
   "UY": {
-    "name": "Oriental Republic of Uruguay",
+    "name": "Uruguay",
+    "full_name": "Oriental Republic of Uruguay",
     "capital": "Montevideo",
     "iso_3166_2": "UY",
     "iso_3166_3": "URY",
@@ -3636,7 +3870,8 @@
     "flag": "🇺🇾"
   },
   "UZ": {
-    "name": "Republic of Uzbekistan",
+    "name": "Uzbekistan",
+    "full_name": "Republic of Uzbekistan",
     "capital": "Tashkent",
     "iso_3166_2": "UZ",
     "iso_3166_3": "UZB",
@@ -3652,7 +3887,8 @@
     "flag": "🇺🇿"
   },
   "VA": {
-    "name": "Vatican City State",
+    "name": "Holy See (Vatican City State)",
+    "full_name": "Vatican City State",
     "capital": "Vatican City",
     "iso_3166_2": "VA",
     "iso_3166_3": "VAT",
@@ -3669,6 +3905,7 @@
   },
   "VC": {
     "name": "Saint Vincent and the Grenadines",
+    "full_name": "Saint Vincent and the Grenadines",
     "capital": "Kingstown",
     "iso_3166_2": "VC",
     "iso_3166_3": "VCT",
@@ -3683,7 +3920,8 @@
     "flag": "🇻🇨"
   },
   "VE": {
-    "name": "Bolivarian Republic of Venezuela",
+    "name": "Venezuela, Bolivarian Republic of",
+    "full_name": "Bolivarian Republic of Venezuela",
     "capital": "Caracas",
     "iso_3166_2": "VE",
     "iso_3166_3": "VEN",
@@ -3698,7 +3936,8 @@
     "flag": "🇻🇪"
   },
   "VG": {
-    "name": "Virgin Islands",
+    "name": "Virgin Islands, British",
+    "full_name": "Virgin Islands",
     "capital": "Road Town",
     "iso_3166_2": "VG",
     "iso_3166_3": "VGB",
@@ -3713,7 +3952,8 @@
     "flag": "🇻🇬"
   },
   "VI": {
-    "name": "Virgin Islands of the United States",
+    "name": "Virgin Islands, U.S.",
+    "full_name": "Virgin Islands of the United States",
     "capital": "Charlotte Amalie",
     "iso_3166_2": "VI",
     "iso_3166_3": "VIR",
@@ -3728,7 +3968,8 @@
     "flag": "🇻🇮"
   },
   "VN": {
-    "name": "Socialist Republic of Vietnam",
+    "name": "Viet Nam",
+    "full_name": "Socialist Republic of Vietnam",
     "capital": "Hanoi",
     "iso_3166_2": "VN",
     "iso_3166_3": "VNM",
@@ -3743,7 +3984,8 @@
     "flag": "🇻🇳"
   },
   "VU": {
-    "name": "Republic of Vanuatu",
+    "name": "Vanuatu",
+    "full_name": "Republic of Vanuatu",
     "capital": "Port Vila",
     "iso_3166_2": "VU",
     "iso_3166_3": "VUT",
@@ -3760,7 +4002,8 @@
     "flag": "🇻🇺"
   },
   "WF": {
-    "name": "Territory of the Wallis and Futuna Islands",
+    "name": "Wallis and Futuna",
+    "full_name": "Territory of the Wallis and Futuna Islands",
     "capital": "Mata-Utu",
     "iso_3166_2": "WF",
     "iso_3166_3": "WLF",
@@ -3775,7 +4018,8 @@
     "flag": "🇼🇫"
   },
   "WS": {
-    "name": "Independent State of Samoa",
+    "name": "Samoa",
+    "full_name": "Independent State of Samoa",
     "capital": "Apia",
     "iso_3166_2": "WS",
     "iso_3166_3": "WSM",
@@ -3791,7 +4035,8 @@
     "flag": "🇼🇸"
   },
   "YE": {
-    "name": "Republic of Yemen",
+    "name": "Yemen",
+    "full_name": "Republic of Yemen",
     "capital": "Sana\\",
     "iso_3166_2": "YE",
     "iso_3166_3": "YEM",
@@ -3806,7 +4051,8 @@
     "flag": "🇾🇪"
   },
   "YT": {
-    "name": "Department of Mayotte",
+    "name": "Mayotte",
+    "full_name": "Department of Mayotte",
     "capital": "Mamoudzou",
     "iso_3166_2": "YT",
     "iso_3166_3": "MYT",
@@ -3821,7 +4067,8 @@
     "flag": "🇾🇹"
   },
   "ZA": {
-    "name": "Republic of South Africa",
+    "name": "South Africa",
+    "full_name": "Republic of South Africa",
     "capital": "Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)",
     "iso_3166_2": "ZA",
     "iso_3166_3": "ZAF",
@@ -3846,7 +4093,8 @@
     "flag": "🇿🇦"
   },
   "ZM": {
-    "name": "Republic of Zambia",
+    "name": "Zambia",
+    "full_name": "Republic of Zambia",
     "capital": "Lusaka",
     "iso_3166_2": "ZM",
     "iso_3166_3": "ZMB",
@@ -3861,7 +4109,8 @@
     "flag": "🇿🇲"
   },
   "ZW": {
-    "name": "Republic of Zimbabwe",
+    "name": "Zimbabwe",
+    "full_name": "Republic of Zimbabwe",
     "capital": "Harare",
     "iso_3166_2": "ZW",
     "iso_3166_3": "ZWE",

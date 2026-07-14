@@ -69,7 +69,7 @@ return [
     |
     */
     'search' => [
-        'fields' => ['name', 'capital'], // Fields to search in
+        'fields' => ['name', 'full_name', 'capital'], // Fields to search in
         'case_sensitive' => false,
     ],
 ];

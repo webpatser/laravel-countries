@@ -13,6 +13,7 @@ class Country extends Model
     protected $fillable = [
         'iso_3166_2',
         'name',
+        'full_name',
         'capital',
         'iso_3166_3',
         'currency_code',
@@ -79,6 +80,7 @@ class Country extends Model
     {
         return $query->where(function ($q) use ($search) {
             $q->where('name', 'LIKE', "%{$search}%")
+              ->orWhere('full_name', 'LIKE', "%{$search}%")
               ->orWhere('capital', 'LIKE', "%{$search}%")
               ->orWhere('iso_3166_2', 'LIKE', "%{$search}%")
               ->orWhere('iso_3166_3', 'LIKE', "%{$search}%");
@@ -95,7 +97,7 @@ class Country extends Model
         return $query->whereNotNull('currency_code');
     }
 
-    public function getFullNameAttribute(): string
+    public function getNameWithFlagAttribute(): string
     {
         return $this->name . ($this->flag ? ' ' . $this->flag : '');
     }
@@ -153,7 +155,7 @@ class Country extends Model
     {
         return [
             'value' => $this->iso_3166_2,
-            'label' => $this->full_name,
+            'label' => $this->name_with_flag,
         ];
     }
 

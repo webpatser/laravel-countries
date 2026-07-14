@@ -22,6 +22,30 @@ it('can get a country by ISO 3166-2 code', function () {
         ->and($country['iso_3166_3'])->toBe('NLD');
 });
 
+it('returns the common name with the official name in full_name', function () {
+    $us = $this->countries->getOne('US');
+    $gr = $this->countries->getOne('GR');
+
+    expect($us['name'])->toBe('United States')
+        ->and($us['full_name'])->toBe('United States of America')
+        ->and($gr['name'])->toBe('Greece')
+        ->and($gr['full_name'])->toBe('Hellenic Republic');
+});
+
+it('has a name and full_name for every country', function () {
+    foreach ($this->countries->getList() as $country) {
+        expect($country['name'])->toBeString()->not->toBeEmpty()
+            ->and($country['full_name'])->toBeString()->not->toBeEmpty();
+    }
+});
+
+it('can search countries by their official full name', function () {
+    $results = $this->countries->search('Hellenic');
+
+    expect($results)->toBeArray()->toHaveCount(1);
+    expect(array_values($results)[0]['name'])->toBe('Greece');
+});
+
 it('returns null for invalid country code', function () {
     expect($this->countries->getOne('XX'))->toBeNull();
 });

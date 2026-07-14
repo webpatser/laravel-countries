@@ -28,6 +28,8 @@ use Webpatser\Countries\Countries;
 
 $countries = new Countries();
 $usa = $countries->getOne('US');
+// $usa['name']      => 'United States'
+// $usa['full_name'] => 'United States of America'
 $allCountries = $countries->getList();
 $euroCountries = $countries->getByCurrency('EUR');
 ```
@@ -35,6 +37,7 @@ $euroCountries = $countries->getByCurrency('EUR');
 ## Features
 
 - 🌍 All 249 countries with complete data
+- 🏷️ Common names (`name`) and official names (`full_name`)
 - 🏳️ Flag emojis for every country
 - 💰 Currency information and filtering
 - 🌏 Regional grouping and filtering

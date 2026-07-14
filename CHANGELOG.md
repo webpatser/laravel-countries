@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.2.0] - 2026-07-14
+
+### Fixed
+
+- **Common names restored** (#149): the v2 data refresh had replaced common country names with official long forms for 188 countries (`US` returned "United States of America", `GR` returned "Hellenic Republic"). The `name` field now holds the common name again ("United States", "Greece"), matching v1 behavior.
+- **Tests workflow in CI**: the Feature test suite directory was empty and untracked, causing Pest to exit with an error on every CI run. A Feature test suite now exists.
+
+### Added
+
+- **`full_name` field**: every country now carries its official name ("United States of America", "Hellenic Republic", "Kingdom of the Netherlands") alongside the common `name`. Available in the JSON data, the `Country` model, search, and `country_code_from_name()` lookups (both name variants resolve).
+- **Migration stub**: adds a nullable `full_name` column. Existing `data_source = database` installs need to add this column (or re-run `countries:install`) to get the new field.
+
+### Changed
+
+- **`Country::$full_name` accessor renamed**: the model accessor that appended the flag emoji to the name is now `$country->name_with_flag`; `$country->full_name` returns the official name from the data. `toSelectOption()` labels keep using name + flag and are unaffected.
+- README badge now lists Laravel 13 support (#150, thanks @MrYamous).
+
 ## [Unreleased] - 2024
 
 ### Major Update - Laravel 11/12 & PHP 8.2+ Compatibility
