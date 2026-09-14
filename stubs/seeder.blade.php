@@ -37,6 +37,7 @@ class CountriesSeeder extends Seeder
             DB::table(\Config::get('countries.table_name'))->insert([
                 'iso_3166_2' => $countryCode,
                 'name' => $country['name'],
+                'full_name' => $country['full_name'] ?? null,
                 'capital' => $country['capital'] ?? null,
                 'iso_3166_3' => $country['iso_3166_3'],
                 'currency_code' => $country['currency_code'] ?? null,

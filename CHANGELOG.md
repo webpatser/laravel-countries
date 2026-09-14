@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.2.1] - 2026-09-14
+
+### Fixed
+
+- **Seeder stub inserts full_name** (#151, thanks @laas-dt): the generated CountriesSeeder now writes the official name column added in 2.2.0 instead of leaving it NULL.
+
 ## [2.2.0] - 2026-07-14
 
 ### Fixed
